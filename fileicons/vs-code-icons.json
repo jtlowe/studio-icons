@@ -2,188 +2,191 @@
 	"iconDefinitions": {
 		// File types
 		"_file_json": {
-			"iconPath": "./icons/json.svg"
+			"iconPath": "./images/json.svg"
 		},
 		"_file_yaml": {
-			"iconPath": "./icons/yaml.svg"
+			"iconPath": "./images/yaml.svg"
 		},
 		"_file_html": {
-			"iconPath": "./icons/html.svg"
+			"iconPath": "./images/html.svg"
 		},
 		"_file_markdown": {
-			"iconPath": "./icons/markdown.svg"
+			"iconPath": "./images/markdown.svg"
 		},
 		"_file_css": {
-			"iconPath": "./icons/css.svg"
+			"iconPath": "./images/css.svg"
 		},
 		"_file_sass": {
-			"iconPath": "./icons/sass.svg"
+			"iconPath": "./images/sass.svg"
 		},
 		"_file_gradle": {
-			"iconPath": "./icons/gradle.svg"
+			"iconPath": "./images/gradle.svg"
 		},
 		"_file_git": {
-			"iconPath": "./icons/git.svg"
+			"iconPath": "./images/git.svg"
 		},
 		"_file_image": {
-			"iconPath": "./icons/image.svg"
+			"iconPath": "./images/image.svg"
 		},
 		"_file_xml": {
-			"iconPath": "./icons/xml.svg"
+			"iconPath": "./images/xml.svg"
 		},
 		"_file_js": {
-			"iconPath": "./icons/javascript.svg"
+			"iconPath": "./images/javascript.svg"
 		},
 		"_file_ts": {
-			"iconPath": "./icons/typescript.svg"
+			"iconPath": "./images/typescript.svg"
 		},
 		"_file_ts_def": {
-			"iconPath": "./icons/typescript-def.svg"
+			"iconPath": "./images/typescript-def.svg"
 		},
 		"_file_webpack": {
-			"iconPath": "./icons/webpack.svg"
+			"iconPath": "./images/webpack.svg"
 		},
 		"_file_ionic": {
-			"iconPath": "./icons/ionic.svg"
+			"iconPath": "./images/ionic.svg"
 		},
 		"_file_php": {
-			"iconPath": "./icons/php.svg"
+			"iconPath": "./images/php.svg"
 		},
 		"_file_table": {
-			"iconPath": "./icons/table.svg"
+			"iconPath": "./images/table.svg"
 		},
 		"_file_vs": {
-			"iconPath": "./icons/visualstudio.svg"
+			"iconPath": "./images/visualstudio.svg"
 		},
 		"_file_csharp": {
-			"iconPath": "./icons/csharp.svg"
+			"iconPath": "./images/csharp.svg"
 		},
 		"_file_zip": {
-			"iconPath": "./icons/zip.svg"
+			"iconPath": "./images/zip.svg"
 		},
 		"_file_exe": {
-			"iconPath": "./icons/exe.svg"
+			"iconPath": "./images/exe.svg"
 		},
 		"_file_java": {
-			"iconPath": "./icons/java.svg"
+			"iconPath": "./images/java.svg"
 		},
 		"_file_python": {
-			"iconPath": "./icons/python.svg"
+			"iconPath": "./images/python.svg"
 		},
 		"_file_c": {
-			"iconPath": "./icons/c-lang.svg"
+			"iconPath": "./images/c-lang.svg"
 		},
 		"_file_c++": {
-			"iconPath": "./icons/cpp.svg"
+			"iconPath": "./images/cpp.svg"
 		},
 		"_file_go": {
-			"iconPath": "./icons/go.svg"
+			"iconPath": "./images/go.svg"
 		},
 		"_file_pdf": {
-			"iconPath": "./icons/pdf.svg"
+			"iconPath": "./images/pdf.svg"
 		},
 		"_file_settings": {
-			"iconPath": "./icons/settings.svg"
+			"iconPath": "./images/settings.svg"
 		},
 		"_file_tune": {
-			"iconPath": "./icons/tune.svg"
+			"iconPath": "./images/tune.svg"
 		},
 		"_file_url": {
-			"iconPath": "./icons/url.svg"
+			"iconPath": "./images/url.svg"
 		},
 		"_file_gulp": {
-			"iconPath": "./icons/gulp.svg"
+			"iconPath": "./images/gulp.svg"
 		},
 		"_file_console": {
-			"iconPath": "./icons/console.svg"
+			"iconPath": "./images/console.svg"
 		},
 		"_file_word": {
-			"iconPath": "./icons/word.svg"
+			"iconPath": "./images/word.svg"
 		},
 		"_file_android": {
-			"iconPath": "./icons/android.svg"
+			"iconPath": "./images/android.svg"
 		},
 		"_file_database": {
-			"iconPath": "./icons/database.svg"
+			"iconPath": "./images/database.svg"
 		},
 		"_file_certificate": {
-			"iconPath": "./icons/certificate.svg"
+			"iconPath": "./images/certificate.svg"
 		},
 		"_file_key": {
-			"iconPath": "./icons/key.svg"
+			"iconPath": "./images/key.svg"
 		},
 		"_file_docker": {
-			"iconPath": "./icons/docker.svg"
+			"iconPath": "./images/docker.svg"
 		},
 		"_file_font": {
-			"iconPath": "./icons/font.svg"
+			"iconPath": "./images/font.svg"
 		},
 		"_file_lib": {
-			"iconPath": "./icons/lib.svg"
+			"iconPath": "./images/lib.svg"
 		},
 		"_file_jade": {
-			"iconPath": "./icons/jade.svg"
+			"iconPath": "./images/jade.svg"
 		},
 		"_file_ruby": {
-			"iconPath": "./icons/ruby.svg"
+			"iconPath": "./images/ruby.svg"
 		},
 		"_file_fsharp": {
-			"iconPath": "./icons/fsharp.svg"
+			"iconPath": "./images/fsharp.svg"
 		},
 		"_file_swift": {
-			"iconPath": "./icons/swift.svg"
+			"iconPath": "./images/swift.svg"
 		},
 		"_file_tex": {
-			"iconPath": "./icons/tex.svg"
+			"iconPath": "./images/tex.svg"
 		},
 		"_file_powerpoint": {
-			"iconPath": "./icons/powerpoint.svg"
+			"iconPath": "./images/powerpoint.svg"
 		},
 		"_file_movie": {
-			"iconPath": "./icons/movie.svg"
+			"iconPath": "./images/movie.svg"
 		},
 		"_file_virtual": {
-			"iconPath": "./icons/virtual.svg"
+			"iconPath": "./images/virtual.svg"
 		},
 		"_file_email": {
-			"iconPath": "./icons/email.svg"
+			"iconPath": "./images/email.svg"
 		},
 		"_file_music": {
-			"iconPath": "./icons/music.svg"
+			"iconPath": "./images/music.svg"
 		},
 		"_file_coffee": {
-			"iconPath": "./icons/coffee.svg"
+			"iconPath": "./images/coffee.svg"
 		},
 		"_file_document": {
-			"iconPath": "./icons/document.svg"
+			"iconPath": "./images/document_16x.svg"
+		},
+		"_file_document_dark": {
+			"iconPath": "./images/document_16x_inverse.svg"
 		},
 		"_file_nodejs": {
-			"iconPath": "./icons/nodejs.svg"
+			"iconPath": "./images/nodejs.svg"
 		},
 		"_file_light": {
-			"iconPath": "./icons/file.svg"
+			"iconPath": "./images/document_16x.svg"
 		},
 		"_file_dark": {
-			"iconPath": "./icons/file.svg"
+			"iconPath": "./images/document_16x_inverse.svg"
 		},
 		"_file_yarn": {
-			"iconPath": "./icons/yarn.svg"
+			"iconPath": "./images/yarn.svg"
 		},
 		"_file_readme": {
-			"iconPath": "./icons/readme.svg"
+			"iconPath": "./images/readme.svg"
 		},
 		// Folders
 		"_folder_dark": {
-			"iconPath": "./icons/folder.svg"
+			"iconPath": "./images/folder_16x_inverse.svg"
 		},
 		"_folder_open_dark": {
-			"iconPath": "./icons/folder-outline.svg"
+			"iconPath": "./images/folderopen_16x_inverse.svg"
 		},
 		"_folder_light": {
-			"iconPath": "./icons/folder.svg"
+			"iconPath": "./images/folder_16x.svg"
 		},
 		"_folder_open_light": {
-			"iconPath": "./icons/folder-outline.svg"
+			"iconPath": "./images/folderopen_16x.svg"
 		}
 	},
 	"folderExpanded": "_folder_open_dark",
@@ -430,5 +433,10 @@
 	},
 	"languageIds": {
 		// icons by language id
+	},
+	"light": {
+		"folderExpanded": "_folder_open_light",
+		"folder": "_folder_light",
+		"file": "_file_light"
 	}
 }

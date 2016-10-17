@@ -1,0 +1,16 @@
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+*.DS_Store
+._*
+logs
+*.log
+npm-debug.log*
+/node_modules/
+.npm
+.node_repl_history
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/

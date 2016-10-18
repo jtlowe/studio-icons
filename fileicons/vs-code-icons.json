@@ -269,7 +269,7 @@
 			"iconPath": "./images/NodeJS_16x.svg"
 		},
 		"_file_nodejs_dark": {
-			"iconPath": "./images/noNodeJS_16x_inversedejs.svg"
+			"iconPath": "./images/NodeJS_16x_inverse.svg"
 		},
 		"_file_light": {
 			"iconPath": "./images/document_16x.svg"
@@ -508,19 +508,19 @@
 		// "ionic.config.json": "_file_ionic_dark",
 		// ".io-config.json": "_file_ionic_dark",
 		// "gulpfile.js": "_file_gulp_dark",
-		"package.json": "_file_nodejs",
+		"package.json": "_file_nodejs_dark",
 		// "gradle.properties": "_file_gradle_dark",
 		// "gradlew": "_file_gradle_dark",
 		".jscsrc": "_file_json_dark",
 		".jshintrc": "_file_json_dark",
-		".jshintignore": "_file_settings",
-		".npmignore": "_file_nodejs",
-		"tsconfig.json": "_file_ts",
-		"tslint.json": "_file_ts",
+		".jshintignore": "_file_settings_dark",
+		".npmignore": "_file_nodejs_dark",
+		"tsconfig.json": "_file_ts_dark",
+		"tslint.json": "_file_ts_dark",
 		// "androidmanifest.xml": "_file_android_dark",
 		// "gradle-wrapper.properties": "_file_gradle_dark",
-		".editorconfig": "_file_settings",
-		"procfile": "_file_settings",
+		".editorconfig": "_file_settings_dark",
+		"procfile": "_file_settings_dark",
 		// ".env": "_file_tune_dark",
 		// "dockerfile": "_file_docker_dark",
 		"license": "_file_certificate_dark",

@@ -211,9 +211,12 @@
 		// "_file_jade": {
 		// 	"iconPath": "./images/jade.svg"
 		// },
-		// "_file_ruby": {
-		// 	"iconPath": "./images/ruby.svg"
-		// },
+		"_file_ruby": {
+			"iconPath": "./images/RB_FileSENode_16x.svg"
+		},
+		"_file_ruby_dark": {
+			"iconPath": "./images/RB_FileSENode_16x_inverse.svg"
+		},		
 		"_file_fsharp": {
 			"iconPath": "./images/FS_16x.svg"
 		},
@@ -437,7 +440,7 @@
 		"ntf": "_file_font_dark",
 		"mrf": "_file_font_dark",
 		"lib": "_file_lib_dark",
-		// "rb": "_file_ruby_dark",
+		"rb": "_file_ruby_dark",
 		"fs": "_file_fsharp_dark",
 		"fsproj": "_file_fsharp_dark",
 		"manifest": "_file_xml_dark",
@@ -678,7 +681,7 @@
 			"ntf": "_file_font",
 			"mrf": "_file_font",
 			"lib": "_file_lib",
-			// "rb": "_file_ruby",
+			"rb": "_file_ruby",
 			"fs": "_file_fsharp",
 			"fsproj": "_file_fsharp",
 			"manifest": "_file_xml",

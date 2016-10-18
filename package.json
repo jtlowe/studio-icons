@@ -1,7 +1,7 @@
 {
-  "name": "vs-code-icons",
-  "displayName": "Visual Studio Icons",
-  "description": "Visual Studio Icons",
+  "name": "vscode-icon-theme",
+  "displayName": "VS Code Icon Theme",
+  "description": "Icon theme featuring official Visual Studio icons from the Visual Studio 2015 Image Library icons.",
   "version": "1.0.0",
   "publisher": "Jordan Lowe",
   "engines": {
@@ -13,9 +13,9 @@
   "contributes": {
     "iconThemes": [
       {
-        "id": "vs-code-icons",
+        "id": "vscode-icon-theme",
         "label": "VS Code Icon Theme",
-        "path": "./fileicons/vs-code-icons.json"
+        "path": "./fileicons/vscode-icon-theme.json"
       }
     ]
   },
@@ -25,15 +25,15 @@
     "icon-theme",
     "customization"
   ],
-  "homepage": "https://github.com/jtlowe/vs-code-icons/blob/master/README.md",
+  "homepage": "https://github.com/jtlowe/vscode-icon-theme/blob/master/README.md",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jtlowe/vs-code-icons.git"
+    "url": "https://github.com/jtlowe/vscode-icon-theme.git"
   },
   "bugs": {
-    "url": "https://github.com/jtlowe/vs-code-icons/issues"
+    "url": "https://github.com/jtlowe/vscode-icon-theme/issues"
   },
-  "icon": "images/material-icon-theme_icon.png",
+  "icon": "images/vscode-icon-theme_icon.png",
   "galleryBanner": {
     "color": "#e0e0e0",
     "theme": "light"

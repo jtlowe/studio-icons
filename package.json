@@ -1,41 +1,44 @@
 {
-    "name": "vs-code-icons",
-    "displayName": "Visual Studio Icons",
-    "description": "Visual Studio Icons",
-    "version": "1.0.0",
-    "publisher": "Jordan Lowe",
-    "engines": {
-        "vscode": "^1.5.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "iconThemes": [
-            {
-                "id": "vs-code-icons",
-                "label": "VS Code Icon Theme",
-                "path": "./fileicons/vs-code-icons.json"
-            }
-        ]
-    },
-    "keywords": [
-        "icons",
-        "theme",
-        "icon-theme",
-        "customization"
-    ],
-    "homepage": "https://github.com/jtlowe/vs-code-icons/blob/master/README.md",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/jtlowe/vs-code-icons.git"
-    },
-    "bugs": {
-        "url": "https://github.com/jtlowe/vs-code-icons/issues"
-    },
-    "icon": "images/material-icon-theme_icon.png",
-    "galleryBanner": {
-        "color": "#e0e0e0",
-        "theme": "light"
-    }
+  "name": "vs-code-icons",
+  "displayName": "Visual Studio Icons",
+  "description": "Visual Studio Icons",
+  "version": "1.0.0",
+  "publisher": "Jordan Lowe",
+  "engines": {
+    "vscode": "^1.5.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "iconThemes": [
+      {
+        "id": "vs-code-icons",
+        "label": "VS Code Icon Theme",
+        "path": "./fileicons/vs-code-icons.json"
+      }
+    ]
+  },
+  "keywords": [
+    "icons",
+    "theme",
+    "icon-theme",
+    "customization"
+  ],
+  "homepage": "https://github.com/jtlowe/vs-code-icons/blob/master/README.md",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jtlowe/vs-code-icons.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jtlowe/vs-code-icons/issues"
+  },
+  "icon": "images/material-icon-theme_icon.png",
+  "galleryBanner": {
+    "color": "#e0e0e0",
+    "theme": "light"
+  },
+  "dependencies": {
+    "gulp": "^3.9.1"
+  }
 }

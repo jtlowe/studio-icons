@@ -530,10 +530,12 @@
 		".babelrc": "_file_json_dark",
 		".buildignore": "_file_settings_dark",
 		".htaccess": "_file_xml_dark",
-		"composer.lock": "_file_json_dark"
+		"composer.lock": "_file_json_dark",
 		// "yarn.lock": "_file_yarn_dark",
-		// "readme.md": "_file_readme_dark",
-		// "readme.md.rendered": "_file_readme_dark"
+		"readme": "_file_text_dark",
+		"readme.md": "_file_text_dark",
+		"readme.md.rendered": "_file_text_dark",
+		"readme.markdown": "_file_text_dark"
 	},
 	"folderNames": {
 		// folder names here
@@ -773,7 +775,8 @@
 			// "yarn.lock": "_file_yarn",
 			"readme": "_file_text",
 			"readme.md": "_file_text",
-			"readme.md.rendered": "_file_text"
+			"readme.md.rendered": "_file_text",
+			"readme.markdown": "_file_text"
 		}
 	}
 }

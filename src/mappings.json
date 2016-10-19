@@ -1,0 +1,34 @@
+{
+    "settings": {
+        "iconSrcPath": "./src/svg/",
+        "iconDestPath": "./fileicons/images/",
+        "iconRelPath": "./images/",
+        "iconFileExtension": ".svg",
+        "darkTheme": {
+            "postfix": "_inverse",
+            "folderExpanded": "FolderOpen_16x_inverse.svg",
+            "folder": "Folder_16x_inverse.svg",
+            "file": "Document_16x_inverse.svg"
+        },
+        "lightTheme": {
+            "postfix": "",
+            "folderExpanded": "FolderOpen_16x.svg",
+            "folder": "Folder_16x.svg",
+            "file": "Document_16x.svg"
+        }
+    },
+    "iconDefinitions": [
+        {
+            "icon": "ZipFile_16x.svg", 
+            "fileExtensions": ["zip","tar","gz","xz","bzip2","7z","rar","tgz"],
+            "fileNames": [],
+            "folderNames": [],
+            "languageIds": []
+        },
+        {
+            "icon": "JSONScript_16x.svg",
+            "fileExtensions": ["json","graphql"],
+            "fileNames": [".jscsrc",".jshintrc",".babelrc","composer.lock"]
+        }
+    ]
+}

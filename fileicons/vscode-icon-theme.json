@@ -208,15 +208,18 @@
 		"_file_lib_dark": {
 			"iconPath": "./images/Library_16x_inverse.svg"
 		},
-		// "_file_jade": {
-		// 	"iconPath": "./images/jade.svg"
-		// },
+		"_file_jade": {
+			"iconPath": "./images/JADEScript_16x.svg"
+		},
+		"_file_jade_dark": {
+			"iconPath": "./images/JADEScript_16x_inverse.svg"
+		},
 		"_file_ruby": {
 			"iconPath": "./images/RB_FileSENode_16x.svg"
 		},
 		"_file_ruby_dark": {
 			"iconPath": "./images/RB_FileSENode_16x_inverse.svg"
-		},		
+		},
 		"_file_fsharp": {
 			"iconPath": "./images/FS_16x.svg"
 		},

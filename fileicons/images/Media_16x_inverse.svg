@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
-<!-- Generator: Adobe Illustrator 19.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!-- Generator: Adobe Illustrator 20.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve">
 <g id="outline">
-	<rect style="opacity:0;fill:#F6F6F6;" width="16" height="16"/>
+	<rect style="opacity:0;fill:#252526;" width="16" height="16"/>
 	<rect x="1" style="fill:#252526;" width="14" height="15"/>
 </g>
 <g id="icon_x5F_bg">
@@ -15,5 +15,34 @@
 	</g>
 </g>
 <g id="icon_x5F_fg">
+	<g>
+		<rect x="3" y="4" style="fill:none;" width="1" height="1"/>
+		<path style="fill:none;" d="M5,13h6V2H5V13z M7,5l3,2.5L7,10V5z"/>
+		<rect x="3" y="6" style="fill:none;" width="1" height="1"/>
+		<rect x="3" y="8" style="fill:none;" width="1" height="1"/>
+		<rect x="3" y="12" style="fill:none;" width="1" height="1"/>
+		<rect x="12" y="12" style="fill:none;" width="1" height="1"/>
+		<rect x="3" y="10" style="fill:none;" width="1" height="1"/>
+		<rect x="3" y="2" style="fill:none;" width="1" height="1"/>
+		<rect x="12" y="4" style="fill:none;" width="1" height="1"/>
+		<rect x="12" y="10" style="fill:none;" width="1" height="1"/>
+		<rect x="12" y="2" style="fill:none;" width="1" height="1"/>
+		<rect x="12" y="6" style="fill:none;" width="1" height="1"/>
+		<rect x="12" y="8" style="fill:none;" width="1" height="1"/>
+		<polygon style="fill:none;" points="7,5 7,10 10,7.5 		"/>
+		<rect x="3" y="4" style="fill:#252526;" width="1" height="1"/>
+		<rect x="3" y="2" style="fill:#252526;" width="1" height="1"/>
+		<rect x="3" y="12" style="fill:#252526;" width="1" height="1"/>
+		<rect x="3" y="10" style="fill:#252526;" width="1" height="1"/>
+		<rect x="3" y="6" style="fill:#252526;" width="1" height="1"/>
+		<rect x="3" y="8" style="fill:#252526;" width="1" height="1"/>
+		<path style="fill:#252526;" d="M5,13h6V2H5V13z M7,5l3,2.5L7,10V5z"/>
+		<rect x="12" y="12" style="fill:#252526;" width="1" height="1"/>
+		<rect x="12" y="2" style="fill:#252526;" width="1" height="1"/>
+		<rect x="12" y="6" style="fill:#252526;" width="1" height="1"/>
+		<rect x="12" y="4" style="fill:#252526;" width="1" height="1"/>
+		<rect x="12" y="10" style="fill:#252526;" width="1" height="1"/>
+		<rect x="12" y="8" style="fill:#252526;" width="1" height="1"/>
+	</g>
 </g>
 </svg>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 20.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve">
+<g id="outline">
+	<rect style="opacity:0;fill:#F6F6F6;" width="16" height="16"/>
+	<path style="fill:#F6F6F6;" d="M15,3h-3.539l-0.887,1.767L9.695,3H5.289l0.016,0.028C5.105,3.01,4.895,3,4.668,3H1v9h3.704V9.585
+		c1.058-0.03,1.94-0.321,2.625-0.865c0.3-0.239,0.528-0.522,0.718-0.825l0.512,0.908V12h3.816V8.78L15,4.271V3z"/>
+</g>
+<g id="color_x5F_importance">
+	<g>
+		<path style="fill:#879636;" d="M4.668,4H2v7h1.704V8.588h0.812c0.914,0,1.645-0.217,2.191-0.651
+			c0.547-0.435,0.82-1.003,0.82-1.706C7.527,4.744,6.574,4,4.668,4z M4.373,7.392H3.704V5.211h0.669c0.908,0,1.361,0.36,1.361,1.079
+			C5.734,7.025,5.281,7.392,4.373,7.392z"/>
+		<path style="fill:#879636;" d="M12.078,4l-1.321,2.631c-0.067,0.135-0.126,0.317-0.175,0.553H10.56
+			c-0.101-0.333-0.163-0.522-0.187-0.572L9.076,4H7l2.559,4.54V11h1.816V8.511L14,4H12.078z"/>
+	</g>
+</g>
+</svg>

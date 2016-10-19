@@ -41,7 +41,6 @@
   "dependencies": {
     "gulp": "^3.9.1",
     "gulp-rename": "^1.2.2",
-    "gulp-replace": "^0.5.4",
-    "pdfjs-dist": "^1.6.258"
+    "gulp-replace": "^0.5.4"
   }
 }

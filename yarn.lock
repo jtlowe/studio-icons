@@ -823,10 +823,6 @@ natives@^1.1.0:
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/natives/-/natives-1.1.0.tgz#e9ff841418a6b2ec7a495e939984f78f163e6e31"
 
-node-ensure@^0.0.0:
-  version "0.0.0"
-  resolved "https://registry.yarnpkg.com/node-ensure/-/node-ensure-0.0.0.tgz#ecae764150de99861ec5c810fd5d096b183932a7"
-
 normalize-package-data@^2.3.2, normalize-package-data@^2.3.4:
   version "2.3.5"
   resolved "https://registry.yarnpkg.com/normalize-package-data/-/normalize-package-data-2.3.5.tgz#8d924f142960e1777e7ffe170543631cc7cb02df"
@@ -944,12 +940,6 @@ path-type@^1.0.0:
     graceful-fs "^4.1.2"
     pify "^2.0.0"
     pinkie-promise "^2.0.0"
-
-pdfjs-dist:
-  version "1.6.258"
-  resolved "https://registry.yarnpkg.com/pdfjs-dist/-/pdfjs-dist-1.6.258.tgz#225fa5e879018f3c6a3f53358176aff0e0ae88e4"
-  dependencies:
-    node-ensure "^0.0.0"
 
 pify@^2.0.0:
   version "2.3.0"

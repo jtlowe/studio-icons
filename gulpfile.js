@@ -56,7 +56,6 @@ gulp.task('mappings', function () {
 
     fs.writeFile(savePath + 'vscode-icon-theme.json', JSON.stringify(themeSettings), function (err) {
         if (err) return console.log(err);
-        console.log("file saved");
     });
 
     createTestFiles();
@@ -104,7 +103,6 @@ function createDarkThemeObj() {
 
     for (var i = 0; i < mappings.iconDefinitions.length; i++) {
         var icon = mappings.iconDefinitions[i];
-        console.log(icon.iconFile)
 
         for (var j = 0; j < icon.fileExtensions.length; j++) {
             var extension = icon.fileExtensions[j];
@@ -152,20 +150,34 @@ function createLightThemeObj() {
 
 function createTestFiles() {
     var extensionsPath = './test/extensions/';
+    var fileNamesPath = './test/filenames/';
 
     if (!fs.existsSync(extensionsPath)) {
         fs.mkdirSync(extensionsPath);
     }
 
+    if (!fs.existsSync(fileNamesPath)) {
+        fs.mkdirSync(fileNamesPath);
+    }
+
     for (var i = 0; i < mappings.iconDefinitions.length; i++) {
         var icon = mappings.iconDefinitions[i];
 
+        // extensions
         for (var j = 0; j < icon.fileExtensions.length; j++) {
             var extension = icon.fileExtensions[j];
 
             fs.writeFile(extensionsPath + extension + '.' + extension, "", function (err) {
                 if (err) return console.log(err);
-                console.log("file saved");
+            });
+        }
+
+        // fileNames
+        for (var k = 0; k < icon.fileNames.length; k++) {
+            var fileName = icon.fileNames[k];
+
+            fs.writeFile(fileNamesPath + fileName, "", function (err) {
+                if (err) return console.log(err);
             });
         }
     }

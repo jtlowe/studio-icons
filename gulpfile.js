@@ -41,7 +41,7 @@ gulp.task('saveLight', function () {
 });
 
 gulp.task('mappings', function () {
-    var savePath = "./temp/";
+    var savePath = "./fileicons/";
     var themeSettings = {
         iconDefinitions: {}
     };

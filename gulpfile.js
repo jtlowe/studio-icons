@@ -2,10 +2,7 @@ var fs = require("fs");
 var gulp = require('gulp');
 var replace = require('gulp-replace');
 var rename = require('gulp-rename');
-var inkscape = require('inkscape');
 var mappings = require('./src/mappings.json');
-
-var svgToPdfConverter = new inkscape(['--export-pdf', '--export-width=1024']);
 
 var colors = {
     defaultFg: "424242",
@@ -22,25 +19,25 @@ gulp.task('saveDark', function () {
     return gulp.src([
         'src/svg/*.svg'
     ])
-    .pipe(replace(colors.defaultFg, colors.darkFg))
-    .pipe(replace(colors.defaultBg, colors.darkBg))
-    .pipe(replace(colors.defaultBg2, colors.darkBg))
-    .pipe(replace(colors.defaultBg3, colors.darkBg))
-    .pipe(rename(function (path) {
-        path.basename += "_inverse";
-    }))
-    .pipe(gulp.dest('fileicons/images'));
+        .pipe(replace(colors.defaultFg, colors.darkFg))
+        .pipe(replace(colors.defaultBg, colors.darkBg))
+        .pipe(replace(colors.defaultBg2, colors.darkBg))
+        .pipe(replace(colors.defaultBg3, colors.darkBg))
+        .pipe(rename(function (path) {
+            path.basename += "_inverse";
+        }))
+        .pipe(gulp.dest('fileicons/images'));
 });
 
 gulp.task('saveLight', function () {
     return gulp.src([
         'src/svg/*.svg'
     ])
-    .pipe(replace(colors.defaultFg, colors.lightFg))
-    .pipe(replace(colors.defaultBg, colors.lightBg))
-    .pipe(replace(colors.defaultBg2, colors.lightBg))
-    .pipe(replace(colors.defaultBg3, colors.lightBg))
-    .pipe(gulp.dest('fileicons/images'));
+        .pipe(replace(colors.defaultFg, colors.lightFg))
+        .pipe(replace(colors.defaultBg, colors.lightBg))
+        .pipe(replace(colors.defaultBg2, colors.lightBg))
+        .pipe(replace(colors.defaultBg3, colors.lightBg))
+        .pipe(gulp.dest('fileicons/images'));
 });
 
 gulp.task('mappings', function () {
@@ -50,10 +47,10 @@ gulp.task('mappings', function () {
     };
 
     themeSettings.iconDefinitions = createDefinitionsObj();
-    
-    // console.log(themeSettings)
+    Object.assign(themeSettings, createDarkThemeObj());
+    themeSettings.light = createLightThemeObj();
 
-    if (!fs.existsSync(savePath)){
+    if (!fs.existsSync(savePath)) {
         fs.mkdirSync(savePath);
     }
 
@@ -73,11 +70,11 @@ function createDefinitionsObj() {
     var darkPostfix = mappings.settings.darkTheme.postfix;
     var iconExtension = mappings.settings.iconFileExtension;
 
-    for(var i = 0; i < mappings.iconDefinitions.length; i++){
+    for (var i = 0; i < mappings.iconDefinitions.length; i++) {
         var def = mappings.iconDefinitions[i];
-        var iconName = def.icon;
-        var iconNameDark = def.icon.replace(iconExtension, darkPostfix + iconExtension)
-        
+        var iconName = def.iconFile;
+        var iconNameDark = def.iconFile.replace(iconExtension, darkPostfix + iconExtension);
+
         defs[iconName] = {
             "iconPath": relPath + iconName
         }
@@ -88,4 +85,65 @@ function createDefinitionsObj() {
     }
 
     return defs;
+}
+
+function createDarkThemeObj() {
+    var iconExtension = mappings.settings.iconFileExtension;
+    var darkPostfix = mappings.settings.darkTheme.postfix;
+    var theme = {
+        folder: mappings.settings.darkTheme.folder,
+        folderExpanded: mappings.settings.darkTheme.folderExpanded,
+        file: mappings.settings.darkTheme.file,
+        fileExtensions: {},
+        fileNames: {},
+        folderNames: {},
+        languageIds: {}
+    };
+
+    for (var i = 0; i < mappings.iconDefinitions.length; i++) {
+        var icon = mappings.iconDefinitions[i];
+        console.log(icon.iconFile)
+
+        for (var j = 0; j < icon.fileExtensions.length; j++) {
+            var extension = icon.fileExtensions[j];
+
+            theme.fileExtensions[extension] = icon.iconFile.replace(iconExtension, darkPostfix + iconExtension);
+        }
+
+        for (var k = 0; k < icon.fileNames.length; k++) {
+            var fileName = icon.fileNames[k];
+            theme.fileNames[fileName] = icon.iconFile;
+        }
+
+    }
+
+    return theme;
+}
+
+function createLightThemeObj() {
+    var theme = {
+        folder: mappings.settings.lightTheme.folder,
+        folderExpanded: mappings.settings.lightTheme.folderExpanded,
+        file: mappings.settings.lightTheme.file,
+        fileExtensions: {},
+        fileNames: {},
+        folderNames: {},
+        languageIds: {}
+    };
+
+    for (var i = 0; i < mappings.iconDefinitions.length; i++) {
+        var icon = mappings.iconDefinitions[i];
+
+        for (var j = 0; j < icon.fileExtensions.length; j++) {
+            var extension = icon.fileExtensions[j];
+            theme.fileExtensions[extension] = icon.iconFile;
+        }
+
+        for (var k = 0; k < icon.fileNames.length; k++) {
+            var fileName = icon.fileNames[k];
+            theme.fileNames[fileName] = icon.iconFile;
+        }
+    }
+
+    return theme;
 }

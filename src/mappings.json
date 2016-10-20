@@ -19,14 +19,14 @@
     },
     "iconDefinitions": [
         {
-            "icon": "ZipFile_16x.svg", 
+            "iconFile": "ZipFile_16x.svg",
             "fileExtensions": ["zip","tar","gz","xz","bzip2","7z","rar","tgz"],
             "fileNames": [],
             "folderNames": [],
             "languageIds": []
         },
         {
-            "icon": "JSONScript_16x.svg",
+            "iconFile": "JSONScript_16x.svg",
             "fileExtensions": ["json","graphql"],
             "fileNames": [".jscsrc",".jshintrc",".babelrc","composer.lock"]
         }

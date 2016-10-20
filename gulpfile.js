@@ -59,6 +59,8 @@ gulp.task('mappings', function () {
         console.log("file saved");
     });
 
+    createTestFiles();
+
 });
 
 gulp.task('convert', ['saveDark', 'saveLight']);
@@ -146,4 +148,25 @@ function createLightThemeObj() {
     }
 
     return theme;
+}
+
+function createTestFiles() {
+    var extensionsPath = './test/extensions/';
+
+    if (!fs.existsSync(extensionsPath)) {
+        fs.mkdirSync(extensionsPath);
+    }
+
+    for (var i = 0; i < mappings.iconDefinitions.length; i++) {
+        var icon = mappings.iconDefinitions[i];
+
+        for (var j = 0; j < icon.fileExtensions.length; j++) {
+            var extension = icon.fileExtensions[j];
+
+            fs.writeFile(extensionsPath + extension + '.' + extension, "", function (err) {
+                if (err) return console.log(err);
+                console.log("file saved");
+            });
+        }
+    }
 }

@@ -35,12 +35,12 @@ gulp.task('saveLight', function () {
     ])
         .pipe(replace(colors.defaultFg, colors.lightFg))
         .pipe(replace(colors.defaultBg, colors.lightBg))
-        .pipe(replace(colors.defaultBg2, colors.lightBg))
-        .pipe(replace(colors.defaultBg3, colors.lightBg))
+        // .pipe(replace(colors.defaultBg2, colors.lightBg))
+        // .pipe(replace(colors.defaultBg3, colors.lightBg))
         .pipe(gulp.dest('fileicons/images'));
 });
 
-gulp.task('mappings', function () {
+gulp.task('generateMappings', function () {
     var savePath = "./fileicons/";
     var themeSettings = {
         iconDefinitions: {}
@@ -62,7 +62,7 @@ gulp.task('mappings', function () {
 
 });
 
-gulp.task('convert', ['saveDark', 'saveLight']);
+gulp.task('generateIcons', ['saveDark', 'saveLight']);
 
 
 function createDefinitionsObj() {
@@ -73,8 +73,8 @@ function createDefinitionsObj() {
 
     for (var i = 0; i < mappings.iconDefinitions.length; i++) {
         var def = mappings.iconDefinitions[i];
-        var iconName = def.iconFile;
-        var iconNameDark = def.iconFile.replace(iconExtension, darkPostfix + iconExtension);
+        var iconName = def.iconPath;
+        var iconNameDark = def.iconPath.replace(iconExtension, darkPostfix + iconExtension);
 
         defs[iconName] = {
             "iconPath": relPath + iconName
@@ -104,17 +104,20 @@ function createDarkThemeObj() {
     for (var i = 0; i < mappings.iconDefinitions.length; i++) {
         var icon = mappings.iconDefinitions[i];
 
-        for (var j = 0; j < icon.fileExtensions.length; j++) {
-            var extension = icon.fileExtensions[j];
+        if (icon.fileExtensions != void 0) {
+            for (var j = 0; j < icon.fileExtensions.length; j++) {
+                var extension = icon.fileExtensions[j];
 
-            theme.fileExtensions[extension] = icon.iconFile.replace(iconExtension, darkPostfix + iconExtension);
+                theme.fileExtensions[extension] = icon.iconPath.replace(iconExtension, darkPostfix + iconExtension);
+            }
         }
 
-        for (var k = 0; k < icon.fileNames.length; k++) {
-            var fileName = icon.fileNames[k];
-            theme.fileNames[fileName] = icon.iconFile;
+        if (icon.fileNames != void 0) {
+            for (var k = 0; k < icon.fileNames.length; k++) {
+                var fileName = icon.fileNames[k];
+                theme.fileNames[fileName] = icon.iconPath;
+            }
         }
-
     }
 
     return theme;
@@ -134,14 +137,18 @@ function createLightThemeObj() {
     for (var i = 0; i < mappings.iconDefinitions.length; i++) {
         var icon = mappings.iconDefinitions[i];
 
-        for (var j = 0; j < icon.fileExtensions.length; j++) {
-            var extension = icon.fileExtensions[j];
-            theme.fileExtensions[extension] = icon.iconFile;
+        if (icon.fileExtensions != void 0) {
+            for (var j = 0; j < icon.fileExtensions.length; j++) {
+                var extension = icon.fileExtensions[j];
+                theme.fileExtensions[extension] = icon.iconPath;
+            }
         }
 
-        for (var k = 0; k < icon.fileNames.length; k++) {
-            var fileName = icon.fileNames[k];
-            theme.fileNames[fileName] = icon.iconFile;
+        if (icon.fileNames != void 0) {
+            for (var k = 0; k < icon.fileNames.length; k++) {
+                var fileName = icon.fileNames[k];
+                theme.fileNames[fileName] = icon.iconPath;
+            }
         }
     }
 
@@ -151,6 +158,8 @@ function createLightThemeObj() {
 function createTestFiles() {
     var extensionsPath = './test/extensions/';
     var fileNamesPath = './test/filenames/';
+    var folderNamesPath = './test/foldernames/';
+    var languageIdsPath = './test/languageids/';
 
     if (!fs.existsSync(extensionsPath)) {
         fs.mkdirSync(extensionsPath);
@@ -160,25 +169,59 @@ function createTestFiles() {
         fs.mkdirSync(fileNamesPath);
     }
 
+    if (!fs.existsSync(folderNamesPath)) {
+        fs.mkdirSync(folderNamesPath);
+    }
+
+    if (!fs.existsSync(languageIdsPath)) {
+        fs.mkdirSync(languageIdsPath);
+    }
+
     for (var i = 0; i < mappings.iconDefinitions.length; i++) {
         var icon = mappings.iconDefinitions[i];
 
         // extensions
-        for (var j = 0; j < icon.fileExtensions.length; j++) {
-            var extension = icon.fileExtensions[j];
+        if (icon.fileExtensions != void 0) {
+            for (var j = 0; j < icon.fileExtensions.length; j++) {
+                var extension = icon.fileExtensions[j];
 
-            fs.writeFile(extensionsPath + extension + '.' + extension, "", function (err) {
-                if (err) return console.log(err);
-            });
+                fs.writeFile(extensionsPath + extension + '.' + extension, "", function (err) {
+                    if (err) return console.log(err);
+                });
+            }
         }
 
         // fileNames
-        for (var k = 0; k < icon.fileNames.length; k++) {
-            var fileName = icon.fileNames[k];
+        if (icon.fileNames != void 0) {
+            for (var j = 0; j < icon.fileNames.length; j++) {
+                var fileName = icon.fileNames[j];
 
-            fs.writeFile(fileNamesPath + fileName, "", function (err) {
-                if (err) return console.log(err);
-            });
+                fs.writeFile(fileNamesPath + fileName, "", function (err) {
+                    if (err) return console.log(err);
+                });
+            }
+        }
+
+        // folderNames
+        if (icon.folderNames != void 0) {
+            for (var j = 0; j < icon.folderNames.length; j++) {
+                var folderName = icon.folderNames[j];
+
+                fs.writeFile(folderNamesPath + folderName, "", function (err) {
+                    if (err) return console.log(err);
+                });
+            }
+        }
+
+        // languageIds
+        if (icon.languageIds != void 0) {
+            for (var j = 0; j < icon.languageIds.length; j++) {
+                var languageId = icon.languageIds[j];
+
+                fs.writeFile(languageIdsPath + languageId, "", function (err) {
+                    if (err) return console.log(err);
+                });
+            }
         }
     }
 }

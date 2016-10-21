@@ -16,7 +16,7 @@
 		H13z"/>
 </g>
 <g id="iconFg">
-	<path style="fill:#F3F3F3;" d="M11,3v1H7.5L8,3H11z M13,3v1h1V3H13z M13,7h-1v1h1V7z M13,9h-1v1h1V9z M11,10v1h1v-1H11z M13,11h-1
+	<path style="fill:#F0EFF1;" d="M11,3v1H7.5L8,3H11z M13,3v1h1V3H13z M13,7h-1v1h1V7z M13,9h-1v1h1V9z M11,10v1h1v-1H11z M13,11h-1
 		v1h1V11z M11,12v1h1v-1H11z M11,8v1h1V8H11z M13,6V4h-2v2H13z"/>
 </g>
 </svg>

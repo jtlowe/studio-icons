@@ -19,16 +19,230 @@
     },
     "iconDefinitions": [
         {
-            "iconFile": "ZipFile_16x.svg",
-            "fileExtensions": ["zip","tar","gz","xz","bzip2","7z","rar","tgz"],
+            "iconPath": "Android_16x.svg",
+            "fileExtensions": [],
+            "fileNames": []
+        },
+        {
+            "iconPath": "Application_16x.svg",
+            "fileExtensions": [],
+            "fileNames": []
+        },
+        {
+            "iconPath": "AudioOn_16x.svg",
+            "fileExtensions": [],
+            "fileNames": []
+        },
+        {
+            "iconPath": "CDocument_16x.svg",
+            "fileExtensions": [],
+            "fileNames": []
+        },
+        {
+            "iconPath": "CPlusPlus_16x.svg",
+            "fileExtensions": [],
+            "fileNames": []
+        },
+        {
+            "iconPath": "CSharp_16x.svg",
+            "fileExtensions": [],
+            "fileNames": []
+        },
+        {
+            "iconPath": "Certificate_16x.svg",
+            "fileExtensions": [],
+            "fileNames": []
+        },
+        {
+            "iconPath": "Console_16x.svg",
+            "fileExtensions": [],
+            "fileNames": []
+        },
+        {
+            "iconPath": "Database_16x.svg",
+            "fileExtensions": [],
+            "fileNames": []
+        },
+        {
+            "iconPath": "Document_16x.svg",
+            "fileExtensions": [],
+            "fileNames": []
+        },
+        {
+            "iconPath": "FS_16x.svg",
+            "fileExtensions": [],
+            "fileNames": []
+        },
+        {
+            "iconPath": "FolderOpen_16x.svg",
+            "fileExtensions": [],
+            "fileNames": []
+        },
+        {
+            "iconPath": "Folder_16x.svg",
+            "fileExtensions": [],
+            "fileNames": []
+        },
+        {
+            "iconPath": "Font_16x.svg",
+            "fileExtensions": [],
+            "fileNames": []
+        },
+        {
+            "iconPath": "GitLogo_16x.svg",
+            "fileExtensions": [],
+            "fileNames": []
+        },
+        {
+            "iconPath": "HTMLFile_16x.svg",
+            "fileExtensions": [],
+            "fileNames": []
+        },
+        {
+            "iconPath": "JADEScript_16x.svg",
+            "fileExtensions": [],
+            "fileNames": []
+        },
+        {
+            "iconPath": "JSCoffeeScript_16x.svg",
+            "fileExtensions": [],
+            "fileNames": []
+        },
+        {
+            "iconPath": "JSONScript_16x.svg",
+            "fileExtensions": [
+                "json",
+                "graphql"
+            ],
+            "fileNames": [
+                ".jscsrc",
+                ".jshintrc",
+                ".babelrc",
+                "composer.lock"
+            ]
+        },
+        {
+            "iconPath": "JSScript_16x.svg",
+            "fileExtensions": [],
+            "fileNames": []
+        },
+        {
+            "iconPath": "JavaFile_16x.svg",
+            "fileExtensions": [],
+            "fileNames": []
+        },
+        {
+            "iconPath": "Key_16x.svg",
+            "fileExtensions": [],
+            "fileNames": []
+        },
+        {
+            "iconPath": "Library_16x.svg",
+            "fileExtensions": [],
+            "fileNames": []
+        },
+        {
+            "iconPath": "Mail_16x.svg",
+            "fileExtensions": [],
+            "fileNames": []
+        },
+        {
+            "iconPath": "MarkdownFile_16x.svg",
+            "fileExtensions": [],
+            "fileNames": []
+        },
+        {
+            "iconPath": "Media_16x.svg",
+            "fileExtensions": [],
+            "fileNames": []
+        },
+        {
+            "iconPath": "NodeJS_16x.svg",
+            "fileExtensions": [],
+            "fileNames": []
+        },
+        {
+            "iconPath": "PHPFile_16x.svg",
+            "fileExtensions": [],
+            "fileNames": []
+        },
+        {
+            "iconPath": "PY_16x.svg",
+            "fileExtensions": [],
+            "fileNames": []
+        },
+        {
+            "iconPath": "RB_FileSENode_16x.svg",
+            "fileExtensions": [],
+            "fileNames": []
+        },
+        {
+            "iconPath": "SassStyleSheet_16x.svg",
+            "fileExtensions": [],
+            "fileNames": []
+        },
+        {
+            "iconPath": "SettingsFile_16x.svg",
+            "fileExtensions": [],
+            "fileNames": []
+        },
+        {
+            "iconPath": "StyleSheet_16x.svg",
+            "fileExtensions": [],
+            "fileNames": []
+        },
+        {
+            "iconPath": "TS_FileSENode_16x.svg",
+            "fileExtensions": [],
+            "fileNames": []
+        },
+        {
+            "iconPath": "Table_16x.svg",
+            "fileExtensions": [],
+            "fileNames": []
+        },
+        {
+            "iconPath": "Text_16x.svg",
+            "fileExtensions": [],
+            "fileNames": []
+        },
+        {
+            "iconPath": "VirtualMachine_16x.svg",
+            "fileExtensions": [],
+            "fileNames": []
+        },
+        {
+            "iconPath": "VisualStudioLogo_whiteHalo_16x.svg",
+            "fileExtensions": [],
+            "fileNames": []
+        },
+        {
+            "iconPath": "WebURL_16x.svg",
+            "fileExtensions": [],
+            "fileNames": []
+        },
+        {
+            "iconPath": "XMLFile_16x.svg",
+            "fileExtensions": [],
+            "fileNames": []
+        },
+        {
+            "iconPath": "ZipFile_16x.svg",
+            "fileExtensions": [
+                "zip",
+                "tar",
+                "gz",
+                "xz",
+                "bzip2",
+                "7z",
+                "rar",
+                "tgz"
+            ],
             "fileNames": [],
             "folderNames": [],
             "languageIds": []
         },
         {
-            "iconFile": "JSONScript_16x.svg",
-            "fileExtensions": ["json","graphql"],
-            "fileNames": [".jscsrc",".jshintrc",".babelrc","composer.lock"]
         }
     ]
 }

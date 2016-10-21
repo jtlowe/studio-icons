@@ -23,4 +23,4 @@ Uses Yarn package manager and Gulp for build tasks. Current workflow:
 
 ## Other
 
-Used Philipp Kief's [Material Icon Theme](https://github.com/PKief/vscode-extension-material-icon-theme) as a great starting point for mapping icons to extensions/filenames.
+Used Philipp Kief's much appreciated [Material Icon Theme](https://github.com/PKief/vscode-extension-material-icon-theme) as a great starting point for mapping icons to extensions/filenames.

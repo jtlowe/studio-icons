@@ -9,6 +9,7 @@ var colors = {
     defaultBg: "F6F6F6",
     defaultBg2: "F0EFF1",
     defaultBg3: "EFEEF0",
+    defaultBg4: "FFFFFF",
     lightFg: "656565",
     lightBg: "F3F3F3",
     darkFg: "C5C5C5",
@@ -23,6 +24,7 @@ gulp.task('saveDark', function () {
         .pipe(replace(colors.defaultBg, colors.darkBg))
         .pipe(replace(colors.defaultBg2, colors.darkBg))
         .pipe(replace(colors.defaultBg3, colors.darkBg))
+        // .pipe(replace(colors.defaultBg4, colors.darkFg))
         .pipe(rename(function (path) {
             path.basename += "_inverse";
         }))
@@ -54,7 +56,7 @@ gulp.task('generateMappings', function () {
         fs.mkdirSync(savePath);
     }
 
-    fs.writeFile(savePath + 'vscode-icon-theme.json', JSON.stringify(themeSettings), function (err) {
+    fs.writeFile(savePath + 'vscode-icon-theme.json', JSON.stringify(themeSettings, null, 4), function (err) {
         if (err) return console.log(err);
     });
 
@@ -115,10 +117,13 @@ function createDarkThemeObj() {
         if (icon.fileNames != void 0) {
             for (var k = 0; k < icon.fileNames.length; k++) {
                 var fileName = icon.fileNames[k];
-                theme.fileNames[fileName] = icon.iconPath;
+                theme.fileNames[fileName] = icon.iconPath.replace(iconExtension, darkPostfix + iconExtension)
             }
         }
     }
+
+    // need folderName
+    // need languageIds
 
     return theme;
 }
@@ -152,14 +157,22 @@ function createLightThemeObj() {
         }
     }
 
+    // need folderName
+    // need languageIds
+
     return theme;
 }
 
 function createTestFiles() {
+    var testPath = "./test/";
     var extensionsPath = './test/extensions/';
     var fileNamesPath = './test/filenames/';
     var folderNamesPath = './test/foldernames/';
     var languageIdsPath = './test/languageids/';
+
+    if (!fs.existsSync(testPath)) {
+        fs.mkdirSync(testPath);
+    }
 
     if (!fs.existsSync(extensionsPath)) {
         fs.mkdirSync(extensionsPath);

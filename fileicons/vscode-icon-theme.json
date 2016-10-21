@@ -18,17 +18,17 @@
         "AudioOn_16x_inverse.svg": {
             "iconPath": "./images/AudioOn_16x_inverse.svg"
         },
-        "CDocument_16x.svg": {
-            "iconPath": "./images/CDocument_16x.svg"
+        "CFile_16x_color.svg": {
+            "iconPath": "./images/CFile_16x_color.svg"
         },
-        "CDocument_16x_inverse.svg": {
-            "iconPath": "./images/CDocument_16x_inverse.svg"
+        "CFile_16x_color_inverse.svg": {
+            "iconPath": "./images/CFile_16x_color_inverse.svg"
         },
-        "CPlusPlus_16x.svg": {
-            "iconPath": "./images/CPlusPlus_16x.svg"
+        "CPP_16x.svg": {
+            "iconPath": "./images/CPP_16x.svg"
         },
-        "CPlusPlus_16x_inverse.svg": {
-            "iconPath": "./images/CPlusPlus_16x_inverse.svg"
+        "CPP_16x_inverse.svg": {
+            "iconPath": "./images/CPP_16x_inverse.svg"
         },
         "CPPHeaderFile_16x.svg": {
             "iconPath": "./images/CPPHeaderFile_16x.svg"
@@ -36,17 +36,23 @@
         "CPPHeaderFile_16x_inverse.svg": {
             "iconPath": "./images/CPPHeaderFile_16x_inverse.svg"
         },
-        "CSharp_16x.svg": {
-            "iconPath": "./images/CSharp_16x.svg"
+        "CS_16x.svg": {
+            "iconPath": "./images/CS_16x.svg"
         },
-        "CSharp_16x_inverse.svg": {
-            "iconPath": "./images/CSharp_16x_inverse.svg"
+        "CS_16x_inverse.svg": {
+            "iconPath": "./images/CS_16x_inverse.svg"
         },
         "Certificate_16x.svg": {
             "iconPath": "./images/Certificate_16x.svg"
         },
         "Certificate_16x_inverse.svg": {
             "iconPath": "./images/Certificate_16x_inverse.svg"
+        },
+        "ConfigurationFile_16x.svg": {
+            "iconPath": "./images/ConfigurationFile_16x.svg"
+        },
+        "ConfigurationFile_16x_inverse.svg": {
+            "iconPath": "./images/ConfigurationFile_16x_inverse.svg"
         },
         "Console_16x.svg": {
             "iconPath": "./images/Console_16x.svg"
@@ -101,6 +107,12 @@
         },
         "HTMLFile_16x_inverse.svg": {
             "iconPath": "./images/HTMLFile_16x_inverse.svg"
+        },
+        "IconFile_16x.svg": {
+            "iconPath": "./images/IconFile_16x.svg"
+        },
+        "IconFile_16x_inverse.svg": {
+            "iconPath": "./images/IconFile_16x_inverse.svg"
         },
         "JADEScript_16x.svg": {
             "iconPath": "./images/JADEScript_16x.svg"
@@ -173,6 +185,12 @@
         },
         "NodeJS_16x_inverse.svg": {
             "iconPath": "./images/NodeJS_16x_inverse.svg"
+        },
+        "Parameter_16x.svg": {
+            "iconPath": "./images/Parameter_16x.svg"
+        },
+        "Parameter_16x_inverse.svg": {
+            "iconPath": "./images/Parameter_16x_inverse.svg"
         },
         "PHPFile_16x.svg": {
             "iconPath": "./images/PHPFile_16x.svg"
@@ -270,14 +288,16 @@
         "m4a": "AudioOn_16x_inverse.svg",
         "wma": "AudioOn_16x_inverse.svg",
         "aiff": "AudioOn_16x_inverse.svg",
-        "cc": "CDocument_16x_inverse.svg",
-        "cpp": "CPlusPlus_16x_inverse.svg",
+        "cc": "CFile_16x_color_inverse.svg",
+        "cpp": "CPP_16x_inverse.svg",
         "h": "CPPHeaderFile_16x_inverse.svg",
         "hpp": "CPPHeaderFile_16x_inverse.svg",
-        "cs": "CSharp_16x_inverse.svg",
+        "cs": "CS_16x_inverse.svg",
         "cert": "Certificate_16x_inverse.svg",
         "cer": "Certificate_16x_inverse.svg",
         "crt": "Certificate_16x_inverse.svg",
+        "config": "ConfigurationFile_16x_inverse.svg",
+        "conf": "ConfigurationFile_16x_inverse.svg",
         "sh": "Console_16x_inverse.svg",
         "bat": "Console_16x_inverse.svg",
         "ps1": "Console_16x_inverse.svg",
@@ -305,6 +325,7 @@
         "mrf": "Font_16x_inverse.svg",
         "htm": "HTMLFile_16x_inverse.svg",
         "html": "HTMLFile_16x_inverse.svg",
+        "ico": "IconFile_16x_inverse.svg",
         "jade": "JADEScript_16x_inverse.svg",
         "coffee": "JSCoffeeScript_16x_inverse.svg",
         "json": "JSONScript_16x_inverse.svg",
@@ -349,6 +370,7 @@
         "mpe": "Media_16x_inverse.svg",
         "mpv": "Media_16x_inverse.svg",
         "m2v": "Media_16x_inverse.svg",
+        "cshtml": "Parameter_16x_inverse.svg",
         "php": "PHPFile_16x_inverse.svg",
         "py": "PY_16x_inverse.svg",
         "rb": "RB_FileSENode_16x_inverse.svg",
@@ -357,12 +379,35 @@
         "ini": "SettingsFile_16x_inverse.svg",
         "dlc": "SettingsFile_16x_inverse.svg",
         "dll": "SettingsFile_16x_inverse.svg",
-        "config": "SettingsFile_16x_inverse.svg",
-        "conf": "SettingsFile_16x_inverse.svg",
         "properties": "SettingsFile_16x_inverse.svg",
         "prop": "SettingsFile_16x_inverse.svg",
         "props": "SettingsFile_16x_inverse.svg",
         "settings": "SettingsFile_16x_inverse.svg",
+        "css": "StyleSheet_16x_inverse.svg",
+        "ts": "TS_FileSENode_16x_inverse.svg",
+        "tsx": "TS_FileSENode_16x_inverse.svg",
+        "d.ts": "TS_FileSENode_16x_inverse.svg",
+        "xlsx": "Table_16x_inverse.svg",
+        "xls": "Table_16x_inverse.svg",
+        "csv": "Table_16x_inverse.svg",
+        "txt": "Text_16x_inverse.svg",
+        "vdi": "VirtualMachine_16x_inverse.svg",
+        "vbox": "VirtualMachine_16x_inverse.svg",
+        "vbox-prev": "VirtualMachine_16x_inverse.svg",
+        "vscodeignore": "VisualStudioLogo_whiteHalo_16x_inverse.svg",
+        "vsixmanifest": "VisualStudioLogo_whiteHalo_16x_inverse.svg",
+        "suo": "VisualStudioLogo_whiteHalo_16x_inverse.svg",
+        "sln": "VisualStudioLogo_whiteHalo_16x_inverse.svg",
+        "csproj": "VisualStudioLogo_whiteHalo_16x_inverse.svg",
+        "url": "WebURL_16x_inverse.svg",
+        "xml": "XMLFile_16x_inverse.svg",
+        "xsd": "XMLFile_16x_inverse.svg",
+        "dtd": "XMLFile_16x_inverse.svg",
+        "xsl": "XMLFile_16x_inverse.svg",
+        "resx": "XMLFile_16x_inverse.svg",
+        "iml": "XMLFile_16x_inverse.svg",
+        "xquery": "XMLFile_16x_inverse.svg",
+        "manifest": "XMLFile_16x_inverse.svg",
         "zip": "ZipFile_16x_inverse.svg",
         "tar": "ZipFile_16x_inverse.svg",
         "gz": "ZipFile_16x_inverse.svg",
@@ -373,25 +418,27 @@
         "tgz": "ZipFile_16x_inverse.svg"
     },
     "fileNames": {
-        "androidmanifest.xml": "Android_16x.svg",
-        "license": "Certificate_16x.svg",
-        "license.md": "Certificate_16x.svg",
-        "license.md.rendered": "Certificate_16x.svg",
-        "license.txt": "Certificate_16x.svg",
-        ".gitignore": "GitLogo_16x.svg",
-        ".gitconfig": "GitLogo_16x.svg",
-        ".gitattributes": "GitLogo_16x.svg",
-        ".gitmodules": "GitLogo_16x.svg",
-        ".gitkeep": "GitLogo_16x.svg",
-        ".jscsrc": "JSONScript_16x.svg",
-        ".jshintrc": "JSONScript_16x.svg",
-        ".babelrc": "JSONScript_16x.svg",
-        "composer.lock": "JSONScript_16x.svg",
-        "package.json": "NodeJS_16x.svg",
-        ".jshintignore": "SettingsFile_16x.svg",
-        ".editorconfig": "SettingsFile_16x.svg",
-        "procfile": "SettingsFile_16x.svg",
-        ".buildignore": "SettingsFile_16x.svg"
+        "androidmanifest.xml": "Android_16x_inverse.svg",
+        "license": "Certificate_16x_inverse.svg",
+        "license.md": "Certificate_16x_inverse.svg",
+        "license.md.rendered": "Certificate_16x_inverse.svg",
+        "license.txt": "Certificate_16x_inverse.svg",
+        ".editorconfig": "ConfigurationFile_16x_inverse.svg",
+        ".gitignore": "GitLogo_16x_inverse.svg",
+        ".gitconfig": "GitLogo_16x_inverse.svg",
+        ".gitattributes": "GitLogo_16x_inverse.svg",
+        ".gitmodules": "GitLogo_16x_inverse.svg",
+        ".gitkeep": "GitLogo_16x_inverse.svg",
+        ".jscsrc": "JSONScript_16x_inverse.svg",
+        ".jshintrc": "JSONScript_16x_inverse.svg",
+        ".babelrc": "JSONScript_16x_inverse.svg",
+        "composer.lock": "JSONScript_16x_inverse.svg",
+        "package.json": "NodeJS_16x_inverse.svg",
+        ".jshintignore": "SettingsFile_16x_inverse.svg",
+        "procfile": "SettingsFile_16x_inverse.svg",
+        ".buildignore": "SettingsFile_16x_inverse.svg",
+        "tsconfig.json": "TS_FileSENode_16x_inverse.svg",
+        "tslint.json": "TS_FileSENode_16x_inverse.svg"
     },
     "folderNames": {},
     "languageIds": {},
@@ -407,14 +454,16 @@
             "m4a": "AudioOn_16x.svg",
             "wma": "AudioOn_16x.svg",
             "aiff": "AudioOn_16x.svg",
-            "cc": "CDocument_16x.svg",
-            "cpp": "CPlusPlus_16x.svg",
+            "cc": "CFile_16x_color.svg",
+            "cpp": "CPP_16x.svg",
             "h": "CPPHeaderFile_16x.svg",
             "hpp": "CPPHeaderFile_16x.svg",
-            "cs": "CSharp_16x.svg",
+            "cs": "CS_16x.svg",
             "cert": "Certificate_16x.svg",
             "cer": "Certificate_16x.svg",
             "crt": "Certificate_16x.svg",
+            "config": "ConfigurationFile_16x.svg",
+            "conf": "ConfigurationFile_16x.svg",
             "sh": "Console_16x.svg",
             "bat": "Console_16x.svg",
             "ps1": "Console_16x.svg",
@@ -442,6 +491,7 @@
             "mrf": "Font_16x.svg",
             "htm": "HTMLFile_16x.svg",
             "html": "HTMLFile_16x.svg",
+            "ico": "IconFile_16x.svg",
             "jade": "JADEScript_16x.svg",
             "coffee": "JSCoffeeScript_16x.svg",
             "json": "JSONScript_16x.svg",
@@ -486,6 +536,7 @@
             "mpe": "Media_16x.svg",
             "mpv": "Media_16x.svg",
             "m2v": "Media_16x.svg",
+            "cshtml": "Parameter_16x.svg",
             "php": "PHPFile_16x.svg",
             "py": "PY_16x.svg",
             "rb": "RB_FileSENode_16x.svg",
@@ -494,12 +545,35 @@
             "ini": "SettingsFile_16x.svg",
             "dlc": "SettingsFile_16x.svg",
             "dll": "SettingsFile_16x.svg",
-            "config": "SettingsFile_16x.svg",
-            "conf": "SettingsFile_16x.svg",
             "properties": "SettingsFile_16x.svg",
             "prop": "SettingsFile_16x.svg",
             "props": "SettingsFile_16x.svg",
             "settings": "SettingsFile_16x.svg",
+            "css": "StyleSheet_16x.svg",
+            "ts": "TS_FileSENode_16x.svg",
+            "tsx": "TS_FileSENode_16x.svg",
+            "d.ts": "TS_FileSENode_16x.svg",
+            "xlsx": "Table_16x.svg",
+            "xls": "Table_16x.svg",
+            "csv": "Table_16x.svg",
+            "txt": "Text_16x.svg",
+            "vdi": "VirtualMachine_16x.svg",
+            "vbox": "VirtualMachine_16x.svg",
+            "vbox-prev": "VirtualMachine_16x.svg",
+            "vscodeignore": "VisualStudioLogo_whiteHalo_16x.svg",
+            "vsixmanifest": "VisualStudioLogo_whiteHalo_16x.svg",
+            "suo": "VisualStudioLogo_whiteHalo_16x.svg",
+            "sln": "VisualStudioLogo_whiteHalo_16x.svg",
+            "csproj": "VisualStudioLogo_whiteHalo_16x.svg",
+            "url": "WebURL_16x.svg",
+            "xml": "XMLFile_16x.svg",
+            "xsd": "XMLFile_16x.svg",
+            "dtd": "XMLFile_16x.svg",
+            "xsl": "XMLFile_16x.svg",
+            "resx": "XMLFile_16x.svg",
+            "iml": "XMLFile_16x.svg",
+            "xquery": "XMLFile_16x.svg",
+            "manifest": "XMLFile_16x.svg",
             "zip": "ZipFile_16x.svg",
             "tar": "ZipFile_16x.svg",
             "gz": "ZipFile_16x.svg",
@@ -515,6 +589,7 @@
             "license.md": "Certificate_16x.svg",
             "license.md.rendered": "Certificate_16x.svg",
             "license.txt": "Certificate_16x.svg",
+            ".editorconfig": "ConfigurationFile_16x.svg",
             ".gitignore": "GitLogo_16x.svg",
             ".gitconfig": "GitLogo_16x.svg",
             ".gitattributes": "GitLogo_16x.svg",
@@ -526,9 +601,10 @@
             "composer.lock": "JSONScript_16x.svg",
             "package.json": "NodeJS_16x.svg",
             ".jshintignore": "SettingsFile_16x.svg",
-            ".editorconfig": "SettingsFile_16x.svg",
             "procfile": "SettingsFile_16x.svg",
-            ".buildignore": "SettingsFile_16x.svg"
+            ".buildignore": "SettingsFile_16x.svg",
+            "tsconfig.json": "TS_FileSENode_16x.svg",
+            "tslint.json": "TS_FileSENode_16x.svg"
         },
         "folderNames": {},
         "languageIds": {}

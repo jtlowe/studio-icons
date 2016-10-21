@@ -33,7 +33,7 @@
   "bugs": {
     "url": "https://github.com/jtlowe/vscode-icon-theme/issues"
   },
-  "icon": "images/vscode-icon-theme_icon.png",
+  "icon": "images/logo.png",
   "galleryBanner": {
     "color": "#e0e0e0",
     "theme": "light"

@@ -3,6 +3,7 @@ Featuring Official Visual Studio icons from the wonderful Visual Studio Image Li
 
 ## Preview
 ![Preview](https://raw.githubusercontent.com/jtlowe/vscode-icon-theme/master/images/image-comparison.png)
+![Preview](https://raw.githubusercontent.com/jtlowe/vscode-icon-theme/master/images/vscode-screenshot.png)
 
 ## Build
 

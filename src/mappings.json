@@ -1,7 +1,7 @@
 {
     "settings": {
         "iconSrcPath": "./src/svg/",
-        "iconDestPath": "./fileicons/images/",
+        "iconDestPath": "./fileicon",
         "iconRelPath": "./images/",
         "iconFileExtension": ".svg",
         "darkTheme": {
@@ -21,46 +21,90 @@
         {
             "iconPath": "Android_16x.svg",
             "fileExtensions": [],
-            "fileNames": []
+            "fileNames": [
+                "androidmanifest.xml"
+            ]
         },
         {
             "iconPath": "Application_16x.svg",
-            "fileExtensions": [],
+            "fileExtensions": [
+                "exe"
+            ],
             "fileNames": []
         },
         {
             "iconPath": "AudioOn_16x.svg",
-            "fileExtensions": [],
+            "fileExtensions": [
+                "aac",
+                "mp3",
+                "flac",
+                "m4a",
+                "wma",
+                "aiff"
+            ],
             "fileNames": []
         },
         {
             "iconPath": "CDocument_16x.svg",
-            "fileExtensions": [],
+            "fileExtensions": [
+                "cc"
+            ],
             "fileNames": []
         },
         {
             "iconPath": "CPlusPlus_16x.svg",
-            "fileExtensions": [],
+            "fileExtensions": [
+                "cpp"
+            ],
+            "fileNames": []
+        },
+        {
+            "iconPath": "CPPHeaderFile_16x.svg",
+            "fileExtensions": [
+                "h",
+                "hpp"
+            ],
             "fileNames": []
         },
         {
             "iconPath": "CSharp_16x.svg",
-            "fileExtensions": [],
+            "fileExtensions": [
+                "cs"
+            ],
             "fileNames": []
         },
         {
             "iconPath": "Certificate_16x.svg",
-            "fileExtensions": [],
-            "fileNames": []
+            "fileExtensions": [
+                "cert",
+                "cer",
+                "crt"
+            ],
+            "fileNames": [
+                "license",
+                "license.md",
+                "license.md.rendered",
+                "license.txt"
+            ]
         },
         {
             "iconPath": "Console_16x.svg",
-            "fileExtensions": [],
+            "fileExtensions": [
+                "sh",
+                "bat",
+                "ps1"
+            ],
             "fileNames": []
         },
         {
             "iconPath": "Database_16x.svg",
-            "fileExtensions": [],
+            "fileExtensions": [
+                "sql",
+                "accdb",
+                "mdb",
+                "sqlite",
+                "pdb"
+            ],
             "fileNames": []
         },
         {
@@ -241,8 +285,79 @@
             "fileNames": [],
             "folderNames": [],
             "languageIds": []
-        },
-        {
         }
+        // {
+        //     "iconPath": "docker.svg_NOGOOD",
+        //     "fileExtensions": [],
+        //     "fileNames": []
+        // },
+        // {
+        //     "iconPath": "go.svg_NOGOOD",
+        //     "fileExtensions": [],
+        //     "fileNames": []
+        // },
+        // {
+        //     "iconPath": "gradle.svg_NOGOOD",
+        //     "fileExtensions": [],
+        //     "fileNames": []
+        // },
+        // {
+        //     "iconPath": "gulp.svg_NOGOOD",
+        //     "fileExtensions": [],
+        //     "fileNames": []
+        // },
+        // {
+        //     "iconPath": "ionic.svg_NOGOOD",
+        //     "fileExtensions": [],
+        //     "fileNames": []
+        // },
+        // {
+        //     "iconPath": "pdf.svg_NOGOOD",
+        //     "fileExtensions": [],
+        //     "fileNames": []
+        // },
+        // {
+        //     "iconPath": "powerpoint.svg_NOGOOD",
+        //     "fileExtensions": [],
+        //     "fileNames": []
+        // },
+        // {
+        //     "iconPath": "readme.svg_NOGOOD"
+        // },
+        // {
+        //     "iconPath": "swift.svg_NOGOOD",
+        //     "fileExtensions": [],
+        //     "fileNames": []
+        // },
+        // {
+        //     "iconPath": "tex.svg_NOGOOD",
+        //     "fileExtensions": [],
+        //     "fileNames": []
+        // },
+        // {
+        //     "iconPath": "tune.svg_NOGOOD",
+        //     "fileExtensions": [],
+        //     "fileNames": []
+        // },
+        // {
+        //     "iconPath": "webpack.svg_NOGOOD",
+        //     "fileExtensions": [],
+        //     "fileNames": []
+        // },
+        // {
+        //     "iconPath": "word.svg_NOGOOD",
+        //     "fileExtensions": [],
+        //     "fileNames": []
+        // },
+        // {
+        //     "iconPath": "yaml.svg_NOGOOD",
+        //     "fileExtensions": [],
+        //     "fileNames": []
+        // },
+        // {
+        //     "iconPath": "yarn.svg_NOGOOD",
+        //     "fileExtensions": [],
+        //     "fileNames": []
+        // }
     ]
 }

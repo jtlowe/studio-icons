@@ -12,6 +12,6 @@
 	<path style="fill:#656565;" d="M9,10h1v1H9V10z M10,3H6v1h4V3z M10,5H6v1h4V5z M15,15H1l1-5h2V1h8v9h2L15,15z M11,2H5v10h6V2z"/>
 </g>
 <g id="iconFg">
-	<path style="fill:#F3F3F3;" d="M5,2v10h6V2H5z M10,11H9v-1h1V11z M10,6H6V5h4V6z M10,4H6V3h4V4z"/>
+	<path style="fill:#F0EFF1;" d="M5,2v10h6V2H5z M10,11H9v-1h1V11z M10,6H6V5h4V6z M10,4H6V3h4V4z"/>
 </g>
 </svg>

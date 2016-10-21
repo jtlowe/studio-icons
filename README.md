@@ -1,9 +1,10 @@
 # Visual Studio Code Icon Theme
-Featuring Official Visual Studio icons from the Visual Studio Image Library (https://msdn.microsoft.com/en-us/library/ms246582.aspx). Currently using icons from the VS 2015 library. These icons have been optimized for both light and dark themes.
+Featuring Official Visual Studio icons from the wonderful Visual Studio Image Library (https://msdn.microsoft.com/en-us/library/ms246582.aspx). Currently using icons from the VS 2015 library. These icons have been optimized for both light and dark themes.
+
+## Build
 
 **NOTE:** Build script needs heavy refactoring
 
-## Build
 Uses Yarn package manager and Gulp for build tasks. Current workflow:
 
 1. Add .svg icon file to /src/svg/

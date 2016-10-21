@@ -45,14 +45,14 @@
             "fileNames": []
         },
         {
-            "iconPath": "CDocument_16x.svg",
+            "iconPath": "CFile_16x_color.svg",
             "fileExtensions": [
                 "cc"
             ],
             "fileNames": []
         },
         {
-            "iconPath": "CPlusPlus_16x.svg",
+            "iconPath": "CPP_16x.svg",
             "fileExtensions": [
                 "cpp"
             ],
@@ -67,7 +67,7 @@
             "fileNames": []
         },
         {
-            "iconPath": "CSharp_16x.svg",
+            "iconPath": "CS_16x.svg",
             "fileExtensions": [
                 "cs"
             ],
@@ -85,6 +85,16 @@
                 "license.md",
                 "license.md.rendered",
                 "license.txt"
+            ]
+        },
+        {
+            "iconPath": "ConfigurationFile_16x.svg",
+            "fileExtensions": [
+                "config",
+                "conf"
+            ],
+            "fileNames": [
+                ".editorconfig"
             ]
         },
         {
@@ -167,6 +177,13 @@
             "fileExtensions": [
                 "htm",
                 "html"
+            ],
+            "fileNames": []
+        },
+        {
+            "iconPath": "IconFile_16x.svg",
+            "fileExtensions": [
+                "ico"
             ],
             "fileNames": []
         },
@@ -293,6 +310,13 @@
             ]
         },
         {
+            "iconPath": "Parameter_16x.svg",
+            "fileExtensions": [
+                "cshtml"
+            ],
+            "fileNames": []
+        },
+        {
             "iconPath": "PHPFile_16x.svg",
             "fileExtensions": [
                 "php"
@@ -327,8 +351,6 @@
                 "ini",
                 "dlc",
                 "dll",
-                "config",
-                "conf",
                 "properties",
                 "prop",
                 "props",
@@ -336,49 +358,84 @@
             ],
             "fileNames": [
                 ".jshintignore",
-                ".editorconfig",
                 "procfile",
                 ".buildignore"
             ]
         },
         {
             "iconPath": "StyleSheet_16x.svg",
-            "fileExtensions": [],
+            "fileExtensions": [
+                "css"
+            ],
             "fileNames": []
         },
         {
             "iconPath": "TS_FileSENode_16x.svg",
-            "fileExtensions": [],
-            "fileNames": []
+            "fileExtensions": [
+                "ts",
+                "tsx",
+                "d.ts"
+            ],
+            "fileNames": [
+                "tsconfig.json",
+                "tslint.json"
+            ]
         },
         {
             "iconPath": "Table_16x.svg",
-            "fileExtensions": [],
+            "fileExtensions": [
+                "xlsx",
+                "xls",
+                "csv"
+            ],
             "fileNames": []
         },
         {
             "iconPath": "Text_16x.svg",
-            "fileExtensions": [],
+            "fileExtensions": [
+                "txt"
+            ],
             "fileNames": []
         },
         {
             "iconPath": "VirtualMachine_16x.svg",
-            "fileExtensions": [],
+            "fileExtensions": [
+                "vdi",
+                "vbox",
+                "vbox-prev"
+            ],
             "fileNames": []
         },
         {
             "iconPath": "VisualStudioLogo_whiteHalo_16x.svg",
-            "fileExtensions": [],
+            "fileExtensions": [
+                "vscodeignore",
+                "vsixmanifest",
+                "suo",
+                "sln",
+                "csproj"
+            ],
             "fileNames": []
         },
         {
             "iconPath": "WebURL_16x.svg",
-            "fileExtensions": [],
+            "fileExtensions": [
+                "url"
+            ],
             "fileNames": []
         },
         {
             "iconPath": "XMLFile_16x.svg",
-            "fileExtensions": [],
+            "fileExtensions": [
+                "xml",
+                "xsd",
+                "dtd",
+                "xsl",
+                "resx",
+                "iml",
+                "xquery",
+                "manifest"
+            ],
             "fileNames": []
         },
         {

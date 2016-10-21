@@ -3,7 +3,7 @@ Featuring Official Visual Studio icons from the wonderful Visual Studio Image Li
 
 ## Build
 
-**NOTE:** Build script needs heavy refactoring
+**NOTE:** Build script needs heavy refactoring + optimization.
 
 Uses Yarn package manager and Gulp for build tasks. Current workflow:
 
@@ -14,3 +14,7 @@ Uses Yarn package manager and Gulp for build tasks. Current workflow:
 3. Run `gulp generateMappings`
     * This uses the mappings file (/src/mappings.json) to generate the /fileicons/vscode-icon-theme.json file
     * It also creates and saves all of the test files under the /test/ directory
+
+## Other
+
+Used Philipp Kief's [Material Icon Theme](https://github.com/PKief/vscode-extension-material-icon-theme) as a great starting point for mapping icons to extensions/filenames.

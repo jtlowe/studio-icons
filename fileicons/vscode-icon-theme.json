@@ -1,1 +1,536 @@
-{"iconDefinitions":{"Android_16x.svg":{"iconPath":"./images/Android_16x.svg"},"Android_16x_inverse.svg":{"iconPath":"./images/Android_16x_inverse.svg"},"Application_16x.svg":{"iconPath":"./images/Application_16x.svg"},"Application_16x_inverse.svg":{"iconPath":"./images/Application_16x_inverse.svg"},"AudioOn_16x.svg":{"iconPath":"./images/AudioOn_16x.svg"},"AudioOn_16x_inverse.svg":{"iconPath":"./images/AudioOn_16x_inverse.svg"},"CDocument_16x.svg":{"iconPath":"./images/CDocument_16x.svg"},"CDocument_16x_inverse.svg":{"iconPath":"./images/CDocument_16x_inverse.svg"},"CPlusPlus_16x.svg":{"iconPath":"./images/CPlusPlus_16x.svg"},"CPlusPlus_16x_inverse.svg":{"iconPath":"./images/CPlusPlus_16x_inverse.svg"},"CPPHeaderFile_16x.svg":{"iconPath":"./images/CPPHeaderFile_16x.svg"},"CPPHeaderFile_16x_inverse.svg":{"iconPath":"./images/CPPHeaderFile_16x_inverse.svg"},"CSharp_16x.svg":{"iconPath":"./images/CSharp_16x.svg"},"CSharp_16x_inverse.svg":{"iconPath":"./images/CSharp_16x_inverse.svg"},"Certificate_16x.svg":{"iconPath":"./images/Certificate_16x.svg"},"Certificate_16x_inverse.svg":{"iconPath":"./images/Certificate_16x_inverse.svg"},"Console_16x.svg":{"iconPath":"./images/Console_16x.svg"},"Console_16x_inverse.svg":{"iconPath":"./images/Console_16x_inverse.svg"},"Database_16x.svg":{"iconPath":"./images/Database_16x.svg"},"Database_16x_inverse.svg":{"iconPath":"./images/Database_16x_inverse.svg"},"Document_16x.svg":{"iconPath":"./images/Document_16x.svg"},"Document_16x_inverse.svg":{"iconPath":"./images/Document_16x_inverse.svg"},"FS_16x.svg":{"iconPath":"./images/FS_16x.svg"},"FS_16x_inverse.svg":{"iconPath":"./images/FS_16x_inverse.svg"},"FolderOpen_16x.svg":{"iconPath":"./images/FolderOpen_16x.svg"},"FolderOpen_16x_inverse.svg":{"iconPath":"./images/FolderOpen_16x_inverse.svg"},"Folder_16x.svg":{"iconPath":"./images/Folder_16x.svg"},"Folder_16x_inverse.svg":{"iconPath":"./images/Folder_16x_inverse.svg"},"Font_16x.svg":{"iconPath":"./images/Font_16x.svg"},"Font_16x_inverse.svg":{"iconPath":"./images/Font_16x_inverse.svg"},"GitLogo_16x.svg":{"iconPath":"./images/GitLogo_16x.svg"},"GitLogo_16x_inverse.svg":{"iconPath":"./images/GitLogo_16x_inverse.svg"},"HTMLFile_16x.svg":{"iconPath":"./images/HTMLFile_16x.svg"},"HTMLFile_16x_inverse.svg":{"iconPath":"./images/HTMLFile_16x_inverse.svg"},"JADEScript_16x.svg":{"iconPath":"./images/JADEScript_16x.svg"},"JADEScript_16x_inverse.svg":{"iconPath":"./images/JADEScript_16x_inverse.svg"},"JSCoffeeScript_16x.svg":{"iconPath":"./images/JSCoffeeScript_16x.svg"},"JSCoffeeScript_16x_inverse.svg":{"iconPath":"./images/JSCoffeeScript_16x_inverse.svg"},"JSONScript_16x.svg":{"iconPath":"./images/JSONScript_16x.svg"},"JSONScript_16x_inverse.svg":{"iconPath":"./images/JSONScript_16x_inverse.svg"},"JSScript_16x.svg":{"iconPath":"./images/JSScript_16x.svg"},"JSScript_16x_inverse.svg":{"iconPath":"./images/JSScript_16x_inverse.svg"},"JavaFile_16x.svg":{"iconPath":"./images/JavaFile_16x.svg"},"JavaFile_16x_inverse.svg":{"iconPath":"./images/JavaFile_16x_inverse.svg"},"Key_16x.svg":{"iconPath":"./images/Key_16x.svg"},"Key_16x_inverse.svg":{"iconPath":"./images/Key_16x_inverse.svg"},"Library_16x.svg":{"iconPath":"./images/Library_16x.svg"},"Library_16x_inverse.svg":{"iconPath":"./images/Library_16x_inverse.svg"},"Mail_16x.svg":{"iconPath":"./images/Mail_16x.svg"},"Mail_16x_inverse.svg":{"iconPath":"./images/Mail_16x_inverse.svg"},"MarkdownFile_16x.svg":{"iconPath":"./images/MarkdownFile_16x.svg"},"MarkdownFile_16x_inverse.svg":{"iconPath":"./images/MarkdownFile_16x_inverse.svg"},"Media_16x.svg":{"iconPath":"./images/Media_16x.svg"},"Media_16x_inverse.svg":{"iconPath":"./images/Media_16x_inverse.svg"},"NodeJS_16x.svg":{"iconPath":"./images/NodeJS_16x.svg"},"NodeJS_16x_inverse.svg":{"iconPath":"./images/NodeJS_16x_inverse.svg"},"PHPFile_16x.svg":{"iconPath":"./images/PHPFile_16x.svg"},"PHPFile_16x_inverse.svg":{"iconPath":"./images/PHPFile_16x_inverse.svg"},"PY_16x.svg":{"iconPath":"./images/PY_16x.svg"},"PY_16x_inverse.svg":{"iconPath":"./images/PY_16x_inverse.svg"},"RB_FileSENode_16x.svg":{"iconPath":"./images/RB_FileSENode_16x.svg"},"RB_FileSENode_16x_inverse.svg":{"iconPath":"./images/RB_FileSENode_16x_inverse.svg"},"SassStyleSheet_16x.svg":{"iconPath":"./images/SassStyleSheet_16x.svg"},"SassStyleSheet_16x_inverse.svg":{"iconPath":"./images/SassStyleSheet_16x_inverse.svg"},"SettingsFile_16x.svg":{"iconPath":"./images/SettingsFile_16x.svg"},"SettingsFile_16x_inverse.svg":{"iconPath":"./images/SettingsFile_16x_inverse.svg"},"StyleSheet_16x.svg":{"iconPath":"./images/StyleSheet_16x.svg"},"StyleSheet_16x_inverse.svg":{"iconPath":"./images/StyleSheet_16x_inverse.svg"},"TS_FileSENode_16x.svg":{"iconPath":"./images/TS_FileSENode_16x.svg"},"TS_FileSENode_16x_inverse.svg":{"iconPath":"./images/TS_FileSENode_16x_inverse.svg"},"Table_16x.svg":{"iconPath":"./images/Table_16x.svg"},"Table_16x_inverse.svg":{"iconPath":"./images/Table_16x_inverse.svg"},"Text_16x.svg":{"iconPath":"./images/Text_16x.svg"},"Text_16x_inverse.svg":{"iconPath":"./images/Text_16x_inverse.svg"},"VirtualMachine_16x.svg":{"iconPath":"./images/VirtualMachine_16x.svg"},"VirtualMachine_16x_inverse.svg":{"iconPath":"./images/VirtualMachine_16x_inverse.svg"},"VisualStudioLogo_whiteHalo_16x.svg":{"iconPath":"./images/VisualStudioLogo_whiteHalo_16x.svg"},"VisualStudioLogo_whiteHalo_16x_inverse.svg":{"iconPath":"./images/VisualStudioLogo_whiteHalo_16x_inverse.svg"},"WebURL_16x.svg":{"iconPath":"./images/WebURL_16x.svg"},"WebURL_16x_inverse.svg":{"iconPath":"./images/WebURL_16x_inverse.svg"},"XMLFile_16x.svg":{"iconPath":"./images/XMLFile_16x.svg"},"XMLFile_16x_inverse.svg":{"iconPath":"./images/XMLFile_16x_inverse.svg"},"ZipFile_16x.svg":{"iconPath":"./images/ZipFile_16x.svg"},"ZipFile_16x_inverse.svg":{"iconPath":"./images/ZipFile_16x_inverse.svg"}},"folder":"Folder_16x_inverse.svg","folderExpanded":"FolderOpen_16x_inverse.svg","file":"Document_16x_inverse.svg","fileExtensions":{"exe":"Application_16x_inverse.svg","aac":"AudioOn_16x_inverse.svg","mp3":"AudioOn_16x_inverse.svg","flac":"AudioOn_16x_inverse.svg","m4a":"AudioOn_16x_inverse.svg","wma":"AudioOn_16x_inverse.svg","aiff":"AudioOn_16x_inverse.svg","cc":"CDocument_16x_inverse.svg","cpp":"CPlusPlus_16x_inverse.svg","h":"CPPHeaderFile_16x_inverse.svg","hpp":"CPPHeaderFile_16x_inverse.svg","cs":"CSharp_16x_inverse.svg","cert":"Certificate_16x_inverse.svg","cer":"Certificate_16x_inverse.svg","crt":"Certificate_16x_inverse.svg","sh":"Console_16x_inverse.svg","bat":"Console_16x_inverse.svg","ps1":"Console_16x_inverse.svg","sql":"Database_16x_inverse.svg","accdb":"Database_16x_inverse.svg","mdb":"Database_16x_inverse.svg","sqlite":"Database_16x_inverse.svg","pdb":"Database_16x_inverse.svg","json":"JSONScript_16x_inverse.svg","graphql":"JSONScript_16x_inverse.svg","zip":"ZipFile_16x_inverse.svg","tar":"ZipFile_16x_inverse.svg","gz":"ZipFile_16x_inverse.svg","xz":"ZipFile_16x_inverse.svg","bzip2":"ZipFile_16x_inverse.svg","7z":"ZipFile_16x_inverse.svg","rar":"ZipFile_16x_inverse.svg","tgz":"ZipFile_16x_inverse.svg"},"fileNames":{"androidmanifest.xml":"Android_16x.svg","license":"Certificate_16x.svg","license.md":"Certificate_16x.svg","license.md.rendered":"Certificate_16x.svg","license.txt":"Certificate_16x.svg",".jscsrc":"JSONScript_16x.svg",".jshintrc":"JSONScript_16x.svg",".babelrc":"JSONScript_16x.svg","composer.lock":"JSONScript_16x.svg"},"folderNames":{},"languageIds":{},"light":{"folder":"Folder_16x.svg","folderExpanded":"FolderOpen_16x.svg","file":"Document_16x.svg","fileExtensions":{"exe":"Application_16x.svg","aac":"AudioOn_16x.svg","mp3":"AudioOn_16x.svg","flac":"AudioOn_16x.svg","m4a":"AudioOn_16x.svg","wma":"AudioOn_16x.svg","aiff":"AudioOn_16x.svg","cc":"CDocument_16x.svg","cpp":"CPlusPlus_16x.svg","h":"CPPHeaderFile_16x.svg","hpp":"CPPHeaderFile_16x.svg","cs":"CSharp_16x.svg","cert":"Certificate_16x.svg","cer":"Certificate_16x.svg","crt":"Certificate_16x.svg","sh":"Console_16x.svg","bat":"Console_16x.svg","ps1":"Console_16x.svg","sql":"Database_16x.svg","accdb":"Database_16x.svg","mdb":"Database_16x.svg","sqlite":"Database_16x.svg","pdb":"Database_16x.svg","json":"JSONScript_16x.svg","graphql":"JSONScript_16x.svg","zip":"ZipFile_16x.svg","tar":"ZipFile_16x.svg","gz":"ZipFile_16x.svg","xz":"ZipFile_16x.svg","bzip2":"ZipFile_16x.svg","7z":"ZipFile_16x.svg","rar":"ZipFile_16x.svg","tgz":"ZipFile_16x.svg"},"fileNames":{"androidmanifest.xml":"Android_16x.svg","license":"Certificate_16x.svg","license.md":"Certificate_16x.svg","license.md.rendered":"Certificate_16x.svg","license.txt":"Certificate_16x.svg",".jscsrc":"JSONScript_16x.svg",".jshintrc":"JSONScript_16x.svg",".babelrc":"JSONScript_16x.svg","composer.lock":"JSONScript_16x.svg"},"folderNames":{},"languageIds":{}}}
+{
+    "iconDefinitions": {
+        "Android_16x.svg": {
+            "iconPath": "./images/Android_16x.svg"
+        },
+        "Android_16x_inverse.svg": {
+            "iconPath": "./images/Android_16x_inverse.svg"
+        },
+        "Application_16x.svg": {
+            "iconPath": "./images/Application_16x.svg"
+        },
+        "Application_16x_inverse.svg": {
+            "iconPath": "./images/Application_16x_inverse.svg"
+        },
+        "AudioOn_16x.svg": {
+            "iconPath": "./images/AudioOn_16x.svg"
+        },
+        "AudioOn_16x_inverse.svg": {
+            "iconPath": "./images/AudioOn_16x_inverse.svg"
+        },
+        "CDocument_16x.svg": {
+            "iconPath": "./images/CDocument_16x.svg"
+        },
+        "CDocument_16x_inverse.svg": {
+            "iconPath": "./images/CDocument_16x_inverse.svg"
+        },
+        "CPlusPlus_16x.svg": {
+            "iconPath": "./images/CPlusPlus_16x.svg"
+        },
+        "CPlusPlus_16x_inverse.svg": {
+            "iconPath": "./images/CPlusPlus_16x_inverse.svg"
+        },
+        "CPPHeaderFile_16x.svg": {
+            "iconPath": "./images/CPPHeaderFile_16x.svg"
+        },
+        "CPPHeaderFile_16x_inverse.svg": {
+            "iconPath": "./images/CPPHeaderFile_16x_inverse.svg"
+        },
+        "CSharp_16x.svg": {
+            "iconPath": "./images/CSharp_16x.svg"
+        },
+        "CSharp_16x_inverse.svg": {
+            "iconPath": "./images/CSharp_16x_inverse.svg"
+        },
+        "Certificate_16x.svg": {
+            "iconPath": "./images/Certificate_16x.svg"
+        },
+        "Certificate_16x_inverse.svg": {
+            "iconPath": "./images/Certificate_16x_inverse.svg"
+        },
+        "Console_16x.svg": {
+            "iconPath": "./images/Console_16x.svg"
+        },
+        "Console_16x_inverse.svg": {
+            "iconPath": "./images/Console_16x_inverse.svg"
+        },
+        "Database_16x.svg": {
+            "iconPath": "./images/Database_16x.svg"
+        },
+        "Database_16x_inverse.svg": {
+            "iconPath": "./images/Database_16x_inverse.svg"
+        },
+        "Document_16x.svg": {
+            "iconPath": "./images/Document_16x.svg"
+        },
+        "Document_16x_inverse.svg": {
+            "iconPath": "./images/Document_16x_inverse.svg"
+        },
+        "FS_16x.svg": {
+            "iconPath": "./images/FS_16x.svg"
+        },
+        "FS_16x_inverse.svg": {
+            "iconPath": "./images/FS_16x_inverse.svg"
+        },
+        "FolderOpen_16x.svg": {
+            "iconPath": "./images/FolderOpen_16x.svg"
+        },
+        "FolderOpen_16x_inverse.svg": {
+            "iconPath": "./images/FolderOpen_16x_inverse.svg"
+        },
+        "Folder_16x.svg": {
+            "iconPath": "./images/Folder_16x.svg"
+        },
+        "Folder_16x_inverse.svg": {
+            "iconPath": "./images/Folder_16x_inverse.svg"
+        },
+        "Font_16x.svg": {
+            "iconPath": "./images/Font_16x.svg"
+        },
+        "Font_16x_inverse.svg": {
+            "iconPath": "./images/Font_16x_inverse.svg"
+        },
+        "GitLogo_16x.svg": {
+            "iconPath": "./images/GitLogo_16x.svg"
+        },
+        "GitLogo_16x_inverse.svg": {
+            "iconPath": "./images/GitLogo_16x_inverse.svg"
+        },
+        "HTMLFile_16x.svg": {
+            "iconPath": "./images/HTMLFile_16x.svg"
+        },
+        "HTMLFile_16x_inverse.svg": {
+            "iconPath": "./images/HTMLFile_16x_inverse.svg"
+        },
+        "JADEScript_16x.svg": {
+            "iconPath": "./images/JADEScript_16x.svg"
+        },
+        "JADEScript_16x_inverse.svg": {
+            "iconPath": "./images/JADEScript_16x_inverse.svg"
+        },
+        "JSCoffeeScript_16x.svg": {
+            "iconPath": "./images/JSCoffeeScript_16x.svg"
+        },
+        "JSCoffeeScript_16x_inverse.svg": {
+            "iconPath": "./images/JSCoffeeScript_16x_inverse.svg"
+        },
+        "JSONScript_16x.svg": {
+            "iconPath": "./images/JSONScript_16x.svg"
+        },
+        "JSONScript_16x_inverse.svg": {
+            "iconPath": "./images/JSONScript_16x_inverse.svg"
+        },
+        "JSScript_16x.svg": {
+            "iconPath": "./images/JSScript_16x.svg"
+        },
+        "JSScript_16x_inverse.svg": {
+            "iconPath": "./images/JSScript_16x_inverse.svg"
+        },
+        "JavaFile_16x.svg": {
+            "iconPath": "./images/JavaFile_16x.svg"
+        },
+        "JavaFile_16x_inverse.svg": {
+            "iconPath": "./images/JavaFile_16x_inverse.svg"
+        },
+        "Key_16x.svg": {
+            "iconPath": "./images/Key_16x.svg"
+        },
+        "Key_16x_inverse.svg": {
+            "iconPath": "./images/Key_16x_inverse.svg"
+        },
+        "LessStyleSheet_16x.svg": {
+            "iconPath": "./images/LessStyleSheet_16x.svg"
+        },
+        "LessStyleSheet_16x_inverse.svg": {
+            "iconPath": "./images/LessStyleSheet_16x_inverse.svg"
+        },
+        "Library_16x.svg": {
+            "iconPath": "./images/Library_16x.svg"
+        },
+        "Library_16x_inverse.svg": {
+            "iconPath": "./images/Library_16x_inverse.svg"
+        },
+        "Mail_16x.svg": {
+            "iconPath": "./images/Mail_16x.svg"
+        },
+        "Mail_16x_inverse.svg": {
+            "iconPath": "./images/Mail_16x_inverse.svg"
+        },
+        "MarkdownFile_16x.svg": {
+            "iconPath": "./images/MarkdownFile_16x.svg"
+        },
+        "MarkdownFile_16x_inverse.svg": {
+            "iconPath": "./images/MarkdownFile_16x_inverse.svg"
+        },
+        "Media_16x.svg": {
+            "iconPath": "./images/Media_16x.svg"
+        },
+        "Media_16x_inverse.svg": {
+            "iconPath": "./images/Media_16x_inverse.svg"
+        },
+        "NodeJS_16x.svg": {
+            "iconPath": "./images/NodeJS_16x.svg"
+        },
+        "NodeJS_16x_inverse.svg": {
+            "iconPath": "./images/NodeJS_16x_inverse.svg"
+        },
+        "PHPFile_16x.svg": {
+            "iconPath": "./images/PHPFile_16x.svg"
+        },
+        "PHPFile_16x_inverse.svg": {
+            "iconPath": "./images/PHPFile_16x_inverse.svg"
+        },
+        "PY_16x.svg": {
+            "iconPath": "./images/PY_16x.svg"
+        },
+        "PY_16x_inverse.svg": {
+            "iconPath": "./images/PY_16x_inverse.svg"
+        },
+        "RB_FileSENode_16x.svg": {
+            "iconPath": "./images/RB_FileSENode_16x.svg"
+        },
+        "RB_FileSENode_16x_inverse.svg": {
+            "iconPath": "./images/RB_FileSENode_16x_inverse.svg"
+        },
+        "SassStyleSheet_16x.svg": {
+            "iconPath": "./images/SassStyleSheet_16x.svg"
+        },
+        "SassStyleSheet_16x_inverse.svg": {
+            "iconPath": "./images/SassStyleSheet_16x_inverse.svg"
+        },
+        "SettingsFile_16x.svg": {
+            "iconPath": "./images/SettingsFile_16x.svg"
+        },
+        "SettingsFile_16x_inverse.svg": {
+            "iconPath": "./images/SettingsFile_16x_inverse.svg"
+        },
+        "StyleSheet_16x.svg": {
+            "iconPath": "./images/StyleSheet_16x.svg"
+        },
+        "StyleSheet_16x_inverse.svg": {
+            "iconPath": "./images/StyleSheet_16x_inverse.svg"
+        },
+        "TS_FileSENode_16x.svg": {
+            "iconPath": "./images/TS_FileSENode_16x.svg"
+        },
+        "TS_FileSENode_16x_inverse.svg": {
+            "iconPath": "./images/TS_FileSENode_16x_inverse.svg"
+        },
+        "Table_16x.svg": {
+            "iconPath": "./images/Table_16x.svg"
+        },
+        "Table_16x_inverse.svg": {
+            "iconPath": "./images/Table_16x_inverse.svg"
+        },
+        "Text_16x.svg": {
+            "iconPath": "./images/Text_16x.svg"
+        },
+        "Text_16x_inverse.svg": {
+            "iconPath": "./images/Text_16x_inverse.svg"
+        },
+        "VirtualMachine_16x.svg": {
+            "iconPath": "./images/VirtualMachine_16x.svg"
+        },
+        "VirtualMachine_16x_inverse.svg": {
+            "iconPath": "./images/VirtualMachine_16x_inverse.svg"
+        },
+        "VisualStudioLogo_whiteHalo_16x.svg": {
+            "iconPath": "./images/VisualStudioLogo_whiteHalo_16x.svg"
+        },
+        "VisualStudioLogo_whiteHalo_16x_inverse.svg": {
+            "iconPath": "./images/VisualStudioLogo_whiteHalo_16x_inverse.svg"
+        },
+        "WebURL_16x.svg": {
+            "iconPath": "./images/WebURL_16x.svg"
+        },
+        "WebURL_16x_inverse.svg": {
+            "iconPath": "./images/WebURL_16x_inverse.svg"
+        },
+        "XMLFile_16x.svg": {
+            "iconPath": "./images/XMLFile_16x.svg"
+        },
+        "XMLFile_16x_inverse.svg": {
+            "iconPath": "./images/XMLFile_16x_inverse.svg"
+        },
+        "ZipFile_16x.svg": {
+            "iconPath": "./images/ZipFile_16x.svg"
+        },
+        "ZipFile_16x_inverse.svg": {
+            "iconPath": "./images/ZipFile_16x_inverse.svg"
+        }
+    },
+    "folder": "Folder_16x_inverse.svg",
+    "folderExpanded": "FolderOpen_16x_inverse.svg",
+    "file": "Document_16x_inverse.svg",
+    "fileExtensions": {
+        "exe": "Application_16x_inverse.svg",
+        "aac": "AudioOn_16x_inverse.svg",
+        "mp3": "AudioOn_16x_inverse.svg",
+        "flac": "AudioOn_16x_inverse.svg",
+        "m4a": "AudioOn_16x_inverse.svg",
+        "wma": "AudioOn_16x_inverse.svg",
+        "aiff": "AudioOn_16x_inverse.svg",
+        "cc": "CDocument_16x_inverse.svg",
+        "cpp": "CPlusPlus_16x_inverse.svg",
+        "h": "CPPHeaderFile_16x_inverse.svg",
+        "hpp": "CPPHeaderFile_16x_inverse.svg",
+        "cs": "CSharp_16x_inverse.svg",
+        "cert": "Certificate_16x_inverse.svg",
+        "cer": "Certificate_16x_inverse.svg",
+        "crt": "Certificate_16x_inverse.svg",
+        "sh": "Console_16x_inverse.svg",
+        "bat": "Console_16x_inverse.svg",
+        "ps1": "Console_16x_inverse.svg",
+        "sql": "Database_16x_inverse.svg",
+        "accdb": "Database_16x_inverse.svg",
+        "mdb": "Database_16x_inverse.svg",
+        "sqlite": "Database_16x_inverse.svg",
+        "pdb": "Database_16x_inverse.svg",
+        "fs": "FS_16x_inverse.svg",
+        "fsproj": "FS_16x_inverse.svg",
+        "woff": "Font_16x_inverse.svg",
+        "woff2": "Font_16x_inverse.svg",
+        "ttf": "Font_16x_inverse.svg",
+        "eot": "Font_16x_inverse.svg",
+        "suit": "Font_16x_inverse.svg",
+        "otf": "Font_16x_inverse.svg",
+        "bmap": "Font_16x_inverse.svg",
+        "fnt": "Font_16x_inverse.svg",
+        "odttf": "Font_16x_inverse.svg",
+        "ttc": "Font_16x_inverse.svg",
+        "font": "Font_16x_inverse.svg",
+        "fonts": "Font_16x_inverse.svg",
+        "sui": "Font_16x_inverse.svg",
+        "ntf": "Font_16x_inverse.svg",
+        "mrf": "Font_16x_inverse.svg",
+        "htm": "HTMLFile_16x_inverse.svg",
+        "html": "HTMLFile_16x_inverse.svg",
+        "jade": "JADEScript_16x_inverse.svg",
+        "coffee": "JSCoffeeScript_16x_inverse.svg",
+        "json": "JSONScript_16x_inverse.svg",
+        "graphql": "JSONScript_16x_inverse.svg",
+        "js": "JSScript_16x_inverse.svg",
+        "jsx": "JSScript_16x_inverse.svg",
+        "ejs": "JSScript_16x_inverse.svg",
+        "esx": "JSScript_16x_inverse.svg",
+        "java": "JavaFile_16x_inverse.svg",
+        "jar": "JavaFile_16x_inverse.svg",
+        "jsp": "JavaFile_16x_inverse.svg",
+        "pub": "Key_16x_inverse.svg",
+        "key": "Key_16x_inverse.svg",
+        "pem": "Key_16x_inverse.svg",
+        "asc": "Key_16x_inverse.svg",
+        "less": "LessStyleSheet_16x_inverse.svg",
+        "lib": "Library_16x_inverse.svg",
+        "bib": "Library_16x_inverse.svg",
+        "ics": "Mail_16x_inverse.svg",
+        "mailmap": "Mail_16x_inverse.svg",
+        "md": "MarkdownFile_16x_inverse.svg",
+        "md.rendered": "MarkdownFile_16x_inverse.svg",
+        "webm": "Media_16x_inverse.svg",
+        "mkv": "Media_16x_inverse.svg",
+        "flv": "Media_16x_inverse.svg",
+        "vob": "Media_16x_inverse.svg",
+        "ogv": "Media_16x_inverse.svg",
+        "ogg": "Media_16x_inverse.svg",
+        "gifv": "Media_16x_inverse.svg",
+        "avi": "Media_16x_inverse.svg",
+        "mov": "Media_16x_inverse.svg",
+        "qt": "Media_16x_inverse.svg",
+        "wmv": "Media_16x_inverse.svg",
+        "yuv": "Media_16x_inverse.svg",
+        "rm": "Media_16x_inverse.svg",
+        "rmvb": "Media_16x_inverse.svg",
+        "mp4": "Media_16x_inverse.svg",
+        "m4v": "Media_16x_inverse.svg",
+        "mpg": "Media_16x_inverse.svg",
+        "mp2": "Media_16x_inverse.svg",
+        "mpeg": "Media_16x_inverse.svg",
+        "mpe": "Media_16x_inverse.svg",
+        "mpv": "Media_16x_inverse.svg",
+        "m2v": "Media_16x_inverse.svg",
+        "php": "PHPFile_16x_inverse.svg",
+        "py": "PY_16x_inverse.svg",
+        "rb": "RB_FileSENode_16x_inverse.svg",
+        "sass": "SassStyleSheet_16x_inverse.svg",
+        "scss": "SassStyleSheet_16x_inverse.svg",
+        "ini": "SettingsFile_16x_inverse.svg",
+        "dlc": "SettingsFile_16x_inverse.svg",
+        "dll": "SettingsFile_16x_inverse.svg",
+        "config": "SettingsFile_16x_inverse.svg",
+        "conf": "SettingsFile_16x_inverse.svg",
+        "properties": "SettingsFile_16x_inverse.svg",
+        "prop": "SettingsFile_16x_inverse.svg",
+        "props": "SettingsFile_16x_inverse.svg",
+        "settings": "SettingsFile_16x_inverse.svg",
+        "zip": "ZipFile_16x_inverse.svg",
+        "tar": "ZipFile_16x_inverse.svg",
+        "gz": "ZipFile_16x_inverse.svg",
+        "xz": "ZipFile_16x_inverse.svg",
+        "bzip2": "ZipFile_16x_inverse.svg",
+        "7z": "ZipFile_16x_inverse.svg",
+        "rar": "ZipFile_16x_inverse.svg",
+        "tgz": "ZipFile_16x_inverse.svg"
+    },
+    "fileNames": {
+        "androidmanifest.xml": "Android_16x.svg",
+        "license": "Certificate_16x.svg",
+        "license.md": "Certificate_16x.svg",
+        "license.md.rendered": "Certificate_16x.svg",
+        "license.txt": "Certificate_16x.svg",
+        ".gitignore": "GitLogo_16x.svg",
+        ".gitconfig": "GitLogo_16x.svg",
+        ".gitattributes": "GitLogo_16x.svg",
+        ".gitmodules": "GitLogo_16x.svg",
+        ".gitkeep": "GitLogo_16x.svg",
+        ".jscsrc": "JSONScript_16x.svg",
+        ".jshintrc": "JSONScript_16x.svg",
+        ".babelrc": "JSONScript_16x.svg",
+        "composer.lock": "JSONScript_16x.svg",
+        "package.json": "NodeJS_16x.svg",
+        ".jshintignore": "SettingsFile_16x.svg",
+        ".editorconfig": "SettingsFile_16x.svg",
+        "procfile": "SettingsFile_16x.svg",
+        ".buildignore": "SettingsFile_16x.svg"
+    },
+    "folderNames": {},
+    "languageIds": {},
+    "light": {
+        "folder": "Folder_16x.svg",
+        "folderExpanded": "FolderOpen_16x.svg",
+        "file": "Document_16x.svg",
+        "fileExtensions": {
+            "exe": "Application_16x.svg",
+            "aac": "AudioOn_16x.svg",
+            "mp3": "AudioOn_16x.svg",
+            "flac": "AudioOn_16x.svg",
+            "m4a": "AudioOn_16x.svg",
+            "wma": "AudioOn_16x.svg",
+            "aiff": "AudioOn_16x.svg",
+            "cc": "CDocument_16x.svg",
+            "cpp": "CPlusPlus_16x.svg",
+            "h": "CPPHeaderFile_16x.svg",
+            "hpp": "CPPHeaderFile_16x.svg",
+            "cs": "CSharp_16x.svg",
+            "cert": "Certificate_16x.svg",
+            "cer": "Certificate_16x.svg",
+            "crt": "Certificate_16x.svg",
+            "sh": "Console_16x.svg",
+            "bat": "Console_16x.svg",
+            "ps1": "Console_16x.svg",
+            "sql": "Database_16x.svg",
+            "accdb": "Database_16x.svg",
+            "mdb": "Database_16x.svg",
+            "sqlite": "Database_16x.svg",
+            "pdb": "Database_16x.svg",
+            "fs": "FS_16x.svg",
+            "fsproj": "FS_16x.svg",
+            "woff": "Font_16x.svg",
+            "woff2": "Font_16x.svg",
+            "ttf": "Font_16x.svg",
+            "eot": "Font_16x.svg",
+            "suit": "Font_16x.svg",
+            "otf": "Font_16x.svg",
+            "bmap": "Font_16x.svg",
+            "fnt": "Font_16x.svg",
+            "odttf": "Font_16x.svg",
+            "ttc": "Font_16x.svg",
+            "font": "Font_16x.svg",
+            "fonts": "Font_16x.svg",
+            "sui": "Font_16x.svg",
+            "ntf": "Font_16x.svg",
+            "mrf": "Font_16x.svg",
+            "htm": "HTMLFile_16x.svg",
+            "html": "HTMLFile_16x.svg",
+            "jade": "JADEScript_16x.svg",
+            "coffee": "JSCoffeeScript_16x.svg",
+            "json": "JSONScript_16x.svg",
+            "graphql": "JSONScript_16x.svg",
+            "js": "JSScript_16x.svg",
+            "jsx": "JSScript_16x.svg",
+            "ejs": "JSScript_16x.svg",
+            "esx": "JSScript_16x.svg",
+            "java": "JavaFile_16x.svg",
+            "jar": "JavaFile_16x.svg",
+            "jsp": "JavaFile_16x.svg",
+            "pub": "Key_16x.svg",
+            "key": "Key_16x.svg",
+            "pem": "Key_16x.svg",
+            "asc": "Key_16x.svg",
+            "less": "LessStyleSheet_16x.svg",
+            "lib": "Library_16x.svg",
+            "bib": "Library_16x.svg",
+            "ics": "Mail_16x.svg",
+            "mailmap": "Mail_16x.svg",
+            "md": "MarkdownFile_16x.svg",
+            "md.rendered": "MarkdownFile_16x.svg",
+            "webm": "Media_16x.svg",
+            "mkv": "Media_16x.svg",
+            "flv": "Media_16x.svg",
+            "vob": "Media_16x.svg",
+            "ogv": "Media_16x.svg",
+            "ogg": "Media_16x.svg",
+            "gifv": "Media_16x.svg",
+            "avi": "Media_16x.svg",
+            "mov": "Media_16x.svg",
+            "qt": "Media_16x.svg",
+            "wmv": "Media_16x.svg",
+            "yuv": "Media_16x.svg",
+            "rm": "Media_16x.svg",
+            "rmvb": "Media_16x.svg",
+            "mp4": "Media_16x.svg",
+            "m4v": "Media_16x.svg",
+            "mpg": "Media_16x.svg",
+            "mp2": "Media_16x.svg",
+            "mpeg": "Media_16x.svg",
+            "mpe": "Media_16x.svg",
+            "mpv": "Media_16x.svg",
+            "m2v": "Media_16x.svg",
+            "php": "PHPFile_16x.svg",
+            "py": "PY_16x.svg",
+            "rb": "RB_FileSENode_16x.svg",
+            "sass": "SassStyleSheet_16x.svg",
+            "scss": "SassStyleSheet_16x.svg",
+            "ini": "SettingsFile_16x.svg",
+            "dlc": "SettingsFile_16x.svg",
+            "dll": "SettingsFile_16x.svg",
+            "config": "SettingsFile_16x.svg",
+            "conf": "SettingsFile_16x.svg",
+            "properties": "SettingsFile_16x.svg",
+            "prop": "SettingsFile_16x.svg",
+            "props": "SettingsFile_16x.svg",
+            "settings": "SettingsFile_16x.svg",
+            "zip": "ZipFile_16x.svg",
+            "tar": "ZipFile_16x.svg",
+            "gz": "ZipFile_16x.svg",
+            "xz": "ZipFile_16x.svg",
+            "bzip2": "ZipFile_16x.svg",
+            "7z": "ZipFile_16x.svg",
+            "rar": "ZipFile_16x.svg",
+            "tgz": "ZipFile_16x.svg"
+        },
+        "fileNames": {
+            "androidmanifest.xml": "Android_16x.svg",
+            "license": "Certificate_16x.svg",
+            "license.md": "Certificate_16x.svg",
+            "license.md.rendered": "Certificate_16x.svg",
+            "license.txt": "Certificate_16x.svg",
+            ".gitignore": "GitLogo_16x.svg",
+            ".gitconfig": "GitLogo_16x.svg",
+            ".gitattributes": "GitLogo_16x.svg",
+            ".gitmodules": "GitLogo_16x.svg",
+            ".gitkeep": "GitLogo_16x.svg",
+            ".jscsrc": "JSONScript_16x.svg",
+            ".jshintrc": "JSONScript_16x.svg",
+            ".babelrc": "JSONScript_16x.svg",
+            "composer.lock": "JSONScript_16x.svg",
+            "package.json": "NodeJS_16x.svg",
+            ".jshintignore": "SettingsFile_16x.svg",
+            ".editorconfig": "SettingsFile_16x.svg",
+            "procfile": "SettingsFile_16x.svg",
+            ".buildignore": "SettingsFile_16x.svg"
+        },
+        "folderNames": {},
+        "languageIds": {}
+    }
+}

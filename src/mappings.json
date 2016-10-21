@@ -114,7 +114,10 @@
         },
         {
             "iconPath": "FS_16x.svg",
-            "fileExtensions": [],
+            "fileExtensions": [
+                "fs",
+                "fsproj"
+            ],
             "fileNames": []
         },
         {
@@ -129,27 +132,56 @@
         },
         {
             "iconPath": "Font_16x.svg",
-            "fileExtensions": [],
+            "fileExtensions": [
+                "woff",
+                "woff2",
+                "ttf",
+                "eot",
+                "suit",
+                "otf",
+                "bmap",
+                "fnt",
+                "odttf",
+                "ttc",
+                "font",
+                "fonts",
+                "sui",
+                "ntf",
+                "mrf"
+            ],
             "fileNames": []
         },
         {
             "iconPath": "GitLogo_16x.svg",
             "fileExtensions": [],
-            "fileNames": []
+            "fileNames": [
+                ".gitignore",
+                ".gitconfig",
+                ".gitattributes",
+                ".gitmodules",
+                ".gitkeep"
+            ]
         },
         {
             "iconPath": "HTMLFile_16x.svg",
-            "fileExtensions": [],
+            "fileExtensions": [
+                "htm",
+                "html"
+            ],
             "fileNames": []
         },
         {
             "iconPath": "JADEScript_16x.svg",
-            "fileExtensions": [],
+            "fileExtensions": [
+                "jade"
+            ],
             "fileNames": []
         },
         {
             "iconPath": "JSCoffeeScript_16x.svg",
-            "fileExtensions": [],
+            "fileExtensions": [
+                "coffee"
+            ],
             "fileNames": []
         },
         {
@@ -167,68 +199,147 @@
         },
         {
             "iconPath": "JSScript_16x.svg",
-            "fileExtensions": [],
+            "fileExtensions": [
+                "js",
+                "jsx",
+                "ejs",
+                "esx"
+            ],
             "fileNames": []
         },
         {
             "iconPath": "JavaFile_16x.svg",
-            "fileExtensions": [],
+            "fileExtensions": [
+                "java",
+                "jar",
+                "jsp"
+            ],
             "fileNames": []
         },
         {
             "iconPath": "Key_16x.svg",
-            "fileExtensions": [],
+            "fileExtensions": [
+                "pub",
+                "key",
+                "pem",
+                "asc"
+            ],
+            "fileNames": []
+        },
+        {
+            "iconPath": "LessStyleSheet_16x.svg",
+            "fileExtensions": [
+                "less"
+            ],
             "fileNames": []
         },
         {
             "iconPath": "Library_16x.svg",
-            "fileExtensions": [],
+            "fileExtensions": [
+                "lib",
+                "bib"
+            ],
             "fileNames": []
         },
         {
             "iconPath": "Mail_16x.svg",
-            "fileExtensions": [],
+            "fileExtensions": [
+                "ics",
+                "mailmap"
+            ],
             "fileNames": []
         },
         {
             "iconPath": "MarkdownFile_16x.svg",
-            "fileExtensions": [],
+            "fileExtensions": [
+                "md",
+                "md.rendered"
+            ],
             "fileNames": []
         },
         {
             "iconPath": "Media_16x.svg",
-            "fileExtensions": [],
+            "fileExtensions": [
+                "webm",
+                "mkv",
+                "flv",
+                "vob",
+                "ogv",
+                "ogg",
+                "gifv",
+                "avi",
+                "mov",
+                "qt",
+                "wmv",
+                "yuv",
+                "rm",
+                "rmvb",
+                "mp4",
+                "m4v",
+                "mpg",
+                "mp2",
+                "mpeg",
+                "mpe",
+                "mpv",
+                "m2v"
+            ],
             "fileNames": []
         },
         {
             "iconPath": "NodeJS_16x.svg",
             "fileExtensions": [],
-            "fileNames": []
+            "fileNames": [
+                "package.json"
+            ]
         },
         {
             "iconPath": "PHPFile_16x.svg",
-            "fileExtensions": [],
+            "fileExtensions": [
+                "php"
+            ],
             "fileNames": []
         },
         {
             "iconPath": "PY_16x.svg",
-            "fileExtensions": [],
+            "fileExtensions": [
+                "py"
+            ],
             "fileNames": []
         },
         {
             "iconPath": "RB_FileSENode_16x.svg",
-            "fileExtensions": [],
+            "fileExtensions": [
+                "rb"
+            ],
             "fileNames": []
         },
         {
             "iconPath": "SassStyleSheet_16x.svg",
-            "fileExtensions": [],
+            "fileExtensions": [
+                "sass",
+                "scss"
+            ],
             "fileNames": []
         },
         {
             "iconPath": "SettingsFile_16x.svg",
-            "fileExtensions": [],
-            "fileNames": []
+            "fileExtensions": [
+                "ini",
+                "dlc",
+                "dll",
+                "config",
+                "conf",
+                "properties",
+                "prop",
+                "props",
+                "settings"
+            ],
+            "fileNames": [
+                ".jshintignore",
+                ".editorconfig",
+                "procfile",
+                ".buildignore"
+            ]
         },
         {
             "iconPath": "StyleSheet_16x.svg",
@@ -286,6 +397,5 @@
             "folderNames": [],
             "languageIds": []
         }
-
     ]
 }

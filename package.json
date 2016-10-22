@@ -2,7 +2,7 @@
   "name": "vscode-icon-theme",
   "displayName": "VS Code Icon Theme",
   "description": "Featuring Official Visual Studio icons from the wonderful Visual Studio Image Library. These icons have been color optimized for both default light and dark themes.",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "publisher": "jtlowe",
   "engines": {
     "vscode": "^1.5.0"

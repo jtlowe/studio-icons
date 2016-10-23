@@ -8,11 +8,11 @@
 <g id="icon_x5F_bg">
 	<g>
 		<rect x="7" y="3" style="fill:#656565;" width="1" height="1"/>
-		<rect x="7" y="5" style="fill:#656565;" width="1" height="1"/>
-		<path style="fill:#656565;" d="M11.639,1H5.964C5.964,1,5,1,5,2c0,0.508,0,3.337,0,6h1V2h5v3h3v3v1.001v3v0.994
+		<rect x="7" y="5" style="fill:#424242;" width="1" height="1"/>
+		<path style="fill:#424242;" d="M11.639,1H5.964C5.964,1,5,1,5,2c0,0.508,0,3.337,0,6h1V2h5v3h3v3v1.001v3v0.994
 			c0.961-0.025,1-0.994,1-0.994V4L11.639,1z"/>
-		<polygon style="fill:#656565;" points="10.998,8 12.029,7 12.028,8 13,8 13,6 11.705,6 9.598,8 		"/>
-		<rect x="7" y="7" style="fill:#656565;" width="1" height="1"/>
+		<polygon style="fill:#424242;" points="10.998,8 12.029,7 12.028,8 13,8 13,6 11.705,6 9.598,8 		"/>
+		<rect x="7" y="7" style="fill:#424242;" width="1" height="1"/>
 	</g>
 </g>
 <g id="color_x5F_importance">

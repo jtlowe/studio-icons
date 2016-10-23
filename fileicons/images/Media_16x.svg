@@ -4,14 +4,14 @@
 	 viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve">
 <g id="outline">
 	<rect style="opacity:0;fill:#F3F3F3;" width="16" height="16"/>
-	<rect x="1" style="fill:#F3F3F3;" width="14" height="15"/>
+	<rect x="1" style="fill:#F6F6F6;" width="14" height="15"/>
 </g>
 <g id="icon_x5F_bg">
 	<g>
 		<path style="fill:#656565;" d="M2,1v13h12V1H2z M4,13H3v-1h1V13z M4,11H3v-1h1V11z M4,9H3V8h1V9z M4,7H3V6h1V7z M4,5H3V4h1V5z
 			 M4,3H3V2h1V3z M11,13H5V2h6V13z M13,13h-1v-1h1V13z M13,11h-1v-1h1V11z M13,9h-1V8h1V9z M13,7h-1V6h1V7z M13,5h-1V4h1V5z M13,3
 			h-1V2h1V3z"/>
-		<polygon style="fill:#656565;" points="7,5 7,10 10,7.5 		"/>
+		<polygon style="fill:#424242;" points="7,5 7,10 10,7.5 		"/>
 	</g>
 </g>
 <g id="icon_x5F_fg">

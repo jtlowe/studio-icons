@@ -6,7 +6,7 @@
 	<path style="opacity:0;fill:#252526;" d="M16,16H0V0h16V16z"/>
 </g>
 <g id="outline">
-	<path style="fill:#252526;" d="M16,15H0V1h16V15z"/>
+	<path style="fill:#F6F6F6;" d="M16,15H0V1h16V15z"/>
 </g>
 <g id="iconBg">
 	<path style="fill:#C5C5C5;" d="M1,2v12h14V2H1z M14,13H2V5h12V13z"/>

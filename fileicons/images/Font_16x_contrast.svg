@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 20.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve">
+<g id="outline">
+	<rect style="opacity:0;fill:#000000;" width="16" height="16"/>
+	<path style="fill:#000000;" d="M16,12h-1V4h-2.879l1.646-1.646l-2.121-2.121L6.735,5.144L4.677,0H2.323L0,5.807V7h2.677l0.4-1
+		h0.846l0.4,1h0.556l-4.646,4.646l2.121,2.121L4,12.121V13v3h12V12z"/>
+</g>
+<g id="icon_x5F_bg">
+	<path style="fill:#FFFFFF;" d="M5,6h1L4,1H3L1,6h1l0.399-1h2.201L5,6z M2.8,4l0.7-1.75L4.2,4H2.8z M15,15H5v-1h10V15z M7,7
+		 M14.375,12.75c-0.207,0-0.375-0.158-0.375-0.354v-0.354V5.5V5h-0.25l-6.734,6.734c0,0-0.953,1.016-1.516,1.016V13H8v-0.25
+		c0,0-0.03,0-0.375,0c-0.188,0-0.477-0.398,0.172-1.047L9,10.5h3v1.521c0,0,0,0.163,0,0.364c0,0.202-0.168,0.365-0.375,0.365H11.25
+		V13H12h2h0.75v-0.25C14.75,12.75,14.582,12.75,14.375,12.75z M9.5,10L12,7.5V10H9.5z M2.354,12.354l-0.707-0.707l10-10l0.707,0.707
+		L2.354,12.354z"/>
+</g>
+</svg>

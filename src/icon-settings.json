@@ -7,6 +7,11 @@
         "folder": "Folder_16x.svg",
         "file": "Document_16x.svg"
     },
+    "contrast": {
+        "folderExpanded": "FolderOpen_16x_contrast.svg",
+        "folder": "Folder_16x_contrast.svg",
+        "file": "Document_16x_contrast.svg"
+    },
     "iconDefinitions": [
         {
             "iconPath": "Android_16x.svg",

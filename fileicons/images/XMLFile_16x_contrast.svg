@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 20.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve">
+<g id="canvas">
+	<path style="opacity:0;fill:#000000;" d="M16,16H0V0h16V16z"/>
+</g>
+<g id="outline">
+	<path style="fill:#000000;" d="M2.965,16C2.012,16,1,15.299,1,14V2c0-1.299,1.012-2,1.964-2h8.059L15,3.553V14
+		c-0.028,0.825-0.593,2-2.035,2H2.965z"/>
+</g>
+<g id="iconBg">
+	<path style="fill:#FFFFFF;" d="M10.641,1H2.964C2.964,1,2,1,2,2c0,0.805,0,9.441,0,12c0,1,0.965,1,0.965,1s9,0,10,0S14,14,14,14V4
+		L10.641,1z M13,14H3V2h7v3h3V14z M10.356,7.293L12.062,9l-1.707,1.707L9.648,10l1-1l-1-1L10.356,7.293z M8.925,9.948H7.021V4.997
+		h1.904V9.948z M9.014,13.028H7.063v-2.01h1.951V13.028z M5.733,10.658L4.026,8.951l1.707-1.707L6.44,7.951l-1,1l1,1L5.733,10.658z"
+		/>
+</g>
+<g id="iconFg">
+	<path style="fill:#000000;" d="M10.019,5V2H3v12h10V5H10.019z M6.44,9.951l-0.707,0.707L4.026,8.951l1.707-1.707L6.44,7.951l-1,1
+		L6.44,9.951z M7.021,4.997h1.904v4.952H7.021V4.997z M9.014,13.028H7.063v-2.01h1.951V13.028z M10.356,10.707L9.648,10l1-1l-1-1
+		l0.707-0.707L12.062,9L10.356,10.707z"/>
+</g>
+</svg>

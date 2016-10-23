@@ -6,11 +6,17 @@
         "Android_16x_inverse.svg": {
             "iconPath": "./images/Android_16x_inverse.svg"
         },
+        "Android_16x_contrast.svg": {
+            "iconPath": "./images/Android_16x_contrast.svg"
+        },
         "Application_16x.svg": {
             "iconPath": "./images/Application_16x.svg"
         },
         "Application_16x_inverse.svg": {
             "iconPath": "./images/Application_16x_inverse.svg"
+        },
+        "Application_16x_contrast.svg": {
+            "iconPath": "./images/Application_16x_contrast.svg"
         },
         "AudioOn_16x.svg": {
             "iconPath": "./images/AudioOn_16x.svg"
@@ -18,11 +24,17 @@
         "AudioOn_16x_inverse.svg": {
             "iconPath": "./images/AudioOn_16x_inverse.svg"
         },
+        "AudioOn_16x_contrast.svg": {
+            "iconPath": "./images/AudioOn_16x_contrast.svg"
+        },
         "CFile_16x_color.svg": {
             "iconPath": "./images/CFile_16x_color.svg"
         },
         "CFile_16x_color_inverse.svg": {
             "iconPath": "./images/CFile_16x_color_inverse.svg"
+        },
+        "CFile_16x_color_contrast.svg": {
+            "iconPath": "./images/CFile_16x_color_contrast.svg"
         },
         "CPP_16x.svg": {
             "iconPath": "./images/CPP_16x.svg"
@@ -30,11 +42,17 @@
         "CPP_16x_inverse.svg": {
             "iconPath": "./images/CPP_16x_inverse.svg"
         },
+        "CPP_16x_contrast.svg": {
+            "iconPath": "./images/CPP_16x_contrast.svg"
+        },
         "CPPHeaderFile_16x.svg": {
             "iconPath": "./images/CPPHeaderFile_16x.svg"
         },
         "CPPHeaderFile_16x_inverse.svg": {
             "iconPath": "./images/CPPHeaderFile_16x_inverse.svg"
+        },
+        "CPPHeaderFile_16x_contrast.svg": {
+            "iconPath": "./images/CPPHeaderFile_16x_contrast.svg"
         },
         "CS_16x.svg": {
             "iconPath": "./images/CS_16x.svg"
@@ -42,11 +60,17 @@
         "CS_16x_inverse.svg": {
             "iconPath": "./images/CS_16x_inverse.svg"
         },
+        "CS_16x_contrast.svg": {
+            "iconPath": "./images/CS_16x_contrast.svg"
+        },
         "Certificate_16x.svg": {
             "iconPath": "./images/Certificate_16x.svg"
         },
         "Certificate_16x_inverse.svg": {
             "iconPath": "./images/Certificate_16x_inverse.svg"
+        },
+        "Certificate_16x_contrast.svg": {
+            "iconPath": "./images/Certificate_16x_contrast.svg"
         },
         "ConfigurationFile_16x.svg": {
             "iconPath": "./images/ConfigurationFile_16x.svg"
@@ -54,11 +78,17 @@
         "ConfigurationFile_16x_inverse.svg": {
             "iconPath": "./images/ConfigurationFile_16x_inverse.svg"
         },
+        "ConfigurationFile_16x_contrast.svg": {
+            "iconPath": "./images/ConfigurationFile_16x_contrast.svg"
+        },
         "Console_16x.svg": {
             "iconPath": "./images/Console_16x.svg"
         },
         "Console_16x_inverse.svg": {
             "iconPath": "./images/Console_16x_inverse.svg"
+        },
+        "Console_16x_contrast.svg": {
+            "iconPath": "./images/Console_16x_contrast.svg"
         },
         "Database_16x.svg": {
             "iconPath": "./images/Database_16x.svg"
@@ -66,11 +96,17 @@
         "Database_16x_inverse.svg": {
             "iconPath": "./images/Database_16x_inverse.svg"
         },
+        "Database_16x_contrast.svg": {
+            "iconPath": "./images/Database_16x_contrast.svg"
+        },
         "Document_16x.svg": {
             "iconPath": "./images/Document_16x.svg"
         },
         "Document_16x_inverse.svg": {
             "iconPath": "./images/Document_16x_inverse.svg"
+        },
+        "Document_16x_contrast.svg": {
+            "iconPath": "./images/Document_16x_contrast.svg"
         },
         "FS_16x.svg": {
             "iconPath": "./images/FS_16x.svg"
@@ -78,11 +114,17 @@
         "FS_16x_inverse.svg": {
             "iconPath": "./images/FS_16x_inverse.svg"
         },
+        "FS_16x_contrast.svg": {
+            "iconPath": "./images/FS_16x_contrast.svg"
+        },
         "FolderOpen_16x.svg": {
             "iconPath": "./images/FolderOpen_16x.svg"
         },
         "FolderOpen_16x_inverse.svg": {
             "iconPath": "./images/FolderOpen_16x_inverse.svg"
+        },
+        "FolderOpen_16x_contrast.svg": {
+            "iconPath": "./images/FolderOpen_16x_contrast.svg"
         },
         "Folder_16x.svg": {
             "iconPath": "./images/Folder_16x.svg"
@@ -90,11 +132,17 @@
         "Folder_16x_inverse.svg": {
             "iconPath": "./images/Folder_16x_inverse.svg"
         },
+        "Folder_16x_contrast.svg": {
+            "iconPath": "./images/Folder_16x_contrast.svg"
+        },
         "Font_16x.svg": {
             "iconPath": "./images/Font_16x.svg"
         },
         "Font_16x_inverse.svg": {
             "iconPath": "./images/Font_16x_inverse.svg"
+        },
+        "Font_16x_contrast.svg": {
+            "iconPath": "./images/Font_16x_contrast.svg"
         },
         "GitLogo_16x.svg": {
             "iconPath": "./images/GitLogo_16x.svg"
@@ -102,11 +150,17 @@
         "GitLogo_16x_inverse.svg": {
             "iconPath": "./images/GitLogo_16x_inverse.svg"
         },
+        "GitLogo_16x_contrast.svg": {
+            "iconPath": "./images/GitLogo_16x_contrast.svg"
+        },
         "HTMLFile_16x.svg": {
             "iconPath": "./images/HTMLFile_16x.svg"
         },
         "HTMLFile_16x_inverse.svg": {
             "iconPath": "./images/HTMLFile_16x_inverse.svg"
+        },
+        "HTMLFile_16x_contrast.svg": {
+            "iconPath": "./images/HTMLFile_16x_contrast.svg"
         },
         "IconFile_16x.svg": {
             "iconPath": "./images/IconFile_16x.svg"
@@ -114,11 +168,17 @@
         "IconFile_16x_inverse.svg": {
             "iconPath": "./images/IconFile_16x_inverse.svg"
         },
+        "IconFile_16x_contrast.svg": {
+            "iconPath": "./images/IconFile_16x_contrast.svg"
+        },
         "JADEScript_16x.svg": {
             "iconPath": "./images/JADEScript_16x.svg"
         },
         "JADEScript_16x_inverse.svg": {
             "iconPath": "./images/JADEScript_16x_inverse.svg"
+        },
+        "JADEScript_16x_contrast.svg": {
+            "iconPath": "./images/JADEScript_16x_contrast.svg"
         },
         "JSCoffeeScript_16x.svg": {
             "iconPath": "./images/JSCoffeeScript_16x.svg"
@@ -126,11 +186,17 @@
         "JSCoffeeScript_16x_inverse.svg": {
             "iconPath": "./images/JSCoffeeScript_16x_inverse.svg"
         },
+        "JSCoffeeScript_16x_contrast.svg": {
+            "iconPath": "./images/JSCoffeeScript_16x_contrast.svg"
+        },
         "JSONScript_16x.svg": {
             "iconPath": "./images/JSONScript_16x.svg"
         },
         "JSONScript_16x_inverse.svg": {
             "iconPath": "./images/JSONScript_16x_inverse.svg"
+        },
+        "JSONScript_16x_contrast.svg": {
+            "iconPath": "./images/JSONScript_16x_contrast.svg"
         },
         "JSScript_16x.svg": {
             "iconPath": "./images/JSScript_16x.svg"
@@ -138,11 +204,17 @@
         "JSScript_16x_inverse.svg": {
             "iconPath": "./images/JSScript_16x_inverse.svg"
         },
+        "JSScript_16x_contrast.svg": {
+            "iconPath": "./images/JSScript_16x_contrast.svg"
+        },
         "JavaFile_16x.svg": {
             "iconPath": "./images/JavaFile_16x.svg"
         },
         "JavaFile_16x_inverse.svg": {
             "iconPath": "./images/JavaFile_16x_inverse.svg"
+        },
+        "JavaFile_16x_contrast.svg": {
+            "iconPath": "./images/JavaFile_16x_contrast.svg"
         },
         "Key_16x.svg": {
             "iconPath": "./images/Key_16x.svg"
@@ -150,11 +222,17 @@
         "Key_16x_inverse.svg": {
             "iconPath": "./images/Key_16x_inverse.svg"
         },
+        "Key_16x_contrast.svg": {
+            "iconPath": "./images/Key_16x_contrast.svg"
+        },
         "LessStyleSheet_16x.svg": {
             "iconPath": "./images/LessStyleSheet_16x.svg"
         },
         "LessStyleSheet_16x_inverse.svg": {
             "iconPath": "./images/LessStyleSheet_16x_inverse.svg"
+        },
+        "LessStyleSheet_16x_contrast.svg": {
+            "iconPath": "./images/LessStyleSheet_16x_contrast.svg"
         },
         "Library_16x.svg": {
             "iconPath": "./images/Library_16x.svg"
@@ -162,11 +240,17 @@
         "Library_16x_inverse.svg": {
             "iconPath": "./images/Library_16x_inverse.svg"
         },
+        "Library_16x_contrast.svg": {
+            "iconPath": "./images/Library_16x_contrast.svg"
+        },
         "Mail_16x.svg": {
             "iconPath": "./images/Mail_16x.svg"
         },
         "Mail_16x_inverse.svg": {
             "iconPath": "./images/Mail_16x_inverse.svg"
+        },
+        "Mail_16x_contrast.svg": {
+            "iconPath": "./images/Mail_16x_contrast.svg"
         },
         "MarkdownFile_16x.svg": {
             "iconPath": "./images/MarkdownFile_16x.svg"
@@ -174,11 +258,17 @@
         "MarkdownFile_16x_inverse.svg": {
             "iconPath": "./images/MarkdownFile_16x_inverse.svg"
         },
+        "MarkdownFile_16x_contrast.svg": {
+            "iconPath": "./images/MarkdownFile_16x_contrast.svg"
+        },
         "Media_16x.svg": {
             "iconPath": "./images/Media_16x.svg"
         },
         "Media_16x_inverse.svg": {
             "iconPath": "./images/Media_16x_inverse.svg"
+        },
+        "Media_16x_contrast.svg": {
+            "iconPath": "./images/Media_16x_contrast.svg"
         },
         "NodeJS_16x.svg": {
             "iconPath": "./images/NodeJS_16x.svg"
@@ -186,11 +276,17 @@
         "NodeJS_16x_inverse.svg": {
             "iconPath": "./images/NodeJS_16x_inverse.svg"
         },
+        "NodeJS_16x_contrast.svg": {
+            "iconPath": "./images/NodeJS_16x_contrast.svg"
+        },
         "Parameter_16x.svg": {
             "iconPath": "./images/Parameter_16x.svg"
         },
         "Parameter_16x_inverse.svg": {
             "iconPath": "./images/Parameter_16x_inverse.svg"
+        },
+        "Parameter_16x_contrast.svg": {
+            "iconPath": "./images/Parameter_16x_contrast.svg"
         },
         "PHPFile_16x.svg": {
             "iconPath": "./images/PHPFile_16x.svg"
@@ -198,11 +294,17 @@
         "PHPFile_16x_inverse.svg": {
             "iconPath": "./images/PHPFile_16x_inverse.svg"
         },
+        "PHPFile_16x_contrast.svg": {
+            "iconPath": "./images/PHPFile_16x_contrast.svg"
+        },
         "PY_16x.svg": {
             "iconPath": "./images/PY_16x.svg"
         },
         "PY_16x_inverse.svg": {
             "iconPath": "./images/PY_16x_inverse.svg"
+        },
+        "PY_16x_contrast.svg": {
+            "iconPath": "./images/PY_16x_contrast.svg"
         },
         "RB_FileSENode_16x.svg": {
             "iconPath": "./images/RB_FileSENode_16x.svg"
@@ -210,11 +312,17 @@
         "RB_FileSENode_16x_inverse.svg": {
             "iconPath": "./images/RB_FileSENode_16x_inverse.svg"
         },
+        "RB_FileSENode_16x_contrast.svg": {
+            "iconPath": "./images/RB_FileSENode_16x_contrast.svg"
+        },
         "SassStyleSheet_16x.svg": {
             "iconPath": "./images/SassStyleSheet_16x.svg"
         },
         "SassStyleSheet_16x_inverse.svg": {
             "iconPath": "./images/SassStyleSheet_16x_inverse.svg"
+        },
+        "SassStyleSheet_16x_contrast.svg": {
+            "iconPath": "./images/SassStyleSheet_16x_contrast.svg"
         },
         "SettingsFile_16x.svg": {
             "iconPath": "./images/SettingsFile_16x.svg"
@@ -222,11 +330,17 @@
         "SettingsFile_16x_inverse.svg": {
             "iconPath": "./images/SettingsFile_16x_inverse.svg"
         },
+        "SettingsFile_16x_contrast.svg": {
+            "iconPath": "./images/SettingsFile_16x_contrast.svg"
+        },
         "StyleSheet_16x.svg": {
             "iconPath": "./images/StyleSheet_16x.svg"
         },
         "StyleSheet_16x_inverse.svg": {
             "iconPath": "./images/StyleSheet_16x_inverse.svg"
+        },
+        "StyleSheet_16x_contrast.svg": {
+            "iconPath": "./images/StyleSheet_16x_contrast.svg"
         },
         "TS_FileSENode_16x.svg": {
             "iconPath": "./images/TS_FileSENode_16x.svg"
@@ -234,11 +348,17 @@
         "TS_FileSENode_16x_inverse.svg": {
             "iconPath": "./images/TS_FileSENode_16x_inverse.svg"
         },
+        "TS_FileSENode_16x_contrast.svg": {
+            "iconPath": "./images/TS_FileSENode_16x_contrast.svg"
+        },
         "Table_16x.svg": {
             "iconPath": "./images/Table_16x.svg"
         },
         "Table_16x_inverse.svg": {
             "iconPath": "./images/Table_16x_inverse.svg"
+        },
+        "Table_16x_contrast.svg": {
+            "iconPath": "./images/Table_16x_contrast.svg"
         },
         "Text_16x.svg": {
             "iconPath": "./images/Text_16x.svg"
@@ -246,11 +366,17 @@
         "Text_16x_inverse.svg": {
             "iconPath": "./images/Text_16x_inverse.svg"
         },
+        "Text_16x_contrast.svg": {
+            "iconPath": "./images/Text_16x_contrast.svg"
+        },
         "VirtualMachine_16x.svg": {
             "iconPath": "./images/VirtualMachine_16x.svg"
         },
         "VirtualMachine_16x_inverse.svg": {
             "iconPath": "./images/VirtualMachine_16x_inverse.svg"
+        },
+        "VirtualMachine_16x_contrast.svg": {
+            "iconPath": "./images/VirtualMachine_16x_contrast.svg"
         },
         "VisualStudioLogo_whiteHalo_16x.svg": {
             "iconPath": "./images/VisualStudioLogo_whiteHalo_16x.svg"
@@ -258,11 +384,17 @@
         "VisualStudioLogo_whiteHalo_16x_inverse.svg": {
             "iconPath": "./images/VisualStudioLogo_whiteHalo_16x_inverse.svg"
         },
+        "VisualStudioLogo_whiteHalo_16x_contrast.svg": {
+            "iconPath": "./images/VisualStudioLogo_whiteHalo_16x_contrast.svg"
+        },
         "WebURL_16x.svg": {
             "iconPath": "./images/WebURL_16x.svg"
         },
         "WebURL_16x_inverse.svg": {
             "iconPath": "./images/WebURL_16x_inverse.svg"
+        },
+        "WebURL_16x_contrast.svg": {
+            "iconPath": "./images/WebURL_16x_contrast.svg"
         },
         "XMLFile_16x.svg": {
             "iconPath": "./images/XMLFile_16x.svg"
@@ -270,17 +402,20 @@
         "XMLFile_16x_inverse.svg": {
             "iconPath": "./images/XMLFile_16x_inverse.svg"
         },
+        "XMLFile_16x_contrast.svg": {
+            "iconPath": "./images/XMLFile_16x_contrast.svg"
+        },
         "ZipFile_16x.svg": {
             "iconPath": "./images/ZipFile_16x.svg"
         },
         "ZipFile_16x_inverse.svg": {
             "iconPath": "./images/ZipFile_16x_inverse.svg"
+        },
+        "ZipFile_16x_contrast.svg": {
+            "iconPath": "./images/ZipFile_16x_contrast.svg"
         }
     },
     "light": {
-        "folder": "Folder_16x.svg",
-        "folderExpanded": "FolderOpen_16x.svg",
-        "file": "Document_16x.svg",
         "fileExtensions": {
             "exe": "Application_16x.svg",
             "aac": "AudioOn_16x.svg",
@@ -442,11 +577,178 @@
             "tslint.json": "TS_FileSENode_16x.svg"
         },
         "folderNames": {},
-        "languageIds": {}
+        "languageIds": {},
+        "folder": "Folder_16x.svg",
+        "folderExpanded": "FolderOpen_16x.svg",
+        "file": "Document_16x.svg"
     },
-    "folder": "Folder_16x_inverse.svg",
-    "folderExpanded": "FolderOpen_16x_inverse.svg",
-    "file": "Document_16x_inverse.svg",
+    "highContrast": {
+        "fileExtensions": {
+            "exe": "Application_16x_contrast.svg",
+            "aac": "AudioOn_16x_contrast.svg",
+            "mp3": "AudioOn_16x_contrast.svg",
+            "flac": "AudioOn_16x_contrast.svg",
+            "m4a": "AudioOn_16x_contrast.svg",
+            "wma": "AudioOn_16x_contrast.svg",
+            "aiff": "AudioOn_16x_contrast.svg",
+            "cc": "CFile_16x_color_contrast.svg",
+            "cpp": "CPP_16x_contrast.svg",
+            "h": "CPPHeaderFile_16x_contrast.svg",
+            "hpp": "CPPHeaderFile_16x_contrast.svg",
+            "cs": "CS_16x_contrast.svg",
+            "cert": "Certificate_16x_contrast.svg",
+            "cer": "Certificate_16x_contrast.svg",
+            "crt": "Certificate_16x_contrast.svg",
+            "config": "ConfigurationFile_16x_contrast.svg",
+            "conf": "ConfigurationFile_16x_contrast.svg",
+            "sh": "Console_16x_contrast.svg",
+            "bat": "Console_16x_contrast.svg",
+            "ps1": "Console_16x_contrast.svg",
+            "sql": "Database_16x_contrast.svg",
+            "accdb": "Database_16x_contrast.svg",
+            "mdb": "Database_16x_contrast.svg",
+            "sqlite": "Database_16x_contrast.svg",
+            "pdb": "Database_16x_contrast.svg",
+            "fs": "FS_16x_contrast.svg",
+            "fsproj": "FS_16x_contrast.svg",
+            "woff": "Font_16x_contrast.svg",
+            "woff2": "Font_16x_contrast.svg",
+            "ttf": "Font_16x_contrast.svg",
+            "eot": "Font_16x_contrast.svg",
+            "suit": "Font_16x_contrast.svg",
+            "otf": "Font_16x_contrast.svg",
+            "bmap": "Font_16x_contrast.svg",
+            "fnt": "Font_16x_contrast.svg",
+            "odttf": "Font_16x_contrast.svg",
+            "ttc": "Font_16x_contrast.svg",
+            "font": "Font_16x_contrast.svg",
+            "fonts": "Font_16x_contrast.svg",
+            "sui": "Font_16x_contrast.svg",
+            "ntf": "Font_16x_contrast.svg",
+            "mrf": "Font_16x_contrast.svg",
+            "htm": "HTMLFile_16x_contrast.svg",
+            "html": "HTMLFile_16x_contrast.svg",
+            "ico": "IconFile_16x_contrast.svg",
+            "jade": "JADEScript_16x_contrast.svg",
+            "coffee": "JSCoffeeScript_16x_contrast.svg",
+            "json": "JSONScript_16x_contrast.svg",
+            "graphql": "JSONScript_16x_contrast.svg",
+            "js": "JSScript_16x_contrast.svg",
+            "jsx": "JSScript_16x_contrast.svg",
+            "ejs": "JSScript_16x_contrast.svg",
+            "esx": "JSScript_16x_contrast.svg",
+            "java": "JavaFile_16x_contrast.svg",
+            "jar": "JavaFile_16x_contrast.svg",
+            "jsp": "JavaFile_16x_contrast.svg",
+            "pub": "Key_16x_contrast.svg",
+            "key": "Key_16x_contrast.svg",
+            "pem": "Key_16x_contrast.svg",
+            "asc": "Key_16x_contrast.svg",
+            "less": "LessStyleSheet_16x_contrast.svg",
+            "lib": "Library_16x_contrast.svg",
+            "bib": "Library_16x_contrast.svg",
+            "ics": "Mail_16x_contrast.svg",
+            "mailmap": "Mail_16x_contrast.svg",
+            "md": "MarkdownFile_16x_contrast.svg",
+            "md.rendered": "MarkdownFile_16x_contrast.svg",
+            "webm": "Media_16x_contrast.svg",
+            "mkv": "Media_16x_contrast.svg",
+            "flv": "Media_16x_contrast.svg",
+            "vob": "Media_16x_contrast.svg",
+            "ogv": "Media_16x_contrast.svg",
+            "ogg": "Media_16x_contrast.svg",
+            "gifv": "Media_16x_contrast.svg",
+            "avi": "Media_16x_contrast.svg",
+            "mov": "Media_16x_contrast.svg",
+            "qt": "Media_16x_contrast.svg",
+            "wmv": "Media_16x_contrast.svg",
+            "yuv": "Media_16x_contrast.svg",
+            "rm": "Media_16x_contrast.svg",
+            "rmvb": "Media_16x_contrast.svg",
+            "mp4": "Media_16x_contrast.svg",
+            "m4v": "Media_16x_contrast.svg",
+            "mpg": "Media_16x_contrast.svg",
+            "mp2": "Media_16x_contrast.svg",
+            "mpeg": "Media_16x_contrast.svg",
+            "mpe": "Media_16x_contrast.svg",
+            "mpv": "Media_16x_contrast.svg",
+            "m2v": "Media_16x_contrast.svg",
+            "cshtml": "Parameter_16x_contrast.svg",
+            "php": "PHPFile_16x_contrast.svg",
+            "py": "PY_16x_contrast.svg",
+            "rb": "RB_FileSENode_16x_contrast.svg",
+            "sass": "SassStyleSheet_16x_contrast.svg",
+            "scss": "SassStyleSheet_16x_contrast.svg",
+            "ini": "SettingsFile_16x_contrast.svg",
+            "dlc": "SettingsFile_16x_contrast.svg",
+            "dll": "SettingsFile_16x_contrast.svg",
+            "properties": "SettingsFile_16x_contrast.svg",
+            "prop": "SettingsFile_16x_contrast.svg",
+            "props": "SettingsFile_16x_contrast.svg",
+            "settings": "SettingsFile_16x_contrast.svg",
+            "css": "StyleSheet_16x_contrast.svg",
+            "ts": "TS_FileSENode_16x_contrast.svg",
+            "tsx": "TS_FileSENode_16x_contrast.svg",
+            "d.ts": "TS_FileSENode_16x_contrast.svg",
+            "xlsx": "Table_16x_contrast.svg",
+            "xls": "Table_16x_contrast.svg",
+            "csv": "Table_16x_contrast.svg",
+            "txt": "Text_16x_contrast.svg",
+            "vdi": "VirtualMachine_16x_contrast.svg",
+            "vbox": "VirtualMachine_16x_contrast.svg",
+            "vbox-prev": "VirtualMachine_16x_contrast.svg",
+            "vscodeignore": "VisualStudioLogo_whiteHalo_16x_contrast.svg",
+            "vsixmanifest": "VisualStudioLogo_whiteHalo_16x_contrast.svg",
+            "suo": "VisualStudioLogo_whiteHalo_16x_contrast.svg",
+            "sln": "VisualStudioLogo_whiteHalo_16x_contrast.svg",
+            "csproj": "VisualStudioLogo_whiteHalo_16x_contrast.svg",
+            "url": "WebURL_16x_contrast.svg",
+            "xml": "XMLFile_16x_contrast.svg",
+            "xsd": "XMLFile_16x_contrast.svg",
+            "dtd": "XMLFile_16x_contrast.svg",
+            "xsl": "XMLFile_16x_contrast.svg",
+            "resx": "XMLFile_16x_contrast.svg",
+            "iml": "XMLFile_16x_contrast.svg",
+            "xquery": "XMLFile_16x_contrast.svg",
+            "manifest": "XMLFile_16x_contrast.svg",
+            "zip": "ZipFile_16x_contrast.svg",
+            "tar": "ZipFile_16x_contrast.svg",
+            "gz": "ZipFile_16x_contrast.svg",
+            "xz": "ZipFile_16x_contrast.svg",
+            "bzip2": "ZipFile_16x_contrast.svg",
+            "7z": "ZipFile_16x_contrast.svg",
+            "rar": "ZipFile_16x_contrast.svg",
+            "tgz": "ZipFile_16x_contrast.svg"
+        },
+        "fileNames": {
+            "androidmanifest.xml": "Android_16x_contrast.svg",
+            "license": "Certificate_16x_contrast.svg",
+            "license.md": "Certificate_16x_contrast.svg",
+            "license.md.rendered": "Certificate_16x_contrast.svg",
+            "license.txt": "Certificate_16x_contrast.svg",
+            ".editorconfig": "ConfigurationFile_16x_contrast.svg",
+            ".gitignore": "GitLogo_16x_contrast.svg",
+            ".gitconfig": "GitLogo_16x_contrast.svg",
+            ".gitattributes": "GitLogo_16x_contrast.svg",
+            ".gitmodules": "GitLogo_16x_contrast.svg",
+            ".gitkeep": "GitLogo_16x_contrast.svg",
+            ".jscsrc": "JSONScript_16x_contrast.svg",
+            ".jshintrc": "JSONScript_16x_contrast.svg",
+            ".babelrc": "JSONScript_16x_contrast.svg",
+            "composer.lock": "JSONScript_16x_contrast.svg",
+            "package.json": "NodeJS_16x_contrast.svg",
+            ".jshintignore": "SettingsFile_16x_contrast.svg",
+            "procfile": "SettingsFile_16x_contrast.svg",
+            ".buildignore": "SettingsFile_16x_contrast.svg",
+            "tsconfig.json": "TS_FileSENode_16x_contrast.svg",
+            "tslint.json": "TS_FileSENode_16x_contrast.svg"
+        },
+        "folderNames": {},
+        "languageIds": {},
+        "folder": "Folder_16x_contrast.svg",
+        "folderExpanded": "FolderOpen_16x_contrast.svg",
+        "file": "Document_16x_contrast.svg"
+    },
     "fileExtensions": {
         "exe": "Application_16x_inverse.svg",
         "aac": "AudioOn_16x_inverse.svg",
@@ -608,5 +910,8 @@
         "tslint.json": "TS_FileSENode_16x_inverse.svg"
     },
     "folderNames": {},
-    "languageIds": {}
+    "languageIds": {},
+    "folder": "Folder_16x_inverse.svg",
+    "folderExpanded": "FolderOpen_16x_inverse.svg",
+    "file": "Document_16x_inverse.svg"
 }

@@ -4,16 +4,16 @@
 	 viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve">
 <g id="outline">
 	<rect style="opacity:0;fill:#F3F3F3;" width="16" height="16"/>
-	<path style="fill:#F6F6F6;" d="M12.061,0H6C5.03,0,4,0.702,4,2v6H0V16h14v-1.999c1.299,0,2-1.031,2-2V3.556L12.061,0z"/>
+	<path style="fill:#F3F3F3;" d="M12.061,0H6C5.03,0,4,0.702,4,2v6H0V16h14v-1.999c1.299,0,2-1.031,2-2V3.556L12.061,0z"/>
 </g>
 <g id="icon_x5F_bg">
 	<g>
 		<rect x="7" y="3" style="fill:#656565;" width="1" height="1"/>
-		<rect x="7" y="5" style="fill:#424242;" width="1" height="1"/>
-		<path style="fill:#424242;" d="M11.639,1H5.964C5.964,1,5,1,5,2c0,0.508,0,3.337,0,6h1V2h5v3h3v3v1.001v3v0.994
+		<rect x="7" y="5" style="fill:#656565;" width="1" height="1"/>
+		<path style="fill:#656565;" d="M11.639,1H5.964C5.964,1,5,1,5,2c0,0.508,0,3.337,0,6h1V2h5v3h3v3v1.001v3v0.994
 			c0.961-0.025,1-0.994,1-0.994V4L11.639,1z"/>
-		<polygon style="fill:#424242;" points="10.998,8 12.029,7 12.028,8 13,8 13,6 11.705,6 9.598,8 		"/>
-		<rect x="7" y="7" style="fill:#424242;" width="1" height="1"/>
+		<polygon style="fill:#656565;" points="10.998,8 12.029,7 12.028,8 13,8 13,6 11.705,6 9.598,8 		"/>
+		<rect x="7" y="7" style="fill:#656565;" width="1" height="1"/>
 	</g>
 </g>
 <g id="color_x5F_importance">

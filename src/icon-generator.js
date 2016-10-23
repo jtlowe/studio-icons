@@ -60,7 +60,7 @@ module.exports = class IconGenerator {
     createConfigFile() {
         var configs = {
             iconDefinitions: this.iconDefinitions,
-            light: this.createThemeMapping()
+            light: this.createThemeMapping('light')
         };
 
         Object.assign(configs, this.createThemeMapping('dark'));
@@ -84,15 +84,15 @@ module.exports = class IconGenerator {
         var darkFilePath = lightFilePath.replace('.svg', '_inverse.svg');
 
         file.on('data', function (chunk) {
-            lightFile = chunk.toString();
-            lightFile = lightFile.replace(colors.defaultFg, colors.lightFg);
-            lightFile = lightFile.replace(colors.defaultBg, colors.lightBg);
+            lightFile = chunk.toString()
+                .split(colors.defaultFg).join(colors.lightFg)
+                .split(colors.defaultBg).join(colors.lightBg);
 
-            darkFile = chunk.toString();
-            darkFile = darkFile.replace(colors.defaultFg, colors.darkFg);
-            darkFile = darkFile.replace(colors.defaultBg, colors.darkBg);
-            darkFile = darkFile.replace(colors.defaultBg2, colors.darkBg);
-            darkFile = darkFile.replace(colors.defaultBg3, colors.darkBg);
+            darkFile = chunk.toString()
+                .split(colors.defaultFg).join(colors.darkFg)
+                .split(colors.defaultBg).join(colors.darkBg)
+                .split(colors.defaultBg2).join(colors.darkBg)
+                .split(colors.defaultBg3).join(colors.darkBg);
         });
 
         file.on('end', function () {
@@ -114,13 +114,14 @@ module.exports = class IconGenerator {
 
     createIconDefinition(icon) {
         var darkPathName = icon.iconPath.replace('.svg', '_inverse.svg');
+        var path = './images/';
 
         this.iconDefinitions[icon.iconPath] = {
-            iconPath: this.paths.iconDestPath + icon.iconPath
+            iconPath: path + icon.iconPath
         }
 
         this.iconDefinitions[darkPathName] = {
-            iconPath: this.paths.iconDestPath + darkPathName
+            iconPath: path + darkPathName
         }
 
         return this;
@@ -139,14 +140,15 @@ module.exports = class IconGenerator {
 
         for (var i = 0; i < settings.iconDefinitions.length; i++) {
             var icon = settings.iconDefinitions[i];
+            var iconPath = icon.iconPath;
 
             if (icon.fileExtensions != void 0) {
                 for (var j = 0; j < icon.fileExtensions.length; j++) {
                     var extension = icon.fileExtensions[j];
 
                     theme.fileExtensions[extension] = type === 'dark'
-                        ? icon.iconPath.replace('.svg', '_inverse.svg')
-                        : icon.iconPath;
+                        ? iconPath.replace('.svg', '_inverse.svg')
+                        : iconPath;
                 }
             }
 
@@ -155,8 +157,8 @@ module.exports = class IconGenerator {
                     var extension = icon.fileNames[j];
 
                     theme.fileNames[extension] = type === 'dark'
-                        ? icon.iconPath.replace('.svg', '_inverse.svg')
-                        : icon.iconPath;
+                        ? iconPath.replace('.svg', '_inverse.svg')
+                        : iconPath;
                 }
             }
         }

@@ -1,21 +1,11 @@
 {
-    "settings": {
-        "iconSrcPath": "./src/svg/",
-        "iconDestPath": "./fileicon",
-        "iconRelPath": "./images/",
-        "iconFileExtension": ".svg",
-        "darkTheme": {
-            "postfix": "_inverse",
-            "folderExpanded": "FolderOpen_16x_inverse.svg",
-            "folder": "Folder_16x_inverse.svg",
-            "file": "Document_16x_inverse.svg"
-        },
-        "lightTheme": {
-            "postfix": "",
-            "folderExpanded": "FolderOpen_16x.svg",
-            "folder": "Folder_16x.svg",
-            "file": "Document_16x.svg"
-        }
+    "folderExpanded": "FolderOpen_16x_inverse.svg",
+    "folder": "Folder_16x_inverse.svg",
+    "file": "Document_16x_inverse.svg",
+    "light": {
+        "folderExpanded": "FolderOpen_16x_inverse.svg",
+        "folder": "Folder_16x_inverse.svg",
+        "file": "Document_16x_inverse.svg"
     },
     "iconDefinitions": [
         {

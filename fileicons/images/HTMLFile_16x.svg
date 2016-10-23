@@ -4,7 +4,7 @@
 	 viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve">
 <g id="outline">
 	<rect y="0" style="opacity:0;fill:#F3F3F3;" width="16" height="16"/>
-	<path style="fill:#F3F3F3;" d="M12.023,0H5.964C5.012,0,4,0.701,4,2v3.77v2.816l-4,4v0.828L2.586,16h6.828l2-2h1.503h1.048
+	<path style="fill:#F6F6F6;" d="M12.023,0H5.964C5.012,0,4,0.701,4,2v3.77v2.816l-4,4v0.828L2.586,16h6.828l2-2h1.503h1.048
 		c1.442,0,2.007-1.175,2.035-2V3.552L12.023,0z"/>
 </g>
 <g id="icon_x5F_bg">
@@ -18,7 +18,7 @@
 			<path style="fill:#656565;" d="M9,11v1l1,1l-1,1v1l2-2L9,11z M3,15v-1l-1-1l1-1v-1l-2,2L3,15z"/>
 		</g>
 	</g>
-	<path style="fill:#656565;" d="M11.641,1H5.964C5.964,1,5,1,5,2c0,0.573,0,4.093,0,7h1V2h5v3h3v7h-2v1c0.932,0,1.686,0,1.965,0
+	<path style="fill:#424242;" d="M11.641,1H5.964C5.964,1,5,1,5,2c0,0.573,0,4.093,0,7h1V2h5v3h3v7h-2v1c0.932,0,1.686,0,1.965,0
 		c1,0,1.035-1,1.035-1V4L11.641,1z"/>
 </g>
 <g id="icon_x5F_fg">

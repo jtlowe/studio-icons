@@ -4,7 +4,7 @@
 	 viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve">
 <g id="outline">
 	<rect style="opacity:0;fill:#252526;" width="16" height="16"/>
-	<path style="fill:#F6F6F6;" d="M11,4C9.525,4,8.25,4.81,7.557,6H1v4h1v2h5v-2h0.557C8.25,11.189,9.525,12,11,12
+	<path style="fill:#252526;" d="M11,4C9.525,4,8.25,4.81,7.557,6H1v4h1v2h5v-2h0.557C8.25,11.189,9.525,12,11,12
 		c2.206,0,4-1.794,4-4C15,5.794,13.206,4,11,4z"/>
 </g>
 <g id="icon_x5F_bg">

@@ -6,12 +6,12 @@
 	<path id="XMLID_1_" style="opacity:0;fill:#252526;" d="M16,16H0V0h16V16z"/>
 </g>
 <g id="outline">
-	<path id="XMLID_3_" style="fill:#F6F6F6;" d="M16,14H0V2h16V14z"/>
+	<path id="XMLID_3_" style="fill:#252526;" d="M16,14H0V2h16V14z"/>
 </g>
 <g id="iconBg">
 	<path style="fill:#C5C5C5;" d="M1,3v10h14V3H1z M13,4L8,9L3,4H13z M14,12H2V5l5,5h2l5-5V12z"/>
 </g>
 <g id="iconFg">
-	<path id="XMLID_5_" style="fill:#F6F6F6;" d="M2,5l5,5h2l5-5v7H2V5z M8,9l5-5H3L8,9z"/>
+	<path id="XMLID_5_" style="fill:#252526;" d="M2,5l5,5h2l5-5v7H2V5z M8,9l5-5H3L8,9z"/>
 </g>
 </svg>

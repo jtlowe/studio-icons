@@ -4,7 +4,7 @@
 	 viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve">
 <g id="outline">
 	<rect x="0" y="0" style="opacity:0;fill:#F3F3F3;" width="16" height="16"/>
-	<polygon style="fill:#F6F6F6;" points="8.222,16 15.045,12.044 15.03,3.916 8.214,0 7.754,0 0.955,3.944 0.97,12.068 7.809,16 	"/>
+	<polygon style="fill:#F3F3F3;" points="8.222,16 15.045,12.044 15.03,3.916 8.214,0 7.754,0 0.955,3.944 0.97,12.068 7.809,16 	"/>
 </g>
 <g id="color_x5F_importance">
 	<path style="fill:#F16421;" d="M8.014,14.965l-6.045-3.476l-0.014-6.97l6.03-3.498l6.046,3.473l0.013,6.973L8.014,14.965z

@@ -4,12 +4,12 @@
 	 viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve">
 <g id="outline">
 	<rect style="opacity:0;fill:#252526;" width="16" height="16"/>
-	<polygon style="fill:#F6F6F6;" points="11,2 11,1 5,1 5,2 0,2 0,15 16,15 16,2 	"/>
+	<polygon style="fill:#252526;" points="11,2 11,1 5,1 5,2 0,2 0,15 16,15 16,2 	"/>
 </g>
 <g id="icon_x5F_bg">
 	<path style="fill:#C5C5C5;" d="M11,3v11h4V3H11z M14,13h-2v-1h2V13z M14,11h-2v-1h2V11z M14,6h-2V4h2V6z"/>
-	<path style="fill:#424242;" d="M6,14h4V2H6V14z M7,3h2v1H7V3z M7,10h2v1H7V10z M7,12h2v1H7V12z"/>
-	<path style="fill:#424242;" d="M1,14h4V3H1V14z M2,4h2v2H2V4z M2,10h2v1H2V10z M2,12h2v1H2V12z"/>
+	<path style="fill:#C5C5C5;" d="M6,14h4V2H6V14z M7,3h2v1H7V3z M7,10h2v1H7V10z M7,12h2v1H7V12z"/>
+	<path style="fill:#C5C5C5;" d="M1,14h4V3H1V14z M2,4h2v2H2V4z M2,10h2v1H2V10z M2,12h2v1H2V12z"/>
 </g>
 <g id="icon_x5F_fg">
 	<path style="fill:#252526;" d="M14,13h-2v-1h2V13z M14,10h-2v1h2V10z M14,4h-2v2h2V4z M9,12H7v1h2V12z M9,10H7v1h2V10z M9,3H7v1h2

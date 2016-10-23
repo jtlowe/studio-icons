@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 20.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve">
+<g id="outline">
+	<rect style="opacity:0;fill:#000000;" width="16" height="16"/>
+	<path style="fill:#000000;" d="M4,15c-0.97,0-2-0.701-2-2V3c0-1.299,1.03-2,2-2h6.061L14,4.556V13c0,0.97-0.701,2-2,2H4z"/>
+</g>
+<g id="icon_x5F_bg">
+	<path style="fill:#FFFFFF;" d="M9.64,2H3.964C3.964,2,3,2,3,3c0,0.805,0,7.442,0,10c0,1,0.964,1,0.964,1s7,0,8,0S13,13,13,13V5
+		L9.64,2z M12,13H4V3h5v3h3V13z"/>
+	<rect x="5" y="4" style="fill:#FFFFFF;" width="1" height="1"/>
+	<rect x="5" y="6" style="fill:#FFFFFF;" width="1" height="1"/>
+	<rect x="5" y="8" style="fill:#FFFFFF;" width="1" height="1"/>
+	<path style="fill:#FFFFFF;" d="M9.705,7l-5.27,5h1.407l1.186-1h3v1H11V7H9.705z M10.028,10H7.968l2.062-2L10.028,10z"/>
+	<polygon style="display:none;fill:#000000;" points="4,3 9,3 9,5 12,5 12,13 4,13 	"/>
+</g>
+<g id="icon_x5F_fg">
+	<g>
+		<polygon style="fill:#000000;" points="10.028,10 10.029,8 7.968,10 		"/>
+		<path style="fill:#000000;" d="M9,6V3H4v10h3h2h3V6H9z M5,4h1v1H5V4z M5,6h1v1H5V6z M5,8h1v1H5V8z M11,12h-0.972v-1h-3l-1.186,1
+			H4.436l5.27-5H11V12z"/>
+	</g>
+	<rect x="5" y="4" style="fill:#FFFFFF;" width="1" height="1"/>
+	<rect x="5" y="6" style="fill:#FFFFFF;" width="1" height="1"/>
+	<rect x="5" y="8" style="fill:#FFFFFF;" width="1" height="1"/>
+	<path style="fill:#FFFFFF;" d="M9.705,7l-5.27,5h1.407l1.186-1h3v1H11V7H9.705z M10.028,10H7.968l2.062-2L10.028,10z"/>
+</g>
+</svg>

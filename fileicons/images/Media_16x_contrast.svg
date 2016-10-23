@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 20.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve">
+<g id="outline">
+	<rect style="opacity:0;fill:#000000;" width="16" height="16"/>
+	<rect x="1" style="fill:#000000;" width="14" height="15"/>
+</g>
+<g id="icon_x5F_bg">
+	<g>
+		<path style="fill:#FFFFFF;" d="M2,1v13h12V1H2z M4,13H3v-1h1V13z M4,11H3v-1h1V11z M4,9H3V8h1V9z M4,7H3V6h1V7z M4,5H3V4h1V5z
+			 M4,3H3V2h1V3z M11,13H5V2h6V13z M13,13h-1v-1h1V13z M13,11h-1v-1h1V11z M13,9h-1V8h1V9z M13,7h-1V6h1V7z M13,5h-1V4h1V5z M13,3
+			h-1V2h1V3z"/>
+		<polygon style="fill:#FFFFFF;" points="7,5 7,10 10,7.5 		"/>
+	</g>
+</g>
+<g id="icon_x5F_fg">
+	<g>
+		<rect x="3" y="4" style="fill:none;" width="1" height="1"/>
+		<path style="fill:none;" d="M5,13h6V2H5V13z M7,5l3,2.5L7,10V5z"/>
+		<rect x="3" y="6" style="fill:none;" width="1" height="1"/>
+		<rect x="3" y="8" style="fill:none;" width="1" height="1"/>
+		<rect x="3" y="12" style="fill:none;" width="1" height="1"/>
+		<rect x="12" y="12" style="fill:none;" width="1" height="1"/>
+		<rect x="3" y="10" style="fill:none;" width="1" height="1"/>
+		<rect x="3" y="2" style="fill:none;" width="1" height="1"/>
+		<rect x="12" y="4" style="fill:none;" width="1" height="1"/>
+		<rect x="12" y="10" style="fill:none;" width="1" height="1"/>
+		<rect x="12" y="2" style="fill:none;" width="1" height="1"/>
+		<rect x="12" y="6" style="fill:none;" width="1" height="1"/>
+		<rect x="12" y="8" style="fill:none;" width="1" height="1"/>
+		<polygon style="fill:none;" points="7,5 7,10 10,7.5 		"/>
+		<rect x="3" y="4" style="fill:#000000;" width="1" height="1"/>
+		<rect x="3" y="2" style="fill:#000000;" width="1" height="1"/>
+		<rect x="3" y="12" style="fill:#000000;" width="1" height="1"/>
+		<rect x="3" y="10" style="fill:#000000;" width="1" height="1"/>
+		<rect x="3" y="6" style="fill:#000000;" width="1" height="1"/>
+		<rect x="3" y="8" style="fill:#000000;" width="1" height="1"/>
+		<path style="fill:#000000;" d="M5,13h6V2H5V13z M7,5l3,2.5L7,10V5z"/>
+		<rect x="12" y="12" style="fill:#000000;" width="1" height="1"/>
+		<rect x="12" y="2" style="fill:#000000;" width="1" height="1"/>
+		<rect x="12" y="6" style="fill:#000000;" width="1" height="1"/>
+		<rect x="12" y="4" style="fill:#000000;" width="1" height="1"/>
+		<rect x="12" y="10" style="fill:#000000;" width="1" height="1"/>
+		<rect x="12" y="8" style="fill:#000000;" width="1" height="1"/>
+	</g>
+</g>
+</svg>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 20.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve">
+<g id="canvas">
+	<path id="XMLID_1_" style="opacity:0;fill:#000000;" d="M16,16H0V0h16V16z"/>
+</g>
+<g id="outline">
+	<path id="XMLID_3_" style="fill:#000000;" d="M16,2.5v10c0,0.827-0.673,1.5-1.5,1.5H2.504c-0.827,0-1.5-0.673-1.5-1.5v-8
+		c0-0.827,0.673-1.5,1.5-1.5H5.39l1-2h8.11C15.327,1,16,1.673,16,2.5z"/>
+</g>
+<g id="iconBg">
+	<path style="fill:#FFFFFF;" d="M14.5,2H7.008l-1,2H2.504c-0.277,0-0.5,0.224-0.5,0.5v8c0,0.276,0.223,0.5,0.5,0.5H14.5
+		c0.275,0,0.5-0.224,0.5-0.5v-10C15,2.224,14.775,2,14.5,2z M14.004,4H7.508l0.5-1h0.004h5.992V4z"/>
+</g>
+<g id="iconFg">
+	<path id="XMLID_5_" style="fill:#000000;" d="M14,3v1H7.5L8,3H14z"/>
+</g>
+</svg>

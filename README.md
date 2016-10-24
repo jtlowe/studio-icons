@@ -1,5 +1,5 @@
 # Studio Icons (Visual Studio Code Icon Theme)
-Featuring official Visual Studio icons from the [Visual Studio 2015 Image Library] (https://msdn.microsoft.com/en-us/library/ms246582.aspx). These icons have been color optimized to work well for dark, light, and high contrast themes. I welcome any feedback or suggestions.
+Featuring official icons from the [Visual Studio 2015 Image Library] (https://msdn.microsoft.com/en-us/library/ms246582.aspx). These icons have been color optimized to work well for dark, light, and high contrast themes. I welcome any feedback or suggestions.
 
 **NOTE:** High Contrast icons do not currently render for the High Contrast theme. [Track bug progress](https://github.com/Microsoft/vscode/issues/14243#event-833916052)
 
@@ -18,6 +18,6 @@ Uses Yarn package manager and Gulp for build tasks. Current workflow:
 
 ## Thanks
 
-Thanks to Philipp Kief's for the much appreciated [Material Icon Theme](https://github.com/PKief/vscode-extension-material-icon-theme). Used this as a great starting point for mapping icons to extensions/filenames.
+Thanks to Philipp Kief's for the much appreciated [Material Icon Theme](https://github.com/PKief/vscode-extension-material-icon-theme)! Used this as a great starting point for mapping icons to extensions/filenames.
 
-Thanks to the Microsoft team for their excellent icon set. 
+Thanks to the Microsoft team for their excellent icon set!

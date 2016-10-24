@@ -1,7 +1,7 @@
 {
   "name": "vscode-icon-theme",
   "displayName": "Studio Icons",
-  "description": "Featuring official Visual Studio icons from the Visual Studio 2015 Image Library. Optimized to work well for dark, light, and high contrast themes.",
+  "description": "Featuring official icons from the Visual Studio 2015 Image Library. Optimized to work well for dark, light, and high contrast themes.",
   "version": "1.0.7",
   "publisher": "jtlowe",
   "engines": {
@@ -15,7 +15,7 @@
       {
         "id": "vscode-icon-theme",
         "label": "Studio Icons",
-        "path": "./fileicons/vscode-icon-theme.json"
+        "path": "fileicons/vscode-icon-theme.json"
       }
     ]
   },
@@ -33,7 +33,7 @@
   "bugs": {
     "url": "https://github.com/jtlowe/vscode-icon-theme/issues"
   },
-  "icon": "images/logo.png",
+  "icon": "images/logo.svg",
   "galleryBanner": {
     "color": "#e0e0e0",
     "theme": "light"

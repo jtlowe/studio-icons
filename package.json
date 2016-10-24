@@ -1,7 +1,7 @@
 {
   "name": "vscode-icon-theme",
-  "displayName": "VS Code Icon Theme",
-  "description": "Featuring Official Visual Studio icons from the wonderful Visual Studio Image Library. These icons have been color optimized for both default light and dark themes.",
+  "displayName": "Studio Icons",
+  "description": "Featuring official Visual Studio .svg icons from the well-balanced Visual Studio Image Library. These icons have been color optimized to work well for dark, light, and high contrast themes.",
   "version": "1.0.7",
   "publisher": "jtlowe",
   "engines": {
@@ -14,7 +14,7 @@
     "iconThemes": [
       {
         "id": "vscode-icon-theme",
-        "label": "VS Code Icon Theme",
+        "label": "Studio Icons",
         "path": "./fileicons/vscode-icon-theme.json"
       }
     ]

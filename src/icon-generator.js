@@ -62,10 +62,10 @@ module.exports = class IconGenerator {
 
     resetAll() {
         this.clearFolder(this.paths.iconDestPath);
-        this.clearFolder(this.paths.testExtensionsDestPath);
-        this.clearFolder(this.paths.testFileNamesDestPath);
-        this.clearFolder(this.paths.testFolderNamesDestPath);
-        this.clearFolder(this.paths.testLangIdsDestPath);
+        // this.clearFolder(this.paths.testExtensionsDestPath);
+        // this.clearFolder(this.paths.testFileNamesDestPath);
+        // this.clearFolder(this.paths.testFolderNamesDestPath);
+        // this.clearFolder(this.paths.testLangIdsDestPath);
         // this.removeFile(this.paths.configDestPath);
         return this;
     }

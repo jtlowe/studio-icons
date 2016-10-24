@@ -127,7 +127,6 @@ module.exports = class IconGenerator {
                 .split(colors.iconColor10).join(colors.contrastFg)
                 .split(colors.iconColor11).join(colors.contrastFg)
                 .split(colors.iconColor12).join(colors.contrastFg);
-
         });
 
         file.on('end', function () {

@@ -183,6 +183,43 @@
             "fileNames": []
         },
         {
+            "iconPath": "Image_16x.svg",
+            "fileExtensions": [
+                "png",
+                "jpeg",
+                "jpg",
+                "gif",
+                "svg",
+                "ico",
+                "tif",
+                "tiff",
+                "psd",
+                "psb",
+                "ami",
+                "apx",
+                "bmp",
+                "bpg",
+                "brk",
+                "cur",
+                "dds",
+                "dng",
+                "exr",
+                "fpx",
+                "gbr",
+                "img",
+                "jbig2",
+                "jb2",
+                "jng",
+                "jxr",
+                "pbm",
+                "pgf",
+                "pic",
+                "raw",
+                "webp"
+            ],
+            "fileNames": []
+        },
+        {
             "iconPath": "JADEScript_16x.svg",
             "fileExtensions": [
                 "jade"

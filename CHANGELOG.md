@@ -1,5 +1,21 @@
 # Change Log
 
+## 1.1.4 (October 24, 2016)
+  - Feature: Adding image file icon and associations.
+
+## 1.1.3 (October 24, 2016)
+  - Adding ignore file to exclude src, test, and other non-essential files/folders from being included in the extension build.
+
+## 1.1.2 (October 24, 2016)
+  - Optimizing SVG logo to remove unnecessary paths.
+
+## 1.1.1 (October 24, 2016)
+  - Keeping test files because they don't change.
+
+## 1.1.0 (October 24, 2016)
+  - Changing theme name to "Studio Icons"
+  - Feature: High Contrast icons for high contrast theme.
+
 ## 1.1.0 (October 24, 2016)
   - Changing theme name to "Studio Icons"
   - Feature: High Contrast icons for high contrast theme.

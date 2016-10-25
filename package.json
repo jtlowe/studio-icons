@@ -1,45 +1,45 @@
 {
-  "name": "vscode-icon-theme",
-  "displayName": "Studio Icons",
-  "description": "Featuring official icons from the Visual Studio 2015 Image Library. Optimized to work well for dark, light, and high contrast themes.",
-  "version": "1.1.0",
-  "publisher": "jtlowe",
-  "license": "SEE LICENSE IN LICENSE.md",
-  "engines": {
-    "vscode": "^1.5.0"
-  },
-  "categories": [
-    "Themes"
-  ],
-  "contributes": {
-    "iconThemes": [
-      {
-        "id": "vscode-icon-theme",
-        "label": "Studio Icons",
-        "path": "fileicons/vscode-icon-theme.json"
-      }
-    ]
-  },
-  "keywords": [
-    "icons",
-    "theme",
-    "icon-theme",
-    "customization"
-  ],
-  "homepage": "https://github.com/jtlowe/vscode-icon-theme/blob/master/README.md",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/jtlowe/vscode-icon-theme.git"
-  },
-  "bugs": {
-    "url": "https://github.com/jtlowe/vscode-icon-theme/issues"
-  },
-  "icon": "images/logo.svg",
-  "galleryBanner": {
-    "color": "#e0e0e0",
-    "theme": "light"
-  },
-  "dependencies": {
-    "gulp": "^3.9.1"
-  }
+    "name": "vscode-icon-theme",
+    "displayName": "Studio Icons",
+    "description": "Featuring official icons from the Visual Studio 2015 Image Library. Optimized to work well for dark, light, and high contrast themes.",
+    "version": "1.1.1",
+    "publisher": "jtlowe",
+    "license": "SEE LICENSE IN LICENSE.md",
+    "engines": {
+        "vscode": "^1.5.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "iconThemes": [
+            {
+                "id": "vscode-icon-theme",
+                "label": "Studio Icons",
+                "path": "fileicons/vscode-icon-theme.json"
+            }
+        ]
+    },
+    "keywords": [
+        "icons",
+        "theme",
+        "icon-theme",
+        "customization"
+    ],
+    "homepage": "https://github.com/jtlowe/vscode-icon-theme/blob/master/README.md",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/jtlowe/vscode-icon-theme.git"
+    },
+    "bugs": {
+        "url": "https://github.com/jtlowe/vscode-icon-theme/issues"
+    },
+    "icon": "images/logo.svg",
+    "galleryBanner": {
+        "color": "#e0e0e0",
+        "theme": "light"
+    },
+    "dependencies": {
+        "gulp": "^3.9.1"
+    }
 }

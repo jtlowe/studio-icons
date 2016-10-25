@@ -238,7 +238,7 @@ module.exports = class IconGenerator {
             var length = icon.fileExtensions.length;
             for (var i = 0; i < length; i++) {
                 var extension = icon.fileExtensions[i];
-                var filePath = this.paths.testExtensionsDestPath + extension + '.' + extension;
+                var filePath = this.paths.testExtensionsDestPath + '.' + extension;
                 this.createTestFile(filePath);
             }
         }

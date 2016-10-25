@@ -4,6 +4,7 @@
   "description": "Featuring official icons from the Visual Studio 2015 Image Library. Optimized to work well for dark, light, and high contrast themes.",
   "version": "1.1.0",
   "publisher": "jtlowe",
+  "license": "SEE LICENSE IN LICENSE.md",
   "engines": {
     "vscode": "^1.5.0"
   },

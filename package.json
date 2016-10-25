@@ -16,7 +16,7 @@
             {
                 "id": "vscode-icon-theme",
                 "label": "Studio Icons",
-                "path": "fileicons/vscode-icon-theme.json"
+                "path": "fileicons/studio-icons.json"
             }
         ]
     },
@@ -26,13 +26,13 @@
         "icon-theme",
         "customization"
     ],
-    "homepage": "https://github.com/jtlowe/vscode-icon-theme/blob/master/README.md",
+    "homepage": "https://github.com/jtlowe/studio-icons/blob/master/README.md",
     "repository": {
         "type": "git",
-        "url": "https://github.com/jtlowe/vscode-icon-theme.git"
+        "url": "https://github.com/jtlowe/studio-icons.git"
     },
     "bugs": {
-        "url": "https://github.com/jtlowe/vscode-icon-theme/issues"
+        "url": "https://github.com/jtlowe/studio-icons/issues"
     },
     "icon": "images/logo.svg",
     "galleryBanner": {

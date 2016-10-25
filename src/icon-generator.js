@@ -9,7 +9,7 @@ module.exports = class IconGenerator {
         this.paths = {
             iconSrcPath: './src/svg/',
             iconDestPath: './fileicons/images/',
-            configDestPath: './fileicons/vscode-icon-theme.json',
+            configDestPath: './fileicons/studio-icons.json',
             testExtensionsDestPath: './test/extensions/',
             testFileNamesDestPath: './test/filenames/',
             testFolderNamesDestPath: './test/foldernames/',

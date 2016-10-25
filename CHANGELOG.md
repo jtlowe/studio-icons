@@ -1,6 +1,6 @@
 # Change Log
 
-## 1.1.4 (October 24, 2016)
+## 1.1.4 (October 25, 2016)
   - Feature: Adding image file icon and associations.
 
 ## 1.1.3 (October 24, 2016)

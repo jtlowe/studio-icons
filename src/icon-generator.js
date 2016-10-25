@@ -50,9 +50,15 @@ module.exports = class IconGenerator {
 
         for (var i = 0; i < iconCount; i++) {
             var icon = icons[i];
-            this.createIcon(icon.iconPath);
-            this.createTestFiles(icon);
-            this.createIconDefinition(icon);
+
+            if(icon.iconPath !== "FOR_TEST_ONLY"){
+                this.createIcon(icon.iconPath);
+                this.createTestFiles(icon);
+                this.createIconDefinition(icon);
+            }
+            else {
+                this.createTestFiles(icon);
+            }
         }
 
         this.createConfigFile();

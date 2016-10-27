@@ -3,3 +3,4 @@ test/**/*
 node_modules/**/*
 gulpfile.js
 yarn.lock
+*.vsix

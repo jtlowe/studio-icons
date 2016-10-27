@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 20.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve">
+<g id="outline">
+	<rect style="opacity:0;fill:#000000;" width="16" height="16"/>
+	<path style="fill:#000000;" d="M11.061,0H5C4.03,0,3,0.701,3,2C2.03,2,1,2.701,1,4v10c0,1.299,1.03,2,2,2h8c1.299,0,2-1.03,2-2
+		c1.299,0,2-1.03,2-2V3.556L11.061,0z"/>
+</g>
+<g id="icon_x5F_bg">
+	<path style="fill:#FFFFFF;" d="M10.641,1H4.964C4.964,1,4,1,4,2h1h4.061H10v0.848L12.385,5H13v0.556V12v0.995
+		C13.962,12.97,14,12,14,12V4L10.641,1z"/>
+	<path style="fill:#FFFFFF;" d="M8.641,3H2.964C2.964,3,2,3,2,4c0,0.805,0,7.442,0,10c0,1,0.965,1,0.965,1s7,0,8,0
+		c1,0,1.035-1,1.035-1V6L8.641,3z M11,14H3V4h5v3h3V14z"/>
+</g>
+<g id="icon_x5F_fg">
+	<polygon style="fill:#000000;" points="3,4 8,4 8,7 11,7 11,14 3,14 	"/>
+</g>
+</svg>

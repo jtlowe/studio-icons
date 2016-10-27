@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 20.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve">
+<g id="outline">
+	<rect style="opacity:0;fill:#000000;" width="16" height="16"/>
+	<path style="fill:#000000;" d="M12.061,0H6C5.03,0,4,0.701,4,2v5H0v9h8.938v-2H14c1.299,0,2-1.03,2-2V3.556L12.061,0z"/>
+</g>
+<g id="icon_x5F_bg">
+	<circle style="fill:#FFFFFF;" cx="5.641" cy="10.359" r="0.949"/>
+	<path style="fill:#FFFFFF;" d="M1,8v7h7V8H1z M2,14l1.5-1.5l2,1.5H2z M7,13.5L3.5,11L2,12.5V9h5V13.5z"/>
+	<path style="fill:#FFFFFF;" d="M11.641,1H5.964C5.964,1,5,1,5,2c0,0.444,0,2.668,0,5h1V2h5v3h3v7H8.938v1c2.037,0,4.469,0,5.027,0
+		c1,0,1.035-1,1.035-1V4L11.641,1z"/>
+	<polygon style="fill:#000000;" points="11,5 11,2 6,2 6,7 8.938,7 8.938,12 14,12 14,5 	"/>
+</g>
+<g id="color_x5F_action">
+</g>
+<g id="icon_x5F_fg">
+	<g>
+		<path style="fill:#000000;" d="M2.031,9.031v3.438L3.5,11l3.469,2.477V9.031H2.031z M5.641,11.309c-0.524,0-0.95-0.426-0.95-0.949
+			c0-0.523,0.425-0.949,0.95-0.949c0.524,0,0.949,0.426,0.949,0.949C6.59,10.883,6.165,11.309,5.641,11.309z"/>
+		<polygon style="fill:#000000;" points="3.5,12.5 2.031,13.969 5.458,13.969 		"/>
+	</g>
+</g>
+</svg>

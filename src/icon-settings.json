@@ -18,21 +18,12 @@
             "fileExtensions": [
                 "a",
                 "ai",
-                "asax",
-                "ascx",
-                "asmx",
-                "asp",
-                "aspx",
                 "bash",
                 "bin",
                 "c",
                 "cl",
                 "clj",
-                "cmd",
-                "css.map",
-                "cxx",
                 "d",
-                "d.ts",
                 "di",
                 "doc",
                 "docx",
@@ -48,11 +39,8 @@
                 "hbs",
                 "hh",
                 "hs",
-                "hxml",
                 "hxx",
                 "jl",
-                "js.map",
-                "json",
                 "l",
                 "lhs",
                 "lisp",
@@ -60,7 +48,6 @@
                 "lsp",
                 "lua",
                 "make",
-                "master",
                 "mk",
                 "o",
                 "otd",
@@ -74,19 +61,16 @@
                 "scala",
                 "scm",
                 "sfd",
-                "sitemap",
                 "skim",
                 "slim",
                 "so",
                 "ss",
-                "styl",
                 "swf",
                 "swift",
                 "tex",
                 "toml",
                 "vb",
                 "vue",
-                "xml",
                 "yaml",
                 "yml",
                 "zsh"
@@ -100,10 +84,10 @@
                 ".travis.yml",
                 "appveyor.yml",
                 "bower.json",
+                "composer.lock",
                 "copying",
                 "dockerfile",
                 "dub.json",
-                "dub.sdl",
                 "dub.selections.json",
                 "gruntfile",
                 "gulpfile",
@@ -113,8 +97,7 @@
                 "readme",
                 "readme.md",
                 "releases",
-                "web.debug.config",
-                "web.release.config"
+                "yarn.lock"
             ],
             "folderNames": [
                 "references"
@@ -147,6 +130,21 @@
             "fileNames": []
         },
         {
+            "iconPath": "ASPXFile_16x.svg",
+            "fileExtensions": [
+                "asp",
+                "aspx"
+            ],
+            "fileNames": []
+        },
+        {
+            "iconPath": "BuildStyle_16x.svg",
+            "fileExtensions": [
+                "styl"
+            ],
+            "fileNames": []
+        },
+        {
             "iconPath": "CFile_16x_color.svg",
             "fileExtensions": [
                 "cc"
@@ -156,7 +154,8 @@
         {
             "iconPath": "CPP_16x.svg",
             "fileExtensions": [
-                "cpp"
+                "cpp",
+                "cxx"
             ],
             "fileNames": []
         },
@@ -202,9 +201,38 @@
         {
             "iconPath": "Console_16x.svg",
             "fileExtensions": [
+                "cmd",
                 "sh",
                 "bat",
                 "ps1"
+            ],
+            "fileNames": []
+        },
+        {
+            "iconPath": "CPPApplication_16x.svg",
+            "fileExtensions": [],
+            "fileNames": [
+                ".vcxproj"
+            ]
+        },
+        {
+            "iconPath": "CPPATLWebService_16x.svg",
+            "fileExtensions": [],
+            "fileNames": [
+                "dub.sdl"
+            ]
+        },
+        {
+            "iconPath": "CSApplication_16x.svg",
+            "fileExtensions": [],
+            "fileNames": [
+                ".csproj"
+            ]
+        },
+        {
+            "iconPath": "CursorFile_16x.svg",
+            "fileExtensions": [
+                "cur"
             ],
             "fileNames": []
         },
@@ -222,6 +250,27 @@
         {
             "iconPath": "Document_16x.svg",
             "fileExtensions": [],
+            "fileNames": []
+        },
+        {
+            "iconPath": "Extension_16x.svg",
+            "fileExtensions": [
+                "vsix"
+            ],
+            "fileNames": []
+        },
+        {
+            "iconPath": "ExtensionManagerManifest_16x.svg",
+            "fileExtensions": [
+                "manifest"
+            ],
+            "fileNames": []
+        },
+        {
+            "iconPath": "FileGroup_16x.svg",
+            "fileExtensions": [
+                "resx"
+            ],
             "fileNames": []
         },
         {
@@ -264,6 +313,13 @@
             "fileNames": []
         },
         {
+            "iconPath": "FSApplication_16x.svg",
+            "fileExtensions": [],
+            "fileNames": [
+                ".fsproj"
+            ]
+        },
+        {
             "iconPath": "GitLogo_16x.svg",
             "fileExtensions": [],
             "fileNames": [
@@ -278,7 +334,8 @@
             "iconPath": "HTMLFile_16x.svg",
             "fileExtensions": [
                 "htm",
-                "html"
+                "html",
+                "hxml"
             ],
             "fileNames": []
         },
@@ -308,7 +365,6 @@
                 "bmp",
                 "bpg",
                 "brk",
-                "cur",
                 "dds",
                 "dng",
                 "exr",
@@ -328,9 +384,31 @@
             "fileNames": []
         },
         {
+            "iconPath": "ImageMapFile_16x.svg",
+            "fileExtensions": [
+                "map"
+            ],
+            "fileNames": []
+        },
+        {
             "iconPath": "JADEScript_16x.svg",
             "fileExtensions": [
                 "jade"
+            ],
+            "fileNames": []
+        },
+        {
+            "iconPath": "JARFile_16x.svg",
+            "fileExtensions": [
+                "jar"
+            ],
+            "fileNames": []
+        },
+        {
+            "iconPath": "JavaFile_16x.svg",
+            "fileExtensions": [
+                "java",
+                "jsp"
             ],
             "fileNames": []
         },
@@ -350,26 +428,22 @@
             "fileNames": [
                 ".jscsrc",
                 ".jshintrc",
-                ".babelrc",
-                "composer.lock"
+                ".babelrc"
             ]
         },
         {
             "iconPath": "JSScript_16x.svg",
             "fileExtensions": [
                 "js",
-                "jsx",
                 "ejs",
                 "esx"
             ],
             "fileNames": []
         },
         {
-            "iconPath": "JavaFile_16x.svg",
+            "iconPath": "JSXScript_16x.svg",
             "fileExtensions": [
-                "java",
-                "jar",
-                "jsp"
+                "jsx"
             ],
             "fileNames": []
         },
@@ -399,6 +473,13 @@
             "fileNames": []
         },
         {
+            "iconPath": "Lock_16x.svg",
+            "fileExtensions": [
+                "lock"
+            ],
+            "fileNames": []
+        },
+        {
             "iconPath": "Mail_16x.svg",
             "fileExtensions": [
                 "ics",
@@ -407,10 +488,9 @@
             "fileNames": []
         },
         {
-            "iconPath": "MarkdownFile_16x.svg",
+            "iconPath": "MasterPage_16x.svg",
             "fileExtensions": [
-                "md",
-                "md.rendered"
+                "master"
             ],
             "fileNames": []
         },
@@ -444,6 +524,14 @@
             "fileNames": []
         },
         {
+            "iconPath": "NextDocument_16x.svg",
+            "fileExtensions": [],
+            "fileNames": [
+                "web.debug.config",
+                "web.release.config"
+            ]
+        },
+        {
             "iconPath": "NodeJS_16x.svg",
             "fileExtensions": [],
             "fileNames": [
@@ -461,6 +549,15 @@
             "iconPath": "PHPFile_16x.svg",
             "fileExtensions": [
                 "php"
+            ],
+            "fileNames": []
+        },
+        {
+            "iconPath": "Property_16x.svg",
+            "fileExtensions": [
+                "properties",
+                "prop",
+                "props"
             ],
             "fileNames": []
         },
@@ -487,20 +584,29 @@
             "fileNames": []
         },
         {
+            "iconPath": "Settings_16x.svg",
+            "fileExtensions": [
+                "settings"
+            ]
+        },
+        {
             "iconPath": "SettingsFile_16x.svg",
             "fileExtensions": [
+                "asax",
                 "ini",
                 "dlc",
-                "dll",
-                "properties",
-                "prop",
-                "props",
-                "settings"
+                "dll"
             ],
             "fileNames": [
                 ".jshintignore",
                 "procfile",
                 ".buildignore"
+            ]
+        },
+        {
+            "iconPath": "SitemapFile_16x.svg",
+            "fileExtensions": [
+                "sitemap"
             ]
         },
         {
@@ -539,6 +645,21 @@
             "fileNames": []
         },
         {
+            "iconPath": "TextFile_16x.svg",
+            "fileExtensions": [
+                "md",
+                "md.rendered"
+            ],
+            "fileNames": []
+        },
+        {
+            "iconPath": "VBApplication_16x.svg",
+            "fileExtensions": [],
+            "fileNames": [
+                ".vbproj"
+            ]
+        },
+        {
             "iconPath": "VirtualMachine_16x.svg",
             "fileExtensions": [
                 "vdi",
@@ -551,10 +672,16 @@
             "iconPath": "VisualStudioLogo_whiteHalo_16x.svg",
             "fileExtensions": [
                 "vscodeignore",
-                "vsixmanifest",
                 "suo",
                 "sln",
                 "csproj"
+            ],
+            "fileNames": []
+        },
+        {
+            "iconPath": "WebService_16x.svg",
+            "fileExtensions": [
+                "asmx"
             ],
             "fileNames": []
         },
@@ -566,16 +693,34 @@
             "fileNames": []
         },
         {
+            "iconPath": "WebUserControl_16x.svg",
+            "fileExtensions": [
+                "ascx"
+            ],
+            "fileNames": []
+        },
+        {
             "iconPath": "XMLFile_16x.svg",
             "fileExtensions": [
                 "xml",
-                "xsd",
                 "dtd",
-                "xsl",
-                "resx",
                 "iml",
-                "xquery",
-                "manifest"
+                "vsixmanifest",
+                "xquery"
+            ],
+            "fileNames": []
+        },
+        {
+            "iconPath": "XMLSchema_16x.svg",
+            "fileExtensions": [
+                "xsd"
+            ],
+            "fileNames": []
+        },
+        {
+            "iconPath": "XSLTTransformFile_16x.svg",
+            "fileExtensions": [
+                "xsl"
             ],
             "fileNames": []
         },

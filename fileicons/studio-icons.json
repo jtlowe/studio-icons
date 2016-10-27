@@ -27,6 +27,24 @@
         "AudioOn_16x_contrast.svg": {
             "iconPath": "./images/AudioOn_16x_contrast.svg"
         },
+        "ASPXFile_16x.svg": {
+            "iconPath": "./images/ASPXFile_16x.svg"
+        },
+        "ASPXFile_16x_inverse.svg": {
+            "iconPath": "./images/ASPXFile_16x_inverse.svg"
+        },
+        "ASPXFile_16x_contrast.svg": {
+            "iconPath": "./images/ASPXFile_16x_contrast.svg"
+        },
+        "BuildStyle_16x.svg": {
+            "iconPath": "./images/BuildStyle_16x.svg"
+        },
+        "BuildStyle_16x_inverse.svg": {
+            "iconPath": "./images/BuildStyle_16x_inverse.svg"
+        },
+        "BuildStyle_16x_contrast.svg": {
+            "iconPath": "./images/BuildStyle_16x_contrast.svg"
+        },
         "CFile_16x_color.svg": {
             "iconPath": "./images/CFile_16x_color.svg"
         },
@@ -90,6 +108,42 @@
         "Console_16x_contrast.svg": {
             "iconPath": "./images/Console_16x_contrast.svg"
         },
+        "CPPApplication_16x.svg": {
+            "iconPath": "./images/CPPApplication_16x.svg"
+        },
+        "CPPApplication_16x_inverse.svg": {
+            "iconPath": "./images/CPPApplication_16x_inverse.svg"
+        },
+        "CPPApplication_16x_contrast.svg": {
+            "iconPath": "./images/CPPApplication_16x_contrast.svg"
+        },
+        "CPPATLWebService_16x.svg": {
+            "iconPath": "./images/CPPATLWebService_16x.svg"
+        },
+        "CPPATLWebService_16x_inverse.svg": {
+            "iconPath": "./images/CPPATLWebService_16x_inverse.svg"
+        },
+        "CPPATLWebService_16x_contrast.svg": {
+            "iconPath": "./images/CPPATLWebService_16x_contrast.svg"
+        },
+        "CSApplication_16x.svg": {
+            "iconPath": "./images/CSApplication_16x.svg"
+        },
+        "CSApplication_16x_inverse.svg": {
+            "iconPath": "./images/CSApplication_16x_inverse.svg"
+        },
+        "CSApplication_16x_contrast.svg": {
+            "iconPath": "./images/CSApplication_16x_contrast.svg"
+        },
+        "CursorFile_16x.svg": {
+            "iconPath": "./images/CursorFile_16x.svg"
+        },
+        "CursorFile_16x_inverse.svg": {
+            "iconPath": "./images/CursorFile_16x_inverse.svg"
+        },
+        "CursorFile_16x_contrast.svg": {
+            "iconPath": "./images/CursorFile_16x_contrast.svg"
+        },
         "Database_16x.svg": {
             "iconPath": "./images/Database_16x.svg"
         },
@@ -107,6 +161,33 @@
         },
         "Document_16x_contrast.svg": {
             "iconPath": "./images/Document_16x_contrast.svg"
+        },
+        "Extension_16x.svg": {
+            "iconPath": "./images/Extension_16x.svg"
+        },
+        "Extension_16x_inverse.svg": {
+            "iconPath": "./images/Extension_16x_inverse.svg"
+        },
+        "Extension_16x_contrast.svg": {
+            "iconPath": "./images/Extension_16x_contrast.svg"
+        },
+        "ExtensionManagerManifest_16x.svg": {
+            "iconPath": "./images/ExtensionManagerManifest_16x.svg"
+        },
+        "ExtensionManagerManifest_16x_inverse.svg": {
+            "iconPath": "./images/ExtensionManagerManifest_16x_inverse.svg"
+        },
+        "ExtensionManagerManifest_16x_contrast.svg": {
+            "iconPath": "./images/ExtensionManagerManifest_16x_contrast.svg"
+        },
+        "FileGroup_16x.svg": {
+            "iconPath": "./images/FileGroup_16x.svg"
+        },
+        "FileGroup_16x_inverse.svg": {
+            "iconPath": "./images/FileGroup_16x_inverse.svg"
+        },
+        "FileGroup_16x_contrast.svg": {
+            "iconPath": "./images/FileGroup_16x_contrast.svg"
         },
         "FS_16x.svg": {
             "iconPath": "./images/FS_16x.svg"
@@ -144,6 +225,15 @@
         "Font_16x_contrast.svg": {
             "iconPath": "./images/Font_16x_contrast.svg"
         },
+        "FSApplication_16x.svg": {
+            "iconPath": "./images/FSApplication_16x.svg"
+        },
+        "FSApplication_16x_inverse.svg": {
+            "iconPath": "./images/FSApplication_16x_inverse.svg"
+        },
+        "FSApplication_16x_contrast.svg": {
+            "iconPath": "./images/FSApplication_16x_contrast.svg"
+        },
         "GitLogo_16x.svg": {
             "iconPath": "./images/GitLogo_16x.svg"
         },
@@ -180,6 +270,15 @@
         "Image_16x_contrast.svg": {
             "iconPath": "./images/Image_16x_contrast.svg"
         },
+        "ImageMapFile_16x.svg": {
+            "iconPath": "./images/ImageMapFile_16x.svg"
+        },
+        "ImageMapFile_16x_inverse.svg": {
+            "iconPath": "./images/ImageMapFile_16x_inverse.svg"
+        },
+        "ImageMapFile_16x_contrast.svg": {
+            "iconPath": "./images/ImageMapFile_16x_contrast.svg"
+        },
         "JADEScript_16x.svg": {
             "iconPath": "./images/JADEScript_16x.svg"
         },
@@ -188,6 +287,24 @@
         },
         "JADEScript_16x_contrast.svg": {
             "iconPath": "./images/JADEScript_16x_contrast.svg"
+        },
+        "JARFile_16x.svg": {
+            "iconPath": "./images/JARFile_16x.svg"
+        },
+        "JARFile_16x_inverse.svg": {
+            "iconPath": "./images/JARFile_16x_inverse.svg"
+        },
+        "JARFile_16x_contrast.svg": {
+            "iconPath": "./images/JARFile_16x_contrast.svg"
+        },
+        "JavaFile_16x.svg": {
+            "iconPath": "./images/JavaFile_16x.svg"
+        },
+        "JavaFile_16x_inverse.svg": {
+            "iconPath": "./images/JavaFile_16x_inverse.svg"
+        },
+        "JavaFile_16x_contrast.svg": {
+            "iconPath": "./images/JavaFile_16x_contrast.svg"
         },
         "JSCoffeeScript_16x.svg": {
             "iconPath": "./images/JSCoffeeScript_16x.svg"
@@ -216,14 +333,14 @@
         "JSScript_16x_contrast.svg": {
             "iconPath": "./images/JSScript_16x_contrast.svg"
         },
-        "JavaFile_16x.svg": {
-            "iconPath": "./images/JavaFile_16x.svg"
+        "JSXScript_16x.svg": {
+            "iconPath": "./images/JSXScript_16x.svg"
         },
-        "JavaFile_16x_inverse.svg": {
-            "iconPath": "./images/JavaFile_16x_inverse.svg"
+        "JSXScript_16x_inverse.svg": {
+            "iconPath": "./images/JSXScript_16x_inverse.svg"
         },
-        "JavaFile_16x_contrast.svg": {
-            "iconPath": "./images/JavaFile_16x_contrast.svg"
+        "JSXScript_16x_contrast.svg": {
+            "iconPath": "./images/JSXScript_16x_contrast.svg"
         },
         "Key_16x.svg": {
             "iconPath": "./images/Key_16x.svg"
@@ -252,6 +369,15 @@
         "Library_16x_contrast.svg": {
             "iconPath": "./images/Library_16x_contrast.svg"
         },
+        "Lock_16x.svg": {
+            "iconPath": "./images/Lock_16x.svg"
+        },
+        "Lock_16x_inverse.svg": {
+            "iconPath": "./images/Lock_16x_inverse.svg"
+        },
+        "Lock_16x_contrast.svg": {
+            "iconPath": "./images/Lock_16x_contrast.svg"
+        },
         "Mail_16x.svg": {
             "iconPath": "./images/Mail_16x.svg"
         },
@@ -261,14 +387,14 @@
         "Mail_16x_contrast.svg": {
             "iconPath": "./images/Mail_16x_contrast.svg"
         },
-        "MarkdownFile_16x.svg": {
-            "iconPath": "./images/MarkdownFile_16x.svg"
+        "MasterPage_16x.svg": {
+            "iconPath": "./images/MasterPage_16x.svg"
         },
-        "MarkdownFile_16x_inverse.svg": {
-            "iconPath": "./images/MarkdownFile_16x_inverse.svg"
+        "MasterPage_16x_inverse.svg": {
+            "iconPath": "./images/MasterPage_16x_inverse.svg"
         },
-        "MarkdownFile_16x_contrast.svg": {
-            "iconPath": "./images/MarkdownFile_16x_contrast.svg"
+        "MasterPage_16x_contrast.svg": {
+            "iconPath": "./images/MasterPage_16x_contrast.svg"
         },
         "Media_16x.svg": {
             "iconPath": "./images/Media_16x.svg"
@@ -278,6 +404,15 @@
         },
         "Media_16x_contrast.svg": {
             "iconPath": "./images/Media_16x_contrast.svg"
+        },
+        "NextDocument_16x.svg": {
+            "iconPath": "./images/NextDocument_16x.svg"
+        },
+        "NextDocument_16x_inverse.svg": {
+            "iconPath": "./images/NextDocument_16x_inverse.svg"
+        },
+        "NextDocument_16x_contrast.svg": {
+            "iconPath": "./images/NextDocument_16x_contrast.svg"
         },
         "NodeJS_16x.svg": {
             "iconPath": "./images/NodeJS_16x.svg"
@@ -306,6 +441,15 @@
         "PHPFile_16x_contrast.svg": {
             "iconPath": "./images/PHPFile_16x_contrast.svg"
         },
+        "Property_16x.svg": {
+            "iconPath": "./images/Property_16x.svg"
+        },
+        "Property_16x_inverse.svg": {
+            "iconPath": "./images/Property_16x_inverse.svg"
+        },
+        "Property_16x_contrast.svg": {
+            "iconPath": "./images/Property_16x_contrast.svg"
+        },
         "PY_16x.svg": {
             "iconPath": "./images/PY_16x.svg"
         },
@@ -333,6 +477,15 @@
         "SassStyleSheet_16x_contrast.svg": {
             "iconPath": "./images/SassStyleSheet_16x_contrast.svg"
         },
+        "Settings_16x.svg": {
+            "iconPath": "./images/Settings_16x.svg"
+        },
+        "Settings_16x_inverse.svg": {
+            "iconPath": "./images/Settings_16x_inverse.svg"
+        },
+        "Settings_16x_contrast.svg": {
+            "iconPath": "./images/Settings_16x_contrast.svg"
+        },
         "SettingsFile_16x.svg": {
             "iconPath": "./images/SettingsFile_16x.svg"
         },
@@ -341,6 +494,15 @@
         },
         "SettingsFile_16x_contrast.svg": {
             "iconPath": "./images/SettingsFile_16x_contrast.svg"
+        },
+        "SitemapFile_16x.svg": {
+            "iconPath": "./images/SitemapFile_16x.svg"
+        },
+        "SitemapFile_16x_inverse.svg": {
+            "iconPath": "./images/SitemapFile_16x_inverse.svg"
+        },
+        "SitemapFile_16x_contrast.svg": {
+            "iconPath": "./images/SitemapFile_16x_contrast.svg"
         },
         "StyleSheet_16x.svg": {
             "iconPath": "./images/StyleSheet_16x.svg"
@@ -378,6 +540,24 @@
         "Text_16x_contrast.svg": {
             "iconPath": "./images/Text_16x_contrast.svg"
         },
+        "TextFile_16x.svg": {
+            "iconPath": "./images/TextFile_16x.svg"
+        },
+        "TextFile_16x_inverse.svg": {
+            "iconPath": "./images/TextFile_16x_inverse.svg"
+        },
+        "TextFile_16x_contrast.svg": {
+            "iconPath": "./images/TextFile_16x_contrast.svg"
+        },
+        "VBApplication_16x.svg": {
+            "iconPath": "./images/VBApplication_16x.svg"
+        },
+        "VBApplication_16x_inverse.svg": {
+            "iconPath": "./images/VBApplication_16x_inverse.svg"
+        },
+        "VBApplication_16x_contrast.svg": {
+            "iconPath": "./images/VBApplication_16x_contrast.svg"
+        },
         "VirtualMachine_16x.svg": {
             "iconPath": "./images/VirtualMachine_16x.svg"
         },
@@ -396,6 +576,15 @@
         "VisualStudioLogo_whiteHalo_16x_contrast.svg": {
             "iconPath": "./images/VisualStudioLogo_whiteHalo_16x_contrast.svg"
         },
+        "WebService_16x.svg": {
+            "iconPath": "./images/WebService_16x.svg"
+        },
+        "WebService_16x_inverse.svg": {
+            "iconPath": "./images/WebService_16x_inverse.svg"
+        },
+        "WebService_16x_contrast.svg": {
+            "iconPath": "./images/WebService_16x_contrast.svg"
+        },
         "WebURL_16x.svg": {
             "iconPath": "./images/WebURL_16x.svg"
         },
@@ -405,6 +594,15 @@
         "WebURL_16x_contrast.svg": {
             "iconPath": "./images/WebURL_16x_contrast.svg"
         },
+        "WebUserControl_16x.svg": {
+            "iconPath": "./images/WebUserControl_16x.svg"
+        },
+        "WebUserControl_16x_inverse.svg": {
+            "iconPath": "./images/WebUserControl_16x_inverse.svg"
+        },
+        "WebUserControl_16x_contrast.svg": {
+            "iconPath": "./images/WebUserControl_16x_contrast.svg"
+        },
         "XMLFile_16x.svg": {
             "iconPath": "./images/XMLFile_16x.svg"
         },
@@ -413,6 +611,24 @@
         },
         "XMLFile_16x_contrast.svg": {
             "iconPath": "./images/XMLFile_16x_contrast.svg"
+        },
+        "XMLSchema_16x.svg": {
+            "iconPath": "./images/XMLSchema_16x.svg"
+        },
+        "XMLSchema_16x_inverse.svg": {
+            "iconPath": "./images/XMLSchema_16x_inverse.svg"
+        },
+        "XMLSchema_16x_contrast.svg": {
+            "iconPath": "./images/XMLSchema_16x_contrast.svg"
+        },
+        "XSLTTransformFile_16x.svg": {
+            "iconPath": "./images/XSLTTransformFile_16x.svg"
+        },
+        "XSLTTransformFile_16x_inverse.svg": {
+            "iconPath": "./images/XSLTTransformFile_16x_inverse.svg"
+        },
+        "XSLTTransformFile_16x_contrast.svg": {
+            "iconPath": "./images/XSLTTransformFile_16x_contrast.svg"
         },
         "ZipFile_16x.svg": {
             "iconPath": "./images/ZipFile_16x.svg"
@@ -428,21 +644,12 @@
         "fileExtensions": {
             "a": "FOR_TEST_ONLY",
             "ai": "FOR_TEST_ONLY",
-            "asax": "FOR_TEST_ONLY",
-            "ascx": "FOR_TEST_ONLY",
-            "asmx": "FOR_TEST_ONLY",
-            "asp": "FOR_TEST_ONLY",
-            "aspx": "FOR_TEST_ONLY",
             "bash": "FOR_TEST_ONLY",
             "bin": "FOR_TEST_ONLY",
             "c": "FOR_TEST_ONLY",
             "cl": "FOR_TEST_ONLY",
             "clj": "FOR_TEST_ONLY",
-            "cmd": "FOR_TEST_ONLY",
-            "css.map": "FOR_TEST_ONLY",
-            "cxx": "FOR_TEST_ONLY",
             "d": "FOR_TEST_ONLY",
-            "d.ts": "TS_FileSENode_16x.svg",
             "di": "FOR_TEST_ONLY",
             "doc": "FOR_TEST_ONLY",
             "docx": "FOR_TEST_ONLY",
@@ -458,11 +665,8 @@
             "hbs": "FOR_TEST_ONLY",
             "hh": "FOR_TEST_ONLY",
             "hs": "FOR_TEST_ONLY",
-            "hxml": "FOR_TEST_ONLY",
             "hxx": "FOR_TEST_ONLY",
             "jl": "FOR_TEST_ONLY",
-            "js.map": "FOR_TEST_ONLY",
-            "json": "JSONScript_16x.svg",
             "l": "FOR_TEST_ONLY",
             "lhs": "FOR_TEST_ONLY",
             "lisp": "FOR_TEST_ONLY",
@@ -470,7 +674,6 @@
             "lsp": "FOR_TEST_ONLY",
             "lua": "FOR_TEST_ONLY",
             "make": "FOR_TEST_ONLY",
-            "master": "FOR_TEST_ONLY",
             "mk": "FOR_TEST_ONLY",
             "o": "FOR_TEST_ONLY",
             "otd": "FOR_TEST_ONLY",
@@ -484,19 +687,16 @@
             "scala": "FOR_TEST_ONLY",
             "scm": "FOR_TEST_ONLY",
             "sfd": "FOR_TEST_ONLY",
-            "sitemap": "FOR_TEST_ONLY",
             "skim": "FOR_TEST_ONLY",
             "slim": "FOR_TEST_ONLY",
             "so": "FOR_TEST_ONLY",
             "ss": "FOR_TEST_ONLY",
-            "styl": "FOR_TEST_ONLY",
             "swf": "FOR_TEST_ONLY",
             "swift": "FOR_TEST_ONLY",
             "tex": "FOR_TEST_ONLY",
             "toml": "FOR_TEST_ONLY",
             "vb": "FOR_TEST_ONLY",
             "vue": "FOR_TEST_ONLY",
-            "xml": "XMLFile_16x.svg",
             "yaml": "FOR_TEST_ONLY",
             "yml": "FOR_TEST_ONLY",
             "zsh": "FOR_TEST_ONLY",
@@ -507,8 +707,12 @@
             "m4a": "AudioOn_16x.svg",
             "wma": "AudioOn_16x.svg",
             "aiff": "AudioOn_16x.svg",
+            "asp": "ASPXFile_16x.svg",
+            "aspx": "ASPXFile_16x.svg",
+            "styl": "BuildStyle_16x.svg",
             "cc": "CFile_16x_color.svg",
             "cpp": "CPP_16x.svg",
+            "cxx": "CPP_16x.svg",
             "h": "CPPHeaderFile_16x.svg",
             "hpp": "CPPHeaderFile_16x.svg",
             "cs": "CS_16x.svg",
@@ -517,14 +721,19 @@
             "crt": "Certificate_16x.svg",
             "config": "ConfigurationFile_16x.svg",
             "conf": "ConfigurationFile_16x.svg",
+            "cmd": "Console_16x.svg",
             "sh": "Console_16x.svg",
             "bat": "Console_16x.svg",
             "ps1": "Console_16x.svg",
+            "cur": "CursorFile_16x.svg",
             "sql": "Database_16x.svg",
             "accdb": "Database_16x.svg",
             "mdb": "Database_16x.svg",
             "sqlite": "Database_16x.svg",
             "pdb": "Database_16x.svg",
+            "vsix": "Extension_16x.svg",
+            "manifest": "ExtensionManagerManifest_16x.svg",
+            "resx": "FileGroup_16x.svg",
             "fs": "FS_16x.svg",
             "fsproj": "FS_16x.svg",
             "woff": "Font_16x.svg",
@@ -544,6 +753,7 @@
             "mrf": "Font_16x.svg",
             "htm": "HTMLFile_16x.svg",
             "html": "HTMLFile_16x.svg",
+            "hxml": "HTMLFile_16x.svg",
             "ico": "Image_16x.svg",
             "eps": "Image_16x.svg",
             "png": "Image_16x.svg",
@@ -560,7 +770,6 @@
             "bmp": "Image_16x.svg",
             "bpg": "Image_16x.svg",
             "brk": "Image_16x.svg",
-            "cur": "Image_16x.svg",
             "dds": "Image_16x.svg",
             "dng": "Image_16x.svg",
             "exr": "Image_16x.svg",
@@ -576,16 +785,18 @@
             "pic": "Image_16x.svg",
             "raw": "Image_16x.svg",
             "webp": "Image_16x.svg",
+            "map": "ImageMapFile_16x.svg",
             "jade": "JADEScript_16x.svg",
+            "jar": "JARFile_16x.svg",
+            "java": "JavaFile_16x.svg",
+            "jsp": "JavaFile_16x.svg",
             "coffee": "JSCoffeeScript_16x.svg",
+            "json": "JSONScript_16x.svg",
             "graphql": "JSONScript_16x.svg",
             "js": "JSScript_16x.svg",
-            "jsx": "JSScript_16x.svg",
             "ejs": "JSScript_16x.svg",
             "esx": "JSScript_16x.svg",
-            "java": "JavaFile_16x.svg",
-            "jar": "JavaFile_16x.svg",
-            "jsp": "JavaFile_16x.svg",
+            "jsx": "JSXScript_16x.svg",
             "pub": "Key_16x.svg",
             "key": "Key_16x.svg",
             "pem": "Key_16x.svg",
@@ -593,10 +804,10 @@
             "less": "LessStyleSheet_16x.svg",
             "lib": "Library_16x.svg",
             "bib": "Library_16x.svg",
+            "lock": "Lock_16x.svg",
             "ics": "Mail_16x.svg",
             "mailmap": "Mail_16x.svg",
-            "md": "MarkdownFile_16x.svg",
-            "md.rendered": "MarkdownFile_16x.svg",
+            "master": "MasterPage_16x.svg",
             "webm": "Media_16x.svg",
             "mkv": "Media_16x.svg",
             "flv": "Media_16x.svg",
@@ -622,40 +833,46 @@
             "m2v": "Media_16x.svg",
             "cshtml": "Parameter_16x.svg",
             "php": "PHPFile_16x.svg",
+            "properties": "Property_16x.svg",
+            "prop": "Property_16x.svg",
+            "props": "Property_16x.svg",
             "py": "PY_16x.svg",
             "rb": "RB_FileSENode_16x.svg",
             "sass": "SassStyleSheet_16x.svg",
             "scss": "SassStyleSheet_16x.svg",
+            "settings": "Settings_16x.svg",
+            "asax": "SettingsFile_16x.svg",
             "ini": "SettingsFile_16x.svg",
             "dlc": "SettingsFile_16x.svg",
             "dll": "SettingsFile_16x.svg",
-            "properties": "SettingsFile_16x.svg",
-            "prop": "SettingsFile_16x.svg",
-            "props": "SettingsFile_16x.svg",
-            "settings": "SettingsFile_16x.svg",
+            "sitemap": "SitemapFile_16x.svg",
             "css": "StyleSheet_16x.svg",
             "ts": "TS_FileSENode_16x.svg",
             "tsx": "TS_FileSENode_16x.svg",
+            "d.ts": "TS_FileSENode_16x.svg",
             "xlsx": "Table_16x.svg",
             "xls": "Table_16x.svg",
             "csv": "Table_16x.svg",
             "txt": "Text_16x.svg",
+            "md": "TextFile_16x.svg",
+            "md.rendered": "TextFile_16x.svg",
             "vdi": "VirtualMachine_16x.svg",
             "vbox": "VirtualMachine_16x.svg",
             "vbox-prev": "VirtualMachine_16x.svg",
             "vscodeignore": "VisualStudioLogo_whiteHalo_16x.svg",
-            "vsixmanifest": "VisualStudioLogo_whiteHalo_16x.svg",
             "suo": "VisualStudioLogo_whiteHalo_16x.svg",
             "sln": "VisualStudioLogo_whiteHalo_16x.svg",
             "csproj": "VisualStudioLogo_whiteHalo_16x.svg",
+            "asmx": "WebService_16x.svg",
             "url": "WebURL_16x.svg",
-            "xsd": "XMLFile_16x.svg",
+            "ascx": "WebUserControl_16x.svg",
+            "xml": "XMLFile_16x.svg",
             "dtd": "XMLFile_16x.svg",
-            "xsl": "XMLFile_16x.svg",
-            "resx": "XMLFile_16x.svg",
             "iml": "XMLFile_16x.svg",
+            "vsixmanifest": "XMLFile_16x.svg",
             "xquery": "XMLFile_16x.svg",
-            "manifest": "XMLFile_16x.svg",
+            "xsd": "XMLSchema_16x.svg",
+            "xsl": "XSLTTransformFile_16x.svg",
             "zip": "ZipFile_16x.svg",
             "tar": "ZipFile_16x.svg",
             "gz": "ZipFile_16x.svg",
@@ -674,10 +891,10 @@
             ".travis.yml": "FOR_TEST_ONLY",
             "appveyor.yml": "FOR_TEST_ONLY",
             "bower.json": "FOR_TEST_ONLY",
+            "composer.lock": "FOR_TEST_ONLY",
             "copying": "FOR_TEST_ONLY",
             "dockerfile": "FOR_TEST_ONLY",
             "dub.json": "FOR_TEST_ONLY",
-            "dub.sdl": "FOR_TEST_ONLY",
             "dub.selections.json": "FOR_TEST_ONLY",
             "gruntfile": "FOR_TEST_ONLY",
             "gulpfile": "FOR_TEST_ONLY",
@@ -687,14 +904,17 @@
             "readme": "FOR_TEST_ONLY",
             "readme.md": "FOR_TEST_ONLY",
             "releases": "FOR_TEST_ONLY",
-            "web.debug.config": "FOR_TEST_ONLY",
-            "web.release.config": "FOR_TEST_ONLY",
+            "yarn.lock": "FOR_TEST_ONLY",
             "androidmanifest.xml": "Android_16x.svg",
             "license": "Certificate_16x.svg",
             "license.md": "Certificate_16x.svg",
             "license.md.rendered": "Certificate_16x.svg",
             "license.txt": "Certificate_16x.svg",
             ".editorconfig": "ConfigurationFile_16x.svg",
+            ".vcxproj": "CPPApplication_16x.svg",
+            "dub.sdl": "CPPATLWebService_16x.svg",
+            ".csproj": "CSApplication_16x.svg",
+            ".fsproj": "FSApplication_16x.svg",
             ".gitignore": "GitLogo_16x.svg",
             ".gitconfig": "GitLogo_16x.svg",
             ".gitattributes": "GitLogo_16x.svg",
@@ -703,12 +923,14 @@
             ".jscsrc": "JSONScript_16x.svg",
             ".jshintrc": "JSONScript_16x.svg",
             ".babelrc": "JSONScript_16x.svg",
-            "composer.lock": "JSONScript_16x.svg",
+            "web.debug.config": "NextDocument_16x.svg",
+            "web.release.config": "NextDocument_16x.svg",
             ".jshintignore": "SettingsFile_16x.svg",
             "procfile": "SettingsFile_16x.svg",
             ".buildignore": "SettingsFile_16x.svg",
             "tsconfig.json": "TS_FileSENode_16x.svg",
-            "tslint.json": "TS_FileSENode_16x.svg"
+            "tslint.json": "TS_FileSENode_16x.svg",
+            ".vbproj": "VBApplication_16x.svg"
         },
         "folderNames": {},
         "languageIds": {},
@@ -720,21 +942,12 @@
         "fileExtensions": {
             "a": "FOR_TEST_ONLY",
             "ai": "FOR_TEST_ONLY",
-            "asax": "FOR_TEST_ONLY",
-            "ascx": "FOR_TEST_ONLY",
-            "asmx": "FOR_TEST_ONLY",
-            "asp": "FOR_TEST_ONLY",
-            "aspx": "FOR_TEST_ONLY",
             "bash": "FOR_TEST_ONLY",
             "bin": "FOR_TEST_ONLY",
             "c": "FOR_TEST_ONLY",
             "cl": "FOR_TEST_ONLY",
             "clj": "FOR_TEST_ONLY",
-            "cmd": "FOR_TEST_ONLY",
-            "css.map": "FOR_TEST_ONLY",
-            "cxx": "FOR_TEST_ONLY",
             "d": "FOR_TEST_ONLY",
-            "d.ts": "TS_FileSENode_16x_contrast.svg",
             "di": "FOR_TEST_ONLY",
             "doc": "FOR_TEST_ONLY",
             "docx": "FOR_TEST_ONLY",
@@ -750,11 +963,8 @@
             "hbs": "FOR_TEST_ONLY",
             "hh": "FOR_TEST_ONLY",
             "hs": "FOR_TEST_ONLY",
-            "hxml": "FOR_TEST_ONLY",
             "hxx": "FOR_TEST_ONLY",
             "jl": "FOR_TEST_ONLY",
-            "js.map": "FOR_TEST_ONLY",
-            "json": "JSONScript_16x_contrast.svg",
             "l": "FOR_TEST_ONLY",
             "lhs": "FOR_TEST_ONLY",
             "lisp": "FOR_TEST_ONLY",
@@ -762,7 +972,6 @@
             "lsp": "FOR_TEST_ONLY",
             "lua": "FOR_TEST_ONLY",
             "make": "FOR_TEST_ONLY",
-            "master": "FOR_TEST_ONLY",
             "mk": "FOR_TEST_ONLY",
             "o": "FOR_TEST_ONLY",
             "otd": "FOR_TEST_ONLY",
@@ -776,19 +985,16 @@
             "scala": "FOR_TEST_ONLY",
             "scm": "FOR_TEST_ONLY",
             "sfd": "FOR_TEST_ONLY",
-            "sitemap": "FOR_TEST_ONLY",
             "skim": "FOR_TEST_ONLY",
             "slim": "FOR_TEST_ONLY",
             "so": "FOR_TEST_ONLY",
             "ss": "FOR_TEST_ONLY",
-            "styl": "FOR_TEST_ONLY",
             "swf": "FOR_TEST_ONLY",
             "swift": "FOR_TEST_ONLY",
             "tex": "FOR_TEST_ONLY",
             "toml": "FOR_TEST_ONLY",
             "vb": "FOR_TEST_ONLY",
             "vue": "FOR_TEST_ONLY",
-            "xml": "XMLFile_16x_contrast.svg",
             "yaml": "FOR_TEST_ONLY",
             "yml": "FOR_TEST_ONLY",
             "zsh": "FOR_TEST_ONLY",
@@ -799,8 +1005,12 @@
             "m4a": "AudioOn_16x_contrast.svg",
             "wma": "AudioOn_16x_contrast.svg",
             "aiff": "AudioOn_16x_contrast.svg",
+            "asp": "ASPXFile_16x_contrast.svg",
+            "aspx": "ASPXFile_16x_contrast.svg",
+            "styl": "BuildStyle_16x_contrast.svg",
             "cc": "CFile_16x_color_contrast.svg",
             "cpp": "CPP_16x_contrast.svg",
+            "cxx": "CPP_16x_contrast.svg",
             "h": "CPPHeaderFile_16x_contrast.svg",
             "hpp": "CPPHeaderFile_16x_contrast.svg",
             "cs": "CS_16x_contrast.svg",
@@ -809,14 +1019,19 @@
             "crt": "Certificate_16x_contrast.svg",
             "config": "ConfigurationFile_16x_contrast.svg",
             "conf": "ConfigurationFile_16x_contrast.svg",
+            "cmd": "Console_16x_contrast.svg",
             "sh": "Console_16x_contrast.svg",
             "bat": "Console_16x_contrast.svg",
             "ps1": "Console_16x_contrast.svg",
+            "cur": "CursorFile_16x_contrast.svg",
             "sql": "Database_16x_contrast.svg",
             "accdb": "Database_16x_contrast.svg",
             "mdb": "Database_16x_contrast.svg",
             "sqlite": "Database_16x_contrast.svg",
             "pdb": "Database_16x_contrast.svg",
+            "vsix": "Extension_16x_contrast.svg",
+            "manifest": "ExtensionManagerManifest_16x_contrast.svg",
+            "resx": "FileGroup_16x_contrast.svg",
             "fs": "FS_16x_contrast.svg",
             "fsproj": "FS_16x_contrast.svg",
             "woff": "Font_16x_contrast.svg",
@@ -836,6 +1051,7 @@
             "mrf": "Font_16x_contrast.svg",
             "htm": "HTMLFile_16x_contrast.svg",
             "html": "HTMLFile_16x_contrast.svg",
+            "hxml": "HTMLFile_16x_contrast.svg",
             "ico": "Image_16x_contrast.svg",
             "eps": "Image_16x_contrast.svg",
             "png": "Image_16x_contrast.svg",
@@ -852,7 +1068,6 @@
             "bmp": "Image_16x_contrast.svg",
             "bpg": "Image_16x_contrast.svg",
             "brk": "Image_16x_contrast.svg",
-            "cur": "Image_16x_contrast.svg",
             "dds": "Image_16x_contrast.svg",
             "dng": "Image_16x_contrast.svg",
             "exr": "Image_16x_contrast.svg",
@@ -868,16 +1083,18 @@
             "pic": "Image_16x_contrast.svg",
             "raw": "Image_16x_contrast.svg",
             "webp": "Image_16x_contrast.svg",
+            "map": "ImageMapFile_16x_contrast.svg",
             "jade": "JADEScript_16x_contrast.svg",
+            "jar": "JARFile_16x_contrast.svg",
+            "java": "JavaFile_16x_contrast.svg",
+            "jsp": "JavaFile_16x_contrast.svg",
             "coffee": "JSCoffeeScript_16x_contrast.svg",
+            "json": "JSONScript_16x_contrast.svg",
             "graphql": "JSONScript_16x_contrast.svg",
             "js": "JSScript_16x_contrast.svg",
-            "jsx": "JSScript_16x_contrast.svg",
             "ejs": "JSScript_16x_contrast.svg",
             "esx": "JSScript_16x_contrast.svg",
-            "java": "JavaFile_16x_contrast.svg",
-            "jar": "JavaFile_16x_contrast.svg",
-            "jsp": "JavaFile_16x_contrast.svg",
+            "jsx": "JSXScript_16x_contrast.svg",
             "pub": "Key_16x_contrast.svg",
             "key": "Key_16x_contrast.svg",
             "pem": "Key_16x_contrast.svg",
@@ -885,10 +1102,10 @@
             "less": "LessStyleSheet_16x_contrast.svg",
             "lib": "Library_16x_contrast.svg",
             "bib": "Library_16x_contrast.svg",
+            "lock": "Lock_16x_contrast.svg",
             "ics": "Mail_16x_contrast.svg",
             "mailmap": "Mail_16x_contrast.svg",
-            "md": "MarkdownFile_16x_contrast.svg",
-            "md.rendered": "MarkdownFile_16x_contrast.svg",
+            "master": "MasterPage_16x_contrast.svg",
             "webm": "Media_16x_contrast.svg",
             "mkv": "Media_16x_contrast.svg",
             "flv": "Media_16x_contrast.svg",
@@ -914,40 +1131,46 @@
             "m2v": "Media_16x_contrast.svg",
             "cshtml": "Parameter_16x_contrast.svg",
             "php": "PHPFile_16x_contrast.svg",
+            "properties": "Property_16x_contrast.svg",
+            "prop": "Property_16x_contrast.svg",
+            "props": "Property_16x_contrast.svg",
             "py": "PY_16x_contrast.svg",
             "rb": "RB_FileSENode_16x_contrast.svg",
             "sass": "SassStyleSheet_16x_contrast.svg",
             "scss": "SassStyleSheet_16x_contrast.svg",
+            "settings": "Settings_16x_contrast.svg",
+            "asax": "SettingsFile_16x_contrast.svg",
             "ini": "SettingsFile_16x_contrast.svg",
             "dlc": "SettingsFile_16x_contrast.svg",
             "dll": "SettingsFile_16x_contrast.svg",
-            "properties": "SettingsFile_16x_contrast.svg",
-            "prop": "SettingsFile_16x_contrast.svg",
-            "props": "SettingsFile_16x_contrast.svg",
-            "settings": "SettingsFile_16x_contrast.svg",
+            "sitemap": "SitemapFile_16x_contrast.svg",
             "css": "StyleSheet_16x_contrast.svg",
             "ts": "TS_FileSENode_16x_contrast.svg",
             "tsx": "TS_FileSENode_16x_contrast.svg",
+            "d.ts": "TS_FileSENode_16x_contrast.svg",
             "xlsx": "Table_16x_contrast.svg",
             "xls": "Table_16x_contrast.svg",
             "csv": "Table_16x_contrast.svg",
             "txt": "Text_16x_contrast.svg",
+            "md": "TextFile_16x_contrast.svg",
+            "md.rendered": "TextFile_16x_contrast.svg",
             "vdi": "VirtualMachine_16x_contrast.svg",
             "vbox": "VirtualMachine_16x_contrast.svg",
             "vbox-prev": "VirtualMachine_16x_contrast.svg",
             "vscodeignore": "VisualStudioLogo_whiteHalo_16x_contrast.svg",
-            "vsixmanifest": "VisualStudioLogo_whiteHalo_16x_contrast.svg",
             "suo": "VisualStudioLogo_whiteHalo_16x_contrast.svg",
             "sln": "VisualStudioLogo_whiteHalo_16x_contrast.svg",
             "csproj": "VisualStudioLogo_whiteHalo_16x_contrast.svg",
+            "asmx": "WebService_16x_contrast.svg",
             "url": "WebURL_16x_contrast.svg",
-            "xsd": "XMLFile_16x_contrast.svg",
+            "ascx": "WebUserControl_16x_contrast.svg",
+            "xml": "XMLFile_16x_contrast.svg",
             "dtd": "XMLFile_16x_contrast.svg",
-            "xsl": "XMLFile_16x_contrast.svg",
-            "resx": "XMLFile_16x_contrast.svg",
             "iml": "XMLFile_16x_contrast.svg",
+            "vsixmanifest": "XMLFile_16x_contrast.svg",
             "xquery": "XMLFile_16x_contrast.svg",
-            "manifest": "XMLFile_16x_contrast.svg",
+            "xsd": "XMLSchema_16x_contrast.svg",
+            "xsl": "XSLTTransformFile_16x_contrast.svg",
             "zip": "ZipFile_16x_contrast.svg",
             "tar": "ZipFile_16x_contrast.svg",
             "gz": "ZipFile_16x_contrast.svg",
@@ -966,10 +1189,10 @@
             ".travis.yml": "FOR_TEST_ONLY",
             "appveyor.yml": "FOR_TEST_ONLY",
             "bower.json": "FOR_TEST_ONLY",
+            "composer.lock": "FOR_TEST_ONLY",
             "copying": "FOR_TEST_ONLY",
             "dockerfile": "FOR_TEST_ONLY",
             "dub.json": "FOR_TEST_ONLY",
-            "dub.sdl": "FOR_TEST_ONLY",
             "dub.selections.json": "FOR_TEST_ONLY",
             "gruntfile": "FOR_TEST_ONLY",
             "gulpfile": "FOR_TEST_ONLY",
@@ -979,14 +1202,17 @@
             "readme": "FOR_TEST_ONLY",
             "readme.md": "FOR_TEST_ONLY",
             "releases": "FOR_TEST_ONLY",
-            "web.debug.config": "FOR_TEST_ONLY",
-            "web.release.config": "FOR_TEST_ONLY",
+            "yarn.lock": "FOR_TEST_ONLY",
             "androidmanifest.xml": "Android_16x_contrast.svg",
             "license": "Certificate_16x_contrast.svg",
             "license.md": "Certificate_16x_contrast.svg",
             "license.md.rendered": "Certificate_16x_contrast.svg",
             "license.txt": "Certificate_16x_contrast.svg",
             ".editorconfig": "ConfigurationFile_16x_contrast.svg",
+            ".vcxproj": "CPPApplication_16x_contrast.svg",
+            "dub.sdl": "CPPATLWebService_16x_contrast.svg",
+            ".csproj": "CSApplication_16x_contrast.svg",
+            ".fsproj": "FSApplication_16x_contrast.svg",
             ".gitignore": "GitLogo_16x_contrast.svg",
             ".gitconfig": "GitLogo_16x_contrast.svg",
             ".gitattributes": "GitLogo_16x_contrast.svg",
@@ -995,12 +1221,14 @@
             ".jscsrc": "JSONScript_16x_contrast.svg",
             ".jshintrc": "JSONScript_16x_contrast.svg",
             ".babelrc": "JSONScript_16x_contrast.svg",
-            "composer.lock": "JSONScript_16x_contrast.svg",
+            "web.debug.config": "NextDocument_16x_contrast.svg",
+            "web.release.config": "NextDocument_16x_contrast.svg",
             ".jshintignore": "SettingsFile_16x_contrast.svg",
             "procfile": "SettingsFile_16x_contrast.svg",
             ".buildignore": "SettingsFile_16x_contrast.svg",
             "tsconfig.json": "TS_FileSENode_16x_contrast.svg",
-            "tslint.json": "TS_FileSENode_16x_contrast.svg"
+            "tslint.json": "TS_FileSENode_16x_contrast.svg",
+            ".vbproj": "VBApplication_16x_contrast.svg"
         },
         "folderNames": {},
         "languageIds": {},
@@ -1011,21 +1239,12 @@
     "fileExtensions": {
         "a": "FOR_TEST_ONLY",
         "ai": "FOR_TEST_ONLY",
-        "asax": "FOR_TEST_ONLY",
-        "ascx": "FOR_TEST_ONLY",
-        "asmx": "FOR_TEST_ONLY",
-        "asp": "FOR_TEST_ONLY",
-        "aspx": "FOR_TEST_ONLY",
         "bash": "FOR_TEST_ONLY",
         "bin": "FOR_TEST_ONLY",
         "c": "FOR_TEST_ONLY",
         "cl": "FOR_TEST_ONLY",
         "clj": "FOR_TEST_ONLY",
-        "cmd": "FOR_TEST_ONLY",
-        "css.map": "FOR_TEST_ONLY",
-        "cxx": "FOR_TEST_ONLY",
         "d": "FOR_TEST_ONLY",
-        "d.ts": "TS_FileSENode_16x_inverse.svg",
         "di": "FOR_TEST_ONLY",
         "doc": "FOR_TEST_ONLY",
         "docx": "FOR_TEST_ONLY",
@@ -1041,11 +1260,8 @@
         "hbs": "FOR_TEST_ONLY",
         "hh": "FOR_TEST_ONLY",
         "hs": "FOR_TEST_ONLY",
-        "hxml": "FOR_TEST_ONLY",
         "hxx": "FOR_TEST_ONLY",
         "jl": "FOR_TEST_ONLY",
-        "js.map": "FOR_TEST_ONLY",
-        "json": "JSONScript_16x_inverse.svg",
         "l": "FOR_TEST_ONLY",
         "lhs": "FOR_TEST_ONLY",
         "lisp": "FOR_TEST_ONLY",
@@ -1053,7 +1269,6 @@
         "lsp": "FOR_TEST_ONLY",
         "lua": "FOR_TEST_ONLY",
         "make": "FOR_TEST_ONLY",
-        "master": "FOR_TEST_ONLY",
         "mk": "FOR_TEST_ONLY",
         "o": "FOR_TEST_ONLY",
         "otd": "FOR_TEST_ONLY",
@@ -1067,19 +1282,16 @@
         "scala": "FOR_TEST_ONLY",
         "scm": "FOR_TEST_ONLY",
         "sfd": "FOR_TEST_ONLY",
-        "sitemap": "FOR_TEST_ONLY",
         "skim": "FOR_TEST_ONLY",
         "slim": "FOR_TEST_ONLY",
         "so": "FOR_TEST_ONLY",
         "ss": "FOR_TEST_ONLY",
-        "styl": "FOR_TEST_ONLY",
         "swf": "FOR_TEST_ONLY",
         "swift": "FOR_TEST_ONLY",
         "tex": "FOR_TEST_ONLY",
         "toml": "FOR_TEST_ONLY",
         "vb": "FOR_TEST_ONLY",
         "vue": "FOR_TEST_ONLY",
-        "xml": "XMLFile_16x_inverse.svg",
         "yaml": "FOR_TEST_ONLY",
         "yml": "FOR_TEST_ONLY",
         "zsh": "FOR_TEST_ONLY",
@@ -1090,8 +1302,12 @@
         "m4a": "AudioOn_16x_inverse.svg",
         "wma": "AudioOn_16x_inverse.svg",
         "aiff": "AudioOn_16x_inverse.svg",
+        "asp": "ASPXFile_16x_inverse.svg",
+        "aspx": "ASPXFile_16x_inverse.svg",
+        "styl": "BuildStyle_16x_inverse.svg",
         "cc": "CFile_16x_color_inverse.svg",
         "cpp": "CPP_16x_inverse.svg",
+        "cxx": "CPP_16x_inverse.svg",
         "h": "CPPHeaderFile_16x_inverse.svg",
         "hpp": "CPPHeaderFile_16x_inverse.svg",
         "cs": "CS_16x_inverse.svg",
@@ -1100,14 +1316,19 @@
         "crt": "Certificate_16x_inverse.svg",
         "config": "ConfigurationFile_16x_inverse.svg",
         "conf": "ConfigurationFile_16x_inverse.svg",
+        "cmd": "Console_16x_inverse.svg",
         "sh": "Console_16x_inverse.svg",
         "bat": "Console_16x_inverse.svg",
         "ps1": "Console_16x_inverse.svg",
+        "cur": "CursorFile_16x_inverse.svg",
         "sql": "Database_16x_inverse.svg",
         "accdb": "Database_16x_inverse.svg",
         "mdb": "Database_16x_inverse.svg",
         "sqlite": "Database_16x_inverse.svg",
         "pdb": "Database_16x_inverse.svg",
+        "vsix": "Extension_16x_inverse.svg",
+        "manifest": "ExtensionManagerManifest_16x_inverse.svg",
+        "resx": "FileGroup_16x_inverse.svg",
         "fs": "FS_16x_inverse.svg",
         "fsproj": "FS_16x_inverse.svg",
         "woff": "Font_16x_inverse.svg",
@@ -1127,6 +1348,7 @@
         "mrf": "Font_16x_inverse.svg",
         "htm": "HTMLFile_16x_inverse.svg",
         "html": "HTMLFile_16x_inverse.svg",
+        "hxml": "HTMLFile_16x_inverse.svg",
         "ico": "Image_16x_inverse.svg",
         "eps": "Image_16x_inverse.svg",
         "png": "Image_16x_inverse.svg",
@@ -1143,7 +1365,6 @@
         "bmp": "Image_16x_inverse.svg",
         "bpg": "Image_16x_inverse.svg",
         "brk": "Image_16x_inverse.svg",
-        "cur": "Image_16x_inverse.svg",
         "dds": "Image_16x_inverse.svg",
         "dng": "Image_16x_inverse.svg",
         "exr": "Image_16x_inverse.svg",
@@ -1159,16 +1380,18 @@
         "pic": "Image_16x_inverse.svg",
         "raw": "Image_16x_inverse.svg",
         "webp": "Image_16x_inverse.svg",
+        "map": "ImageMapFile_16x_inverse.svg",
         "jade": "JADEScript_16x_inverse.svg",
+        "jar": "JARFile_16x_inverse.svg",
+        "java": "JavaFile_16x_inverse.svg",
+        "jsp": "JavaFile_16x_inverse.svg",
         "coffee": "JSCoffeeScript_16x_inverse.svg",
+        "json": "JSONScript_16x_inverse.svg",
         "graphql": "JSONScript_16x_inverse.svg",
         "js": "JSScript_16x_inverse.svg",
-        "jsx": "JSScript_16x_inverse.svg",
         "ejs": "JSScript_16x_inverse.svg",
         "esx": "JSScript_16x_inverse.svg",
-        "java": "JavaFile_16x_inverse.svg",
-        "jar": "JavaFile_16x_inverse.svg",
-        "jsp": "JavaFile_16x_inverse.svg",
+        "jsx": "JSXScript_16x_inverse.svg",
         "pub": "Key_16x_inverse.svg",
         "key": "Key_16x_inverse.svg",
         "pem": "Key_16x_inverse.svg",
@@ -1176,10 +1399,10 @@
         "less": "LessStyleSheet_16x_inverse.svg",
         "lib": "Library_16x_inverse.svg",
         "bib": "Library_16x_inverse.svg",
+        "lock": "Lock_16x_inverse.svg",
         "ics": "Mail_16x_inverse.svg",
         "mailmap": "Mail_16x_inverse.svg",
-        "md": "MarkdownFile_16x_inverse.svg",
-        "md.rendered": "MarkdownFile_16x_inverse.svg",
+        "master": "MasterPage_16x_inverse.svg",
         "webm": "Media_16x_inverse.svg",
         "mkv": "Media_16x_inverse.svg",
         "flv": "Media_16x_inverse.svg",
@@ -1205,40 +1428,46 @@
         "m2v": "Media_16x_inverse.svg",
         "cshtml": "Parameter_16x_inverse.svg",
         "php": "PHPFile_16x_inverse.svg",
+        "properties": "Property_16x_inverse.svg",
+        "prop": "Property_16x_inverse.svg",
+        "props": "Property_16x_inverse.svg",
         "py": "PY_16x_inverse.svg",
         "rb": "RB_FileSENode_16x_inverse.svg",
         "sass": "SassStyleSheet_16x_inverse.svg",
         "scss": "SassStyleSheet_16x_inverse.svg",
+        "settings": "Settings_16x_inverse.svg",
+        "asax": "SettingsFile_16x_inverse.svg",
         "ini": "SettingsFile_16x_inverse.svg",
         "dlc": "SettingsFile_16x_inverse.svg",
         "dll": "SettingsFile_16x_inverse.svg",
-        "properties": "SettingsFile_16x_inverse.svg",
-        "prop": "SettingsFile_16x_inverse.svg",
-        "props": "SettingsFile_16x_inverse.svg",
-        "settings": "SettingsFile_16x_inverse.svg",
+        "sitemap": "SitemapFile_16x_inverse.svg",
         "css": "StyleSheet_16x_inverse.svg",
         "ts": "TS_FileSENode_16x_inverse.svg",
         "tsx": "TS_FileSENode_16x_inverse.svg",
+        "d.ts": "TS_FileSENode_16x_inverse.svg",
         "xlsx": "Table_16x_inverse.svg",
         "xls": "Table_16x_inverse.svg",
         "csv": "Table_16x_inverse.svg",
         "txt": "Text_16x_inverse.svg",
+        "md": "TextFile_16x_inverse.svg",
+        "md.rendered": "TextFile_16x_inverse.svg",
         "vdi": "VirtualMachine_16x_inverse.svg",
         "vbox": "VirtualMachine_16x_inverse.svg",
         "vbox-prev": "VirtualMachine_16x_inverse.svg",
         "vscodeignore": "VisualStudioLogo_whiteHalo_16x_inverse.svg",
-        "vsixmanifest": "VisualStudioLogo_whiteHalo_16x_inverse.svg",
         "suo": "VisualStudioLogo_whiteHalo_16x_inverse.svg",
         "sln": "VisualStudioLogo_whiteHalo_16x_inverse.svg",
         "csproj": "VisualStudioLogo_whiteHalo_16x_inverse.svg",
+        "asmx": "WebService_16x_inverse.svg",
         "url": "WebURL_16x_inverse.svg",
-        "xsd": "XMLFile_16x_inverse.svg",
+        "ascx": "WebUserControl_16x_inverse.svg",
+        "xml": "XMLFile_16x_inverse.svg",
         "dtd": "XMLFile_16x_inverse.svg",
-        "xsl": "XMLFile_16x_inverse.svg",
-        "resx": "XMLFile_16x_inverse.svg",
         "iml": "XMLFile_16x_inverse.svg",
+        "vsixmanifest": "XMLFile_16x_inverse.svg",
         "xquery": "XMLFile_16x_inverse.svg",
-        "manifest": "XMLFile_16x_inverse.svg",
+        "xsd": "XMLSchema_16x_inverse.svg",
+        "xsl": "XSLTTransformFile_16x_inverse.svg",
         "zip": "ZipFile_16x_inverse.svg",
         "tar": "ZipFile_16x_inverse.svg",
         "gz": "ZipFile_16x_inverse.svg",
@@ -1257,10 +1486,10 @@
         ".travis.yml": "FOR_TEST_ONLY",
         "appveyor.yml": "FOR_TEST_ONLY",
         "bower.json": "FOR_TEST_ONLY",
+        "composer.lock": "FOR_TEST_ONLY",
         "copying": "FOR_TEST_ONLY",
         "dockerfile": "FOR_TEST_ONLY",
         "dub.json": "FOR_TEST_ONLY",
-        "dub.sdl": "FOR_TEST_ONLY",
         "dub.selections.json": "FOR_TEST_ONLY",
         "gruntfile": "FOR_TEST_ONLY",
         "gulpfile": "FOR_TEST_ONLY",
@@ -1270,14 +1499,17 @@
         "readme": "FOR_TEST_ONLY",
         "readme.md": "FOR_TEST_ONLY",
         "releases": "FOR_TEST_ONLY",
-        "web.debug.config": "FOR_TEST_ONLY",
-        "web.release.config": "FOR_TEST_ONLY",
+        "yarn.lock": "FOR_TEST_ONLY",
         "androidmanifest.xml": "Android_16x_inverse.svg",
         "license": "Certificate_16x_inverse.svg",
         "license.md": "Certificate_16x_inverse.svg",
         "license.md.rendered": "Certificate_16x_inverse.svg",
         "license.txt": "Certificate_16x_inverse.svg",
         ".editorconfig": "ConfigurationFile_16x_inverse.svg",
+        ".vcxproj": "CPPApplication_16x_inverse.svg",
+        "dub.sdl": "CPPATLWebService_16x_inverse.svg",
+        ".csproj": "CSApplication_16x_inverse.svg",
+        ".fsproj": "FSApplication_16x_inverse.svg",
         ".gitignore": "GitLogo_16x_inverse.svg",
         ".gitconfig": "GitLogo_16x_inverse.svg",
         ".gitattributes": "GitLogo_16x_inverse.svg",
@@ -1286,12 +1518,14 @@
         ".jscsrc": "JSONScript_16x_inverse.svg",
         ".jshintrc": "JSONScript_16x_inverse.svg",
         ".babelrc": "JSONScript_16x_inverse.svg",
-        "composer.lock": "JSONScript_16x_inverse.svg",
+        "web.debug.config": "NextDocument_16x_inverse.svg",
+        "web.release.config": "NextDocument_16x_inverse.svg",
         ".jshintignore": "SettingsFile_16x_inverse.svg",
         "procfile": "SettingsFile_16x_inverse.svg",
         ".buildignore": "SettingsFile_16x_inverse.svg",
         "tsconfig.json": "TS_FileSENode_16x_inverse.svg",
-        "tslint.json": "TS_FileSENode_16x_inverse.svg"
+        "tslint.json": "TS_FileSENode_16x_inverse.svg",
+        ".vbproj": "VBApplication_16x_inverse.svg"
     },
     "folderNames": {},
     "languageIds": {},

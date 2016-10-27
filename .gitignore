@@ -2,6 +2,7 @@
 !.vscode/settings.json
 !.vscode/tasks.json
 !.vscode/launch.json
+*.vsix
 *.DS_Store
 ._*
 logs

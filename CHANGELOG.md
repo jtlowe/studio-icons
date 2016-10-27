@@ -1,5 +1,10 @@
 # Change Log
 
+## 1.1.5 (October 27, 2016)
+  - Feature: Adding additional VS icons and remapping associations.
+  - Change: Visual Studio icon is now using VisualStudioSettingFile_16x.svg.
+  - Change: Test extension filenames now just include the extension.
+
 ## 1.1.4 (October 25, 2016)
   - Feature: Adding image file icon and associations.
 

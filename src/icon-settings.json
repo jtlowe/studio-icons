@@ -1,11 +1,46 @@
 {
-    "folderExpanded": "FolderOpen_16x_inverse.svg",
-    "folder": "Folder_16x_inverse.svg",
-    "file": "Document_16x_inverse.svg",
+    "colors": {
+        "lightBackground": "656565",
+        "lightForeground": "F3F3F3",
+        "darkBackground": "C5C5C5",
+        "darkForeground": "252526",
+        "darkOutline": "252526", 
+        "background": "424242",
+        "foreground": "F0EFF1",
+        "outline": "F6F6F6",
+        "other1": "EFEEF0",
+        "white": "FFFFFF",
+        "aspBlue": "0095D7",
+        "cppPurple": "9B4F96",
+        "csGreen": "388A34",
+        "cssRed": "BD1E2D",
+        "fsPurple": "672878",
+        "jsOrange": "F16421",
+        "vbBlue": "00539C",
+        "tsOrange": "E04C06",
+        "pyGreen": "879636",
+        "vsPurple": "68217A" // vs logo icon
+    },
+    "dark": {
+        "folderExpanded": "FolderOpen_16x_inverse.svg",
+        "folder": "Folder_16x_inverse.svg",
+        "file": "Document_16x_inverse.svg",
+        "colors": {
+            "background": "darkBackground",
+            "foreground": "darkForeground",
+            "outline": "darkForeground",
+            ""
+            // "other1": "darkOther"
+        }        
+    },
     "light": {
         "folderExpanded": "FolderOpen_16x.svg",
         "folder": "Folder_16x.svg",
-        "file": "Document_16x.svg"
+        "file": "Document_16x.svg",
+        "colors": {
+            "background": "656565",
+            "foreground": "F3F3F3"
+        }
     },
     "contrast": {
         "folderExpanded": "FolderOpen_16x_contrast.svg",

@@ -200,9 +200,9 @@ module.exports = class IconGenerator {
         }
         else if (type === 'dark') {
             postfix = '_inverse.svg'
-            theme.folder = settings.folder;
-            theme.folderExpanded = settings.folderExpanded;
-            theme.file = settings.file;
+            theme.folder = settings.dark.folder;
+            theme.folderExpanded = settings.dark.folderExpanded;
+            theme.file = settings.dark.file;
         }
 
         for (var i = 0; i < settings.iconDefinitions.length; i++) {

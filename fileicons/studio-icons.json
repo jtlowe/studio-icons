@@ -567,14 +567,14 @@
         "VirtualMachine_16x_contrast.svg": {
             "iconPath": "./images/VirtualMachine_16x_contrast.svg"
         },
-        "VisualStudioLogo_whiteHalo_16x.svg": {
-            "iconPath": "./images/VisualStudioLogo_whiteHalo_16x.svg"
+        "VisualStudioSettingFile_16x.svg": {
+            "iconPath": "./images/VisualStudioSettingFile_16x.svg"
         },
-        "VisualStudioLogo_whiteHalo_16x_inverse.svg": {
-            "iconPath": "./images/VisualStudioLogo_whiteHalo_16x_inverse.svg"
+        "VisualStudioSettingFile_16x_inverse.svg": {
+            "iconPath": "./images/VisualStudioSettingFile_16x_inverse.svg"
         },
-        "VisualStudioLogo_whiteHalo_16x_contrast.svg": {
-            "iconPath": "./images/VisualStudioLogo_whiteHalo_16x_contrast.svg"
+        "VisualStudioSettingFile_16x_contrast.svg": {
+            "iconPath": "./images/VisualStudioSettingFile_16x_contrast.svg"
         },
         "WebService_16x.svg": {
             "iconPath": "./images/WebService_16x.svg"
@@ -665,6 +665,7 @@
             "hbs": "FOR_TEST_ONLY",
             "hh": "FOR_TEST_ONLY",
             "hs": "FOR_TEST_ONLY",
+            "hxml": "FOR_TEST_ONLY",
             "hxx": "FOR_TEST_ONLY",
             "jl": "FOR_TEST_ONLY",
             "l": "FOR_TEST_ONLY",
@@ -753,7 +754,6 @@
             "mrf": "Font_16x.svg",
             "htm": "HTMLFile_16x.svg",
             "html": "HTMLFile_16x.svg",
-            "hxml": "HTMLFile_16x.svg",
             "ico": "Image_16x.svg",
             "eps": "Image_16x.svg",
             "png": "Image_16x.svg",
@@ -859,10 +859,9 @@
             "vdi": "VirtualMachine_16x.svg",
             "vbox": "VirtualMachine_16x.svg",
             "vbox-prev": "VirtualMachine_16x.svg",
-            "vscodeignore": "VisualStudioLogo_whiteHalo_16x.svg",
-            "suo": "VisualStudioLogo_whiteHalo_16x.svg",
-            "sln": "VisualStudioLogo_whiteHalo_16x.svg",
-            "csproj": "VisualStudioLogo_whiteHalo_16x.svg",
+            "vscodeignore": "VisualStudioSettingFile_16x.svg",
+            "suo": "VisualStudioSettingFile_16x.svg",
+            "sln": "VisualStudioSettingFile_16x.svg",
             "asmx": "WebService_16x.svg",
             "url": "WebURL_16x.svg",
             "ascx": "WebUserControl_16x.svg",
@@ -963,6 +962,7 @@
             "hbs": "FOR_TEST_ONLY",
             "hh": "FOR_TEST_ONLY",
             "hs": "FOR_TEST_ONLY",
+            "hxml": "FOR_TEST_ONLY",
             "hxx": "FOR_TEST_ONLY",
             "jl": "FOR_TEST_ONLY",
             "l": "FOR_TEST_ONLY",
@@ -1051,7 +1051,6 @@
             "mrf": "Font_16x_contrast.svg",
             "htm": "HTMLFile_16x_contrast.svg",
             "html": "HTMLFile_16x_contrast.svg",
-            "hxml": "HTMLFile_16x_contrast.svg",
             "ico": "Image_16x_contrast.svg",
             "eps": "Image_16x_contrast.svg",
             "png": "Image_16x_contrast.svg",
@@ -1157,10 +1156,9 @@
             "vdi": "VirtualMachine_16x_contrast.svg",
             "vbox": "VirtualMachine_16x_contrast.svg",
             "vbox-prev": "VirtualMachine_16x_contrast.svg",
-            "vscodeignore": "VisualStudioLogo_whiteHalo_16x_contrast.svg",
-            "suo": "VisualStudioLogo_whiteHalo_16x_contrast.svg",
-            "sln": "VisualStudioLogo_whiteHalo_16x_contrast.svg",
-            "csproj": "VisualStudioLogo_whiteHalo_16x_contrast.svg",
+            "vscodeignore": "VisualStudioSettingFile_16x_contrast.svg",
+            "suo": "VisualStudioSettingFile_16x_contrast.svg",
+            "sln": "VisualStudioSettingFile_16x_contrast.svg",
             "asmx": "WebService_16x_contrast.svg",
             "url": "WebURL_16x_contrast.svg",
             "ascx": "WebUserControl_16x_contrast.svg",
@@ -1260,6 +1258,7 @@
         "hbs": "FOR_TEST_ONLY",
         "hh": "FOR_TEST_ONLY",
         "hs": "FOR_TEST_ONLY",
+        "hxml": "FOR_TEST_ONLY",
         "hxx": "FOR_TEST_ONLY",
         "jl": "FOR_TEST_ONLY",
         "l": "FOR_TEST_ONLY",
@@ -1348,7 +1347,6 @@
         "mrf": "Font_16x_inverse.svg",
         "htm": "HTMLFile_16x_inverse.svg",
         "html": "HTMLFile_16x_inverse.svg",
-        "hxml": "HTMLFile_16x_inverse.svg",
         "ico": "Image_16x_inverse.svg",
         "eps": "Image_16x_inverse.svg",
         "png": "Image_16x_inverse.svg",
@@ -1454,10 +1452,9 @@
         "vdi": "VirtualMachine_16x_inverse.svg",
         "vbox": "VirtualMachine_16x_inverse.svg",
         "vbox-prev": "VirtualMachine_16x_inverse.svg",
-        "vscodeignore": "VisualStudioLogo_whiteHalo_16x_inverse.svg",
-        "suo": "VisualStudioLogo_whiteHalo_16x_inverse.svg",
-        "sln": "VisualStudioLogo_whiteHalo_16x_inverse.svg",
-        "csproj": "VisualStudioLogo_whiteHalo_16x_inverse.svg",
+        "vscodeignore": "VisualStudioSettingFile_16x_inverse.svg",
+        "suo": "VisualStudioSettingFile_16x_inverse.svg",
+        "sln": "VisualStudioSettingFile_16x_inverse.svg",
         "asmx": "WebService_16x_inverse.svg",
         "url": "WebURL_16x_inverse.svg",
         "ascx": "WebUserControl_16x_inverse.svg",

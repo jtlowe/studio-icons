@@ -39,6 +39,7 @@
                 "hbs",
                 "hh",
                 "hs",
+                "hxml",
                 "hxx",
                 "jl",
                 "l",
@@ -334,8 +335,7 @@
             "iconPath": "HTMLFile_16x.svg",
             "fileExtensions": [
                 "htm",
-                "html",
-                "hxml"
+                "html"
             ],
             "fileNames": []
         },
@@ -669,12 +669,11 @@
             "fileNames": []
         },
         {
-            "iconPath": "VisualStudioLogo_whiteHalo_16x.svg",
+            "iconPath": "VisualStudioSettingFile_16x.svg",
             "fileExtensions": [
                 "vscodeignore",
                 "suo",
-                "sln",
-                "csproj"
+                "sln"
             ],
             "fileNames": []
         },

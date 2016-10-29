@@ -28,7 +28,15 @@
         "colors": {
             "background": "C5C5C5",
             "foreground": "252526",
-            "outline": "252526"
+            "outline": "252526",
+            "aspBlue": "00b2ff",
+            "cppPurple": "cf69c8",
+            "csGreen": "4ebd48",
+            "fsPurple": "c049de",
+            "vbBlue": "0088ff",
+            "pyGreen": "b6c949",
+            "sassPurple": "ff80bf",
+            "vsPurple": "d294e2"
         }
     },
     "light": {
@@ -47,17 +55,7 @@
         "colors": {
             "background": "FFFFFF",
             "foreground": "000000",
-            "outline": "000000",
-            "aspBlue": "FFFFFF",
-            "cppPurple": "FFFFFF",
-            "csGreen": "FFFFFF",
-            "cssRed": "FFFFFF",
-            "fsPurple": "FFFFFF",
-            "jsOrange": "FFFFFF",
-            "vbBlue": "FFFFFF",
-            "tsOrange": "FFFFFF",
-            "pyGreen": "FFFFFF",
-            "vsPurple": "FFFFFF"
+            "outline": "000000"
         }
     },
     "iconDefinitions": [

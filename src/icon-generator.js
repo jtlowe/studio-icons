@@ -133,6 +133,7 @@ module.exports = class IconGenerator {
                 .split(colors.foreground).join(settings.contrast.colors.foreground)
                 .split(colors.outline).join(settings.contrast.colors.outline)
                 .split(colors.folderTan).join(settings.contrast.colors.background)
+                .split(colors.androidGreen).join(settings.contrast.colors.background)
                 .split(colors.aspBlue).join(settings.contrast.colors.background)
                 .split(colors.cppPurple).join(settings.contrast.colors.background)
                 .split(colors.csGreen).join(settings.contrast.colors.background)

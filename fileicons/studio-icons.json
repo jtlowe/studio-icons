@@ -1,13 +1,13 @@
 {
     "iconDefinitions": {
-        "Android_16x.svg": {
-            "iconPath": "./images/Android_16x.svg"
+        "AndroidFile_16x.svg": {
+            "iconPath": "./images/AndroidFile_16x.svg"
         },
-        "Android_16x_inverse.svg": {
-            "iconPath": "./images/Android_16x_inverse.svg"
+        "AndroidFile_16x_inverse.svg": {
+            "iconPath": "./images/AndroidFile_16x_inverse.svg"
         },
-        "Android_16x_contrast.svg": {
-            "iconPath": "./images/Android_16x_contrast.svg"
+        "AndroidFile_16x_contrast.svg": {
+            "iconPath": "./images/AndroidFile_16x_contrast.svg"
         },
         "Application_16x.svg": {
             "iconPath": "./images/Application_16x.svg"
@@ -904,7 +904,7 @@
             "readme.md": "FOR_TEST_ONLY",
             "releases": "FOR_TEST_ONLY",
             "yarn.lock": "FOR_TEST_ONLY",
-            "androidmanifest.xml": "Android_16x.svg",
+            "androidmanifest.xml": "AndroidFile_16x.svg",
             "license": "Certificate_16x.svg",
             "license.md": "Certificate_16x.svg",
             "license.md.rendered": "Certificate_16x.svg",
@@ -1201,7 +1201,7 @@
             "readme.md": "FOR_TEST_ONLY",
             "releases": "FOR_TEST_ONLY",
             "yarn.lock": "FOR_TEST_ONLY",
-            "androidmanifest.xml": "Android_16x_contrast.svg",
+            "androidmanifest.xml": "AndroidFile_16x_contrast.svg",
             "license": "Certificate_16x_contrast.svg",
             "license.md": "Certificate_16x_contrast.svg",
             "license.md.rendered": "Certificate_16x_contrast.svg",
@@ -1497,7 +1497,7 @@
         "readme.md": "FOR_TEST_ONLY",
         "releases": "FOR_TEST_ONLY",
         "yarn.lock": "FOR_TEST_ONLY",
-        "androidmanifest.xml": "Android_16x_inverse.svg",
+        "androidmanifest.xml": "AndroidFile_16x_inverse.svg",
         "license": "Certificate_16x_inverse.svg",
         "license.md": "Certificate_16x_inverse.svg",
         "license.md.rendered": "Certificate_16x_inverse.svg",

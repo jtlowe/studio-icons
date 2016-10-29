@@ -132,9 +132,9 @@ module.exports = class IconGenerator {
                 .split(colors.csGreen).join(settings.dark.colors.csGreen)
                 .split(colors.fsPurple).join(settings.dark.colors.fsPurple)
                 .split(colors.vbBlue).join(settings.dark.colors.vbBlue)
+                .split(colors.tsOrange).join(settings.dark.colors.tsOrange)
                 .split(colors.pyGreen).join(settings.dark.colors.pyGreen)
                 .split(colors.vsPurple).join(settings.dark.colors.vsPurple)
-                .split(colors.sassPurple).join(settings.dark.colors.sassPurple)
 
             contrastFile = chunk.toString()
                 .split(colors.background).join(settings.contrast.colors.background)

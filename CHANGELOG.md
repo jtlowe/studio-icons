@@ -1,5 +1,8 @@
 # Change Log
 
+## 1.1.6 (October 29, 2016)
+  - Change: Dark colorful colors have been slightly lightened for visibility.
+
 ## 1.1.5 (October 27, 2016)
   - Feature: Adding additional VS icons and remapping associations.
   - Change: Visual Studio icon is now using VisualStudioSettingFile_16x.svg.

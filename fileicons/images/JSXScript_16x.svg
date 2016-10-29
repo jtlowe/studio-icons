@@ -3,10 +3,10 @@
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve">
 <g id="canvas">
-	<path style="opacity:0;fill:#F3F3F3;" d="M16,16H0V0h16V16z"/>
+	<path style="opacity:0;fill:#F6F6F6;" d="M16,16H0V0h16V16z"/>
 </g>
 <g id="outline">
-	<path style="fill:#F3F3F3;" d="M13,0H6C3.794,0,2,1.793,2,4v6H0v3.414L2.586,16H4v-0.545C4.524,15.793,5.213,16,6,16
+	<path style="fill:#F6F6F6;" d="M13,0H6C3.794,0,2,1.793,2,4v6H0v3.414L2.586,16H4v-0.545C4.524,15.793,5.213,16,6,16
 		s1.476-0.207,2-0.545V16h1.414l1.198-1.198C11.995,14.334,13,13.039,13,11.5V5h3V3C16,1.346,14.654,0,13,0z"/>
 </g>
 <g id="iconBg">
@@ -14,7 +14,7 @@
 		l0.831,0.831C11.934,12.127,12,11.822,12,11.5V4h3V3C15,1.895,14.104,1,13,1z"/>
 </g>
 <g id="iconFg">
-	<path style="fill:#F0EFF1;" d="M6,3C5.447,3,5,3.447,5,4v5h3.414c0,0,2.586,2.527,2.586,2.5V3H6z"/>
+	<path style="fill:#F3F3F3;" d="M6,3C5.447,3,5,3.447,5,4v5h3.414c0,0,2.586,2.527,2.586,2.5V3H6z"/>
 </g>
 <g id="colorImportance">
 	<g>
@@ -26,7 +26,7 @@
 	</g>
 </g>
 <g id="notificationFg">
-	<path style="fill:#F0EFF1;" d="M6,11.949c-0.858,0-1.5-0.394-1.5-0.75c0-0.353,0.642-0.75,1.5-0.75s1.5,0.397,1.5,0.75
+	<path style="fill:#F3F3F3;" d="M6,11.949c-0.858,0-1.5-0.394-1.5-0.75c0-0.353,0.642-0.75,1.5-0.75s1.5,0.397,1.5,0.75
 		C7.5,11.555,6.858,11.949,6,11.949z"/>
 </g>
 </svg>

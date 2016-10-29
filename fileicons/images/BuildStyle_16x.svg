@@ -3,10 +3,10 @@
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve">
 <g id="canvas">
-	<path id="XMLID_1_" style="opacity:0;fill:#F3F3F3;" d="M16,16H0V0h16V16z"/>
+	<path id="XMLID_1_" style="opacity:0;fill:#F6F6F6;" d="M16,16H0V0h16V16z"/>
 </g>
 <g id="outline">
-	<path style="fill:#F3F3F3;" d="M16,3v13H3V7.414l-3-3V1h1.414L2,1.586V0h4v1.586L6.586,1H8v3.414l-2,2v4.957L12.511,3H16z"/>
+	<path style="fill:#F6F6F6;" d="M16,3v13H3V7.414l-3-3V1h1.414L2,1.586V0h4v1.586L6.586,1H8v3.414l-2,2v4.957L12.511,3H16z"/>
 </g>
 <g id="iconBg">
 	<path style="fill:#656565;" d="M4,14h1v1H4V14z M4,13h1v-1H4V13z M4,11h1v-1H4V11z M4,9h1V8H4V9z M6,15h1v-1H6V15z M8,15h1v-1H8V15

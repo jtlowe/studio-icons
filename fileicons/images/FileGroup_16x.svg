@@ -3,8 +3,8 @@
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve">
 <g id="outline">
-	<rect style="opacity:0;fill:#F3F3F3;" width="16" height="16"/>
-	<path style="fill:#F3F3F3;" d="M11.061,0H5C4.03,0,3,0.701,3,2C2.03,2,1,2.701,1,4v10c0,1.299,1.03,2,2,2h8c1.299,0,2-1.03,2-2
+	<rect style="opacity:0;fill:#F6F6F6;" width="16" height="16"/>
+	<path style="fill:#F6F6F6;" d="M11.061,0H5C4.03,0,3,0.701,3,2C2.03,2,1,2.701,1,4v10c0,1.299,1.03,2,2,2h8c1.299,0,2-1.03,2-2
 		c1.299,0,2-1.03,2-2V3.556L11.061,0z"/>
 </g>
 <g id="icon_x5F_bg">
@@ -14,6 +14,6 @@
 		c1,0,1.035-1,1.035-1V6L8.641,3z M11,14H3V4h5v3h3V14z"/>
 </g>
 <g id="icon_x5F_fg">
-	<polygon style="fill:#F0EFF1;" points="3,4 8,4 8,7 11,7 11,14 3,14 	"/>
+	<polygon style="fill:#F3F3F3;" points="3,4 8,4 8,7 11,7 11,14 3,14 	"/>
 </g>
 </svg>

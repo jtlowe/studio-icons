@@ -29,14 +29,29 @@
             "background": "C5C5C5",
             "foreground": "252526",
             "outline": "252526",
-            "aspBlue": "00b2ff",
+            "aspBlue": "40c3fd",
             "cppPurple": "cf69c8",
             "csGreen": "4ebd48",
+            "cssRed": "c92031",
             "fsPurple": "c049de",
             "vbBlue": "0088ff",
+            "tsOrange": "ed5007",
             "pyGreen": "b6c949",
-            "sassPurple": "ff80bf",
-            "vsPurple": "d294e2"
+            "vsPurple": "d294e2",
+            "old-light-5": {
+                "background": "C5C5C5",
+                "foreground": "252526",
+                "outline": "252526",
+                "aspBlue": "009fe3",
+                "cppPurple": "a856a3",
+                "csGreen": "3e9639",
+                "cssRed": "c92031",
+                "fsPurple": "732c85",
+                "vbBlue": "005aa8",
+                "tsOrange": "ed5007",
+                "pyGreen": "94a33b",
+                "vsPurple": "732487"
+            }
         }
     },
     "light": {

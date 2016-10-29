@@ -1,37 +1,34 @@
 {
     "colors": {
-        "lightBackground": "656565",
-        "lightForeground": "F3F3F3",
-        "darkBackground": "C5C5C5",
-        "darkForeground": "252526",
-        "darkOutline": "252526", 
         "background": "424242",
         "foreground": "F0EFF1",
         "outline": "F6F6F6",
-        "other1": "EFEEF0",
+        "test": "EFEEF0",
         "white": "FFFFFF",
+        "black": "000000",
+        "folderTan": "DCB67A",
         "aspBlue": "0095D7",
         "cppPurple": "9B4F96",
         "csGreen": "388A34",
         "cssRed": "BD1E2D",
-        "fsPurple": "672878",
+        "fsPurple": "682878",
         "jsOrange": "F16421",
         "vbBlue": "00539C",
         "tsOrange": "E04C06",
+        "gitOrange": "F05133",
+        "sassPurple": "CC6699",
         "pyGreen": "879636",
-        "vsPurple": "68217A" // vs logo icon
+        "vsPurple": "68217A"
     },
     "dark": {
         "folderExpanded": "FolderOpen_16x_inverse.svg",
         "folder": "Folder_16x_inverse.svg",
         "file": "Document_16x_inverse.svg",
         "colors": {
-            "background": "darkBackground",
-            "foreground": "darkForeground",
-            "outline": "darkForeground",
-            ""
-            // "other1": "darkOther"
-        }        
+            "background": "C5C5C5",
+            "foreground": "252526",
+            "outline": "252526"
+        }
     },
     "light": {
         "folderExpanded": "FolderOpen_16x.svg",
@@ -45,7 +42,22 @@
     "contrast": {
         "folderExpanded": "FolderOpen_16x_contrast.svg",
         "folder": "Folder_16x_contrast.svg",
-        "file": "Document_16x_contrast.svg"
+        "file": "Document_16x_contrast.svg",
+        "colors": {
+            "background": "FFFFFF",
+            "foreground": "000000",
+            "outline": "000000",
+            "aspBlue": "FFFFFF",
+            "cppPurple": "FFFFFF",
+            "csGreen": "FFFFFF",
+            "cssRed": "FFFFFF",
+            "fsPurple": "FFFFFF",
+            "jsOrange": "FFFFFF",
+            "vbBlue": "FFFFFF",
+            "tsOrange": "FFFFFF",
+            "pyGreen": "FFFFFF",
+            "vsPurple": "FFFFFF"
+        }
     },
     "iconDefinitions": [
         {

@@ -51,7 +51,7 @@ module.exports = class IconGenerator {
         for (var i = 0; i < iconCount; i++) {
             var icon = icons[i];
 
-            if(icon.iconPath !== "FOR_TEST_ONLY"){
+            if (icon.iconPath !== "FOR_TEST_ONLY") {
                 this.createIcon(icon.iconPath);
                 this.createTestFiles(icon);
                 this.createIconDefinition(icon);
@@ -68,11 +68,6 @@ module.exports = class IconGenerator {
 
     resetAll() {
         this.clearFolder(this.paths.iconDestPath);
-        // this.clearFolder(this.paths.testExtensionsDestPath);
-        // this.clearFolder(this.paths.testFileNamesDestPath);
-        // this.clearFolder(this.paths.testFolderNamesDestPath);
-        // this.clearFolder(this.paths.testLangIdsDestPath);
-        // this.removeFile(this.paths.configDestPath);
         return this;
     }
 
@@ -94,8 +89,26 @@ module.exports = class IconGenerator {
         return this;
     }
 
+    replaceColors(data, colorSettings) {
+        var contents = "";
+        var keys = Object.keys(colorSettings);
+
+
+        for (var i = 0; i < keys.length; i++) {
+            var key = keys[i];
+            var oldColor = settings.colors[key];
+            var newColor = settings.colors[settings.dark.colors[key]];
+
+            console.log(oldColor, newColor)
+
+            contents = data.split(oldColor).join(newColor);
+        }
+
+        return contents;
+    }
+
     createIcon(iconPath) {
-        var colors = this.colors;
+        var colors = settings.colors;
         var srcPath = this.paths.iconSrcPath + iconPath;
         var file = fs.createReadStream(srcPath, 'utf8');
         var lightFile = '';
@@ -107,32 +120,31 @@ module.exports = class IconGenerator {
 
         file.on('data', function (chunk) {
             lightFile = chunk.toString()
-                .split(colors.defaultFg).join(colors.lightFg)
-                .split(colors.defaultBg).join(colors.lightBg);
+                .split(colors.background).join(settings.light.colors.background)
+                .split(colors.foreground).join(settings.light.colors.foreground)
 
             darkFile = chunk.toString()
-                .split(colors.defaultFg).join(colors.darkFg)
-                .split(colors.defaultBg).join(colors.darkBg)
-                .split(colors.defaultBg2).join(colors.darkBg)
-                .split(colors.defaultBg3).join(colors.darkBg);
+                .split(colors.background).join(settings.dark.colors.background)
+                .split(colors.foreground).join(settings.dark.colors.foreground)
+                .split(colors.outline).join(settings.dark.colors.foreground)
 
             contrastFile = chunk.toString()
-                .split(colors.defaultFg).join(colors.contrastFg)
-                .split(colors.defaultBg).join(colors.contrastBg)
-                .split(colors.defaultBg2).join(colors.contrastBg)
-                .split(colors.defaultBg3).join(colors.contrastBg)
-                .split(colors.iconColor1).join(colors.contrastFg)
-                .split(colors.iconColor2).join(colors.contrastFg)
-                .split(colors.iconColor3).join(colors.contrastFg)
-                .split(colors.iconColor4).join(colors.contrastFg)
-                .split(colors.iconColor5).join(colors.contrastFg)
-                .split(colors.iconColor6).join(colors.contrastFg)
-                .split(colors.iconColor7).join(colors.contrastFg)
-                .split(colors.iconColor8).join(colors.contrastFg)
-                .split(colors.iconColor9).join(colors.contrastFg)
-                .split(colors.iconColor10).join(colors.contrastFg)
-                .split(colors.iconColor11).join(colors.contrastFg)
-                .split(colors.iconColor12).join(colors.contrastFg);
+                .split(colors.background).join(settings.contrast.colors.background)
+                .split(colors.foreground).join(settings.contrast.colors.foreground)
+                .split(colors.outline).join(settings.contrast.colors.outline)
+                .split(colors.folderTan).join(settings.contrast.colors.background)
+                .split(colors.aspBlue).join(settings.contrast.colors.background)
+                .split(colors.cppPurple).join(settings.contrast.colors.background)
+                .split(colors.csGreen).join(settings.contrast.colors.background)
+                .split(colors.cssRed).join(settings.contrast.colors.background)
+                .split(colors.fsPurple).join(settings.contrast.colors.background)
+                .split(colors.jsOrange).join(settings.contrast.colors.background)
+                .split(colors.vbBlue).join(settings.contrast.colors.background)
+                .split(colors.tsOrange).join(settings.contrast.colors.background)
+                .split(colors.gitOrange).join(settings.contrast.colors.background)
+                .split(colors.pyGreen).join(settings.contrast.colors.background)
+                .split(colors.vsPurple).join(settings.contrast.colors.background)
+                .split(colors.sassPurple).join(settings.contrast.colors.background)
         });
 
         file.on('end', function () {

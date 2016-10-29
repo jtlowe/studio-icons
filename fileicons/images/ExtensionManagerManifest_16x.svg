@@ -3,8 +3,8 @@
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve">
 <g id="outline">
-	<rect style="opacity:0;fill:#F3F3F3;" width="16" height="16"/>
-	<path style="fill:#F3F3F3;" d="M16,0H5v4.355C4.544,4.135,4.041,4,3.5,4C1.57,4,0,5.57,0,7.5v5c0,1.533,0.997,3.027,2.372,3.5H12
+	<rect style="opacity:0;fill:#F6F6F6;" width="16" height="16"/>
+	<path style="fill:#F6F6F6;" d="M16,0H5v4.355C4.544,4.135,4.041,4,3.5,4C1.57,4,0,5.57,0,7.5v5c0,1.533,0.997,3.027,2.372,3.5H12
 		v-5h4V0z"/>
 </g>
 <g id="icon_x5F_bg">
@@ -19,7 +19,7 @@
 	<rect x="7" y="10" style="fill:#656565;" width="2" height="1"/>
 </g>
 <g id="icon_x5F_fg">
-	<path style="fill:#F0EFF1;" d="M6,9v4H4.908C4.964,12.843,5,12.676,5,12.5C5,11.672,4.328,11,3.5,11C2.672,11,2,11.672,2,12.5
+	<path style="fill:#F3F3F3;" d="M6,9v4H4.908C4.964,12.843,5,12.676,5,12.5C5,11.672,4.328,11,3.5,11C2.672,11,2,11.672,2,12.5
 		S2.672,14,3.5,14H10V9H6z M9,13H7v-1h2V13z M9,11H7v-1h2V11z"/>
 </g>
 </svg>

@@ -3,8 +3,8 @@
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve">
 <g id="outline">
-	<rect style="opacity:0;fill:#F3F3F3;" width="16" height="16"/>
-	<polygon style="fill:#F3F3F3;" points="11,2 11,1 5,1 5,2 0,2 0,15 16,15 16,2 	"/>
+	<rect style="opacity:0;fill:#F6F6F6;" width="16" height="16"/>
+	<polygon style="fill:#F6F6F6;" points="11,2 11,1 5,1 5,2 0,2 0,15 16,15 16,2 	"/>
 </g>
 <g id="icon_x5F_bg">
 	<path style="fill:#656565;" d="M11,3v11h4V3H11z M14,13h-2v-1h2V13z M14,11h-2v-1h2V11z M14,6h-2V4h2V6z"/>
@@ -12,7 +12,7 @@
 	<path style="fill:#656565;" d="M1,14h4V3H1V14z M2,4h2v2H2V4z M2,10h2v1H2V10z M2,12h2v1H2V12z"/>
 </g>
 <g id="icon_x5F_fg">
-	<path style="fill:#F0EFF1;" d="M14,13h-2v-1h2V13z M14,10h-2v1h2V10z M14,4h-2v2h2V4z M9,12H7v1h2V12z M9,10H7v1h2V10z M9,3H7v1h2
+	<path style="fill:#F3F3F3;" d="M14,13h-2v-1h2V13z M14,10h-2v1h2V10z M14,4h-2v2h2V4z M9,12H7v1h2V12z M9,10H7v1h2V10z M9,3H7v1h2
 		V3z M4,12H2v1h2V12z M4,10H2v1h2V10z M4,4H2v2h2V4z"/>
 </g>
 </svg>

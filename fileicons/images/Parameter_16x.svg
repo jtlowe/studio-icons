@@ -3,8 +3,8 @@
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve">
 <g id="outline">
-	<rect style="opacity:0;fill:#F3F3F3;" width="16" height="16"/>
-	<path style="fill:#F3F3F3;" d="M16,3h-4.93c-0.297-0.17-0.611-0.318-0.947-0.431C9.504,2.357,8.837,2.25,8.143,2.25
+	<rect style="opacity:0;fill:#F6F6F6;" width="16" height="16"/>
+	<path style="fill:#F6F6F6;" d="M16,3h-4.93c-0.297-0.17-0.611-0.318-0.947-0.431C9.504,2.357,8.837,2.25,8.143,2.25
 		c-0.552,0-1.078,0.067-1.561,0.199C6.102,2.579,5.658,2.766,5.256,3H0v10h7.369c0.204,0.019,0.402,0.051,0.614,0.051
 		c0.335,0,0.641-0.014,0.91-0.041c0.026-0.002,0.046-0.007,0.072-0.01H16V3z"/>
 </g>

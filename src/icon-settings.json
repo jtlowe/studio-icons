@@ -291,9 +291,7 @@
         },
         {
             "iconPath": "Document_16x.svg",
-            "fileExtensions": [
-                "rtf"
-            ],
+            "fileExtensions": [],
             "fileNames": []
         },
         {
@@ -733,7 +731,8 @@
         {
             "iconPath": "Text_16x.svg",
             "fileExtensions": [
-                "txt"
+                "txt",
+                "rtf"
             ],
             "fileNames": []
         },

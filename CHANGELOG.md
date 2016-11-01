@@ -1,5 +1,8 @@
 # Change Log
 
+## 1.1.7 (November 1, 2016)
+  - Feature: Adding Microsoft Office icons for popular 
+
 ## 1.1.6 (October 29, 2016)
   - Change: Dark colorful colors have been slightly lightened for visibility.
 

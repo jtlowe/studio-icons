@@ -72,8 +72,6 @@
                 "clj",
                 "d",
                 "di",
-                "doc",
-                "docx",
                 "el",
                 "elc",
                 "elv",
@@ -100,12 +98,9 @@
                 "o",
                 "otd",
                 "patel",
-                "ppt",
-                "pptx",
                 "ps",
                 "ptl",
                 "rs",
-                "rtf",
                 "scala",
                 "scm",
                 "sfd",
@@ -288,7 +283,6 @@
             "iconPath": "Database_16x.svg",
             "fileExtensions": [
                 "sql",
-                "accdb",
                 "mdb",
                 "sqlite",
                 "pdb"
@@ -297,7 +291,9 @@
         },
         {
             "iconPath": "Document_16x.svg",
-            "fileExtensions": [],
+            "fileExtensions": [
+                "rtf"
+            ],
             "fileNames": []
         },
         {
@@ -584,6 +580,56 @@
             "fileNames": [
                 "package.json"
             ]
+        },
+        {
+            "iconPath": "OfficeAccess2013Logo_16x.svg",
+            "fileExtensions": [
+                "accdb",
+                "accda",
+                "accde"
+            ],
+            "fileNames": []
+        },
+        {
+            "iconPath": "OfficeExcel2013Logo_16x.svg",
+            "fileExtensions": [
+                "xsl",
+                "xsls"
+            ],
+            "fileNames": []
+        },
+        {
+            "iconPath": "OfficePowerPoint2013Logo_16x.svg",
+            "fileExtensions": [
+                "ppt",
+                "pptx"
+            ],
+            "fileNames": []
+        },
+        {
+            "iconPath": "OfficeProject2013Logo_16x.svg",
+            "fileExtensions": [
+                "mpd",
+                "mpp",
+                "mpt"
+            ],
+            "fileNames": []
+        },
+        {
+            "iconPath": "OfficeVisio2013Logo_16x.svg",
+            "fileExtensions": [
+                "vsd",
+                "vsdx"
+            ],
+            "fileNames": []
+        },
+        {
+            "iconPath": "OfficeWord2013Logo_16x.svg",
+            "fileExtensions": [
+                "doc",
+                "docx"
+            ],
+            "fileNames": []
         },
         {
             "iconPath": "Parameter_16x.svg",

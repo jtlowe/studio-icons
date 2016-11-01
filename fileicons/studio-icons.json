@@ -423,6 +423,60 @@
         "NodeJS_16x_contrast.svg": {
             "iconPath": "./images/NodeJS_16x_contrast.svg"
         },
+        "OfficeAccess2013Logo_16x.svg": {
+            "iconPath": "./images/OfficeAccess2013Logo_16x.svg"
+        },
+        "OfficeAccess2013Logo_16x_inverse.svg": {
+            "iconPath": "./images/OfficeAccess2013Logo_16x_inverse.svg"
+        },
+        "OfficeAccess2013Logo_16x_contrast.svg": {
+            "iconPath": "./images/OfficeAccess2013Logo_16x_contrast.svg"
+        },
+        "OfficeExcel2013Logo_16x.svg": {
+            "iconPath": "./images/OfficeExcel2013Logo_16x.svg"
+        },
+        "OfficeExcel2013Logo_16x_inverse.svg": {
+            "iconPath": "./images/OfficeExcel2013Logo_16x_inverse.svg"
+        },
+        "OfficeExcel2013Logo_16x_contrast.svg": {
+            "iconPath": "./images/OfficeExcel2013Logo_16x_contrast.svg"
+        },
+        "OfficePowerPoint2013Logo_16x.svg": {
+            "iconPath": "./images/OfficePowerPoint2013Logo_16x.svg"
+        },
+        "OfficePowerPoint2013Logo_16x_inverse.svg": {
+            "iconPath": "./images/OfficePowerPoint2013Logo_16x_inverse.svg"
+        },
+        "OfficePowerPoint2013Logo_16x_contrast.svg": {
+            "iconPath": "./images/OfficePowerPoint2013Logo_16x_contrast.svg"
+        },
+        "OfficeProject2013Logo_16x.svg": {
+            "iconPath": "./images/OfficeProject2013Logo_16x.svg"
+        },
+        "OfficeProject2013Logo_16x_inverse.svg": {
+            "iconPath": "./images/OfficeProject2013Logo_16x_inverse.svg"
+        },
+        "OfficeProject2013Logo_16x_contrast.svg": {
+            "iconPath": "./images/OfficeProject2013Logo_16x_contrast.svg"
+        },
+        "OfficeVisio2013Logo_16x.svg": {
+            "iconPath": "./images/OfficeVisio2013Logo_16x.svg"
+        },
+        "OfficeVisio2013Logo_16x_inverse.svg": {
+            "iconPath": "./images/OfficeVisio2013Logo_16x_inverse.svg"
+        },
+        "OfficeVisio2013Logo_16x_contrast.svg": {
+            "iconPath": "./images/OfficeVisio2013Logo_16x_contrast.svg"
+        },
+        "OfficeWord2013Logo_16x.svg": {
+            "iconPath": "./images/OfficeWord2013Logo_16x.svg"
+        },
+        "OfficeWord2013Logo_16x_inverse.svg": {
+            "iconPath": "./images/OfficeWord2013Logo_16x_inverse.svg"
+        },
+        "OfficeWord2013Logo_16x_contrast.svg": {
+            "iconPath": "./images/OfficeWord2013Logo_16x_contrast.svg"
+        },
         "Parameter_16x.svg": {
             "iconPath": "./images/Parameter_16x.svg"
         },
@@ -651,8 +705,6 @@
             "clj": "FOR_TEST_ONLY",
             "d": "FOR_TEST_ONLY",
             "di": "FOR_TEST_ONLY",
-            "doc": "FOR_TEST_ONLY",
-            "docx": "FOR_TEST_ONLY",
             "el": "FOR_TEST_ONLY",
             "elc": "FOR_TEST_ONLY",
             "elv": "FOR_TEST_ONLY",
@@ -679,12 +731,9 @@
             "o": "FOR_TEST_ONLY",
             "otd": "FOR_TEST_ONLY",
             "patel": "FOR_TEST_ONLY",
-            "ppt": "FOR_TEST_ONLY",
-            "pptx": "FOR_TEST_ONLY",
             "ps": "FOR_TEST_ONLY",
             "ptl": "FOR_TEST_ONLY",
             "rs": "FOR_TEST_ONLY",
-            "rtf": "FOR_TEST_ONLY",
             "scala": "FOR_TEST_ONLY",
             "scm": "FOR_TEST_ONLY",
             "sfd": "FOR_TEST_ONLY",
@@ -728,10 +777,10 @@
             "ps1": "Console_16x.svg",
             "cur": "CursorFile_16x.svg",
             "sql": "Database_16x.svg",
-            "accdb": "Database_16x.svg",
             "mdb": "Database_16x.svg",
             "sqlite": "Database_16x.svg",
             "pdb": "Database_16x.svg",
+            "rtf": "Document_16x.svg",
             "vsix": "Extension_16x.svg",
             "manifest": "ExtensionManagerManifest_16x.svg",
             "resx": "FileGroup_16x.svg",
@@ -831,6 +880,20 @@
             "mpe": "Media_16x.svg",
             "mpv": "Media_16x.svg",
             "m2v": "Media_16x.svg",
+            "accdb": "OfficeAccess2013Logo_16x.svg",
+            "accda": "OfficeAccess2013Logo_16x.svg",
+            "accde": "OfficeAccess2013Logo_16x.svg",
+            "xsl": "XSLTTransformFile_16x.svg",
+            "xsls": "OfficeExcel2013Logo_16x.svg",
+            "ppt": "OfficePowerPoint2013Logo_16x.svg",
+            "pptx": "OfficePowerPoint2013Logo_16x.svg",
+            "mpd": "OfficeProject2013Logo_16x.svg",
+            "mpp": "OfficeProject2013Logo_16x.svg",
+            "mpt": "OfficeProject2013Logo_16x.svg",
+            "vsd": "OfficeVisio2013Logo_16x.svg",
+            "vsdx": "OfficeVisio2013Logo_16x.svg",
+            "doc": "OfficeWord2013Logo_16x.svg",
+            "docx": "OfficeWord2013Logo_16x.svg",
             "cshtml": "Parameter_16x.svg",
             "php": "PHPFile_16x.svg",
             "properties": "Property_16x.svg",
@@ -871,7 +934,6 @@
             "vsixmanifest": "XMLFile_16x.svg",
             "xquery": "XMLFile_16x.svg",
             "xsd": "XMLSchema_16x.svg",
-            "xsl": "XSLTTransformFile_16x.svg",
             "zip": "ZipFile_16x.svg",
             "tar": "ZipFile_16x.svg",
             "gz": "ZipFile_16x.svg",
@@ -948,8 +1010,6 @@
             "clj": "FOR_TEST_ONLY",
             "d": "FOR_TEST_ONLY",
             "di": "FOR_TEST_ONLY",
-            "doc": "FOR_TEST_ONLY",
-            "docx": "FOR_TEST_ONLY",
             "el": "FOR_TEST_ONLY",
             "elc": "FOR_TEST_ONLY",
             "elv": "FOR_TEST_ONLY",
@@ -976,12 +1036,9 @@
             "o": "FOR_TEST_ONLY",
             "otd": "FOR_TEST_ONLY",
             "patel": "FOR_TEST_ONLY",
-            "ppt": "FOR_TEST_ONLY",
-            "pptx": "FOR_TEST_ONLY",
             "ps": "FOR_TEST_ONLY",
             "ptl": "FOR_TEST_ONLY",
             "rs": "FOR_TEST_ONLY",
-            "rtf": "FOR_TEST_ONLY",
             "scala": "FOR_TEST_ONLY",
             "scm": "FOR_TEST_ONLY",
             "sfd": "FOR_TEST_ONLY",
@@ -1025,10 +1082,10 @@
             "ps1": "Console_16x_contrast.svg",
             "cur": "CursorFile_16x_contrast.svg",
             "sql": "Database_16x_contrast.svg",
-            "accdb": "Database_16x_contrast.svg",
             "mdb": "Database_16x_contrast.svg",
             "sqlite": "Database_16x_contrast.svg",
             "pdb": "Database_16x_contrast.svg",
+            "rtf": "Document_16x_contrast.svg",
             "vsix": "Extension_16x_contrast.svg",
             "manifest": "ExtensionManagerManifest_16x_contrast.svg",
             "resx": "FileGroup_16x_contrast.svg",
@@ -1128,6 +1185,20 @@
             "mpe": "Media_16x_contrast.svg",
             "mpv": "Media_16x_contrast.svg",
             "m2v": "Media_16x_contrast.svg",
+            "accdb": "OfficeAccess2013Logo_16x_contrast.svg",
+            "accda": "OfficeAccess2013Logo_16x_contrast.svg",
+            "accde": "OfficeAccess2013Logo_16x_contrast.svg",
+            "xsl": "XSLTTransformFile_16x_contrast.svg",
+            "xsls": "OfficeExcel2013Logo_16x_contrast.svg",
+            "ppt": "OfficePowerPoint2013Logo_16x_contrast.svg",
+            "pptx": "OfficePowerPoint2013Logo_16x_contrast.svg",
+            "mpd": "OfficeProject2013Logo_16x_contrast.svg",
+            "mpp": "OfficeProject2013Logo_16x_contrast.svg",
+            "mpt": "OfficeProject2013Logo_16x_contrast.svg",
+            "vsd": "OfficeVisio2013Logo_16x_contrast.svg",
+            "vsdx": "OfficeVisio2013Logo_16x_contrast.svg",
+            "doc": "OfficeWord2013Logo_16x_contrast.svg",
+            "docx": "OfficeWord2013Logo_16x_contrast.svg",
             "cshtml": "Parameter_16x_contrast.svg",
             "php": "PHPFile_16x_contrast.svg",
             "properties": "Property_16x_contrast.svg",
@@ -1168,7 +1239,6 @@
             "vsixmanifest": "XMLFile_16x_contrast.svg",
             "xquery": "XMLFile_16x_contrast.svg",
             "xsd": "XMLSchema_16x_contrast.svg",
-            "xsl": "XSLTTransformFile_16x_contrast.svg",
             "zip": "ZipFile_16x_contrast.svg",
             "tar": "ZipFile_16x_contrast.svg",
             "gz": "ZipFile_16x_contrast.svg",
@@ -1244,8 +1314,6 @@
         "clj": "FOR_TEST_ONLY",
         "d": "FOR_TEST_ONLY",
         "di": "FOR_TEST_ONLY",
-        "doc": "FOR_TEST_ONLY",
-        "docx": "FOR_TEST_ONLY",
         "el": "FOR_TEST_ONLY",
         "elc": "FOR_TEST_ONLY",
         "elv": "FOR_TEST_ONLY",
@@ -1272,12 +1340,9 @@
         "o": "FOR_TEST_ONLY",
         "otd": "FOR_TEST_ONLY",
         "patel": "FOR_TEST_ONLY",
-        "ppt": "FOR_TEST_ONLY",
-        "pptx": "FOR_TEST_ONLY",
         "ps": "FOR_TEST_ONLY",
         "ptl": "FOR_TEST_ONLY",
         "rs": "FOR_TEST_ONLY",
-        "rtf": "FOR_TEST_ONLY",
         "scala": "FOR_TEST_ONLY",
         "scm": "FOR_TEST_ONLY",
         "sfd": "FOR_TEST_ONLY",
@@ -1321,10 +1386,10 @@
         "ps1": "Console_16x_inverse.svg",
         "cur": "CursorFile_16x_inverse.svg",
         "sql": "Database_16x_inverse.svg",
-        "accdb": "Database_16x_inverse.svg",
         "mdb": "Database_16x_inverse.svg",
         "sqlite": "Database_16x_inverse.svg",
         "pdb": "Database_16x_inverse.svg",
+        "rtf": "Document_16x_inverse.svg",
         "vsix": "Extension_16x_inverse.svg",
         "manifest": "ExtensionManagerManifest_16x_inverse.svg",
         "resx": "FileGroup_16x_inverse.svg",
@@ -1424,6 +1489,20 @@
         "mpe": "Media_16x_inverse.svg",
         "mpv": "Media_16x_inverse.svg",
         "m2v": "Media_16x_inverse.svg",
+        "accdb": "OfficeAccess2013Logo_16x_inverse.svg",
+        "accda": "OfficeAccess2013Logo_16x_inverse.svg",
+        "accde": "OfficeAccess2013Logo_16x_inverse.svg",
+        "xsl": "XSLTTransformFile_16x_inverse.svg",
+        "xsls": "OfficeExcel2013Logo_16x_inverse.svg",
+        "ppt": "OfficePowerPoint2013Logo_16x_inverse.svg",
+        "pptx": "OfficePowerPoint2013Logo_16x_inverse.svg",
+        "mpd": "OfficeProject2013Logo_16x_inverse.svg",
+        "mpp": "OfficeProject2013Logo_16x_inverse.svg",
+        "mpt": "OfficeProject2013Logo_16x_inverse.svg",
+        "vsd": "OfficeVisio2013Logo_16x_inverse.svg",
+        "vsdx": "OfficeVisio2013Logo_16x_inverse.svg",
+        "doc": "OfficeWord2013Logo_16x_inverse.svg",
+        "docx": "OfficeWord2013Logo_16x_inverse.svg",
         "cshtml": "Parameter_16x_inverse.svg",
         "php": "PHPFile_16x_inverse.svg",
         "properties": "Property_16x_inverse.svg",
@@ -1464,7 +1543,6 @@
         "vsixmanifest": "XMLFile_16x_inverse.svg",
         "xquery": "XMLFile_16x_inverse.svg",
         "xsd": "XMLSchema_16x_inverse.svg",
-        "xsl": "XSLTTransformFile_16x_inverse.svg",
         "zip": "ZipFile_16x_inverse.svg",
         "tar": "ZipFile_16x_inverse.svg",
         "gz": "ZipFile_16x_inverse.svg",

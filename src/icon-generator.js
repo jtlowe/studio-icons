@@ -15,31 +15,6 @@ module.exports = class IconGenerator {
             testFolderNamesDestPath: './test/foldernames/',
             testLangIdsDestPath: './test/languageIds/'
         }
-        this.colors = {
-            defaultFg: '424242',
-            defaultBg: 'F6F6F6',
-            defaultBg2: 'F0EFF1',
-            defaultBg3: 'EFEEF0',
-            defaultBg4: 'FFFFFF',
-            lightFg: '656565',
-            lightBg: 'F3F3F3',
-            darkFg: 'C5C5C5',
-            darkBg: '252526',
-            contrastFg: 'FFFFFF',
-            contrastBg: '000000',
-            iconColor1: 'F16421', // vs orange
-            iconColor2: '0095D7', // vs blue
-            iconColor3: 'DCB67A', // vs tan - folders
-            iconColor4: '388A34', // vs green1 - cs
-            iconColor5: '879636', // vs green2 - py
-            iconColor6: '9B4F96', // vs purple
-            iconColor7: 'F05133', // vs redorange - git
-            iconColor8: '00539C',  // vs blue2 -- less
-            iconColor9: 'CC6699', // vs purple2 - sass
-            iconColor10: 'BD1E2D', // vs red - stylesheet
-            iconColor11: 'E04C06', // vs red2 - ts
-            iconColor12: '68217A' // vs purple3 = vsicon
-        }
     }
 
     init() {
@@ -124,6 +99,7 @@ module.exports = class IconGenerator {
                 .split(colors.foreground).join(settings.light.colors.foreground)
 
             darkFile = chunk.toString()
+                .split(colors.white).join(settings.dark.colors.foreground)
                 .split(colors.background).join(settings.dark.colors.background)
                 .split(colors.foreground).join(settings.dark.colors.foreground)
                 .split(colors.outline).join(settings.dark.colors.foreground)
@@ -135,8 +111,15 @@ module.exports = class IconGenerator {
                 .split(colors.tsOrange).join(settings.dark.colors.tsOrange)
                 .split(colors.pyGreen).join(settings.dark.colors.pyGreen)
                 .split(colors.vsPurple).join(settings.dark.colors.vsPurple)
+                .split(colors.accessRed).join(settings.dark.colors.accessRed)
+                .split(colors.wordBlue).join(settings.dark.colors.wordBlue)
+                .split(colors.pptRed).join(settings.dark.colors.pptRed)
+                .split(colors.projGreen).join(settings.dark.colors.projGreen)
+                .split(colors.visioPurple).join(settings.dark.colors.visioPurple)
+                .split(colors.excelGreen).join(settings.dark.colors.excelGreen)
 
             contrastFile = chunk.toString()
+                .split(colors.white).join(settings.contrast.colors.foreground)
                 .split(colors.background).join(settings.contrast.colors.background)
                 .split(colors.foreground).join(settings.contrast.colors.foreground)
                 .split(colors.outline).join(settings.contrast.colors.outline)
@@ -154,6 +137,12 @@ module.exports = class IconGenerator {
                 .split(colors.pyGreen).join(settings.contrast.colors.background)
                 .split(colors.vsPurple).join(settings.contrast.colors.background)
                 .split(colors.sassPurple).join(settings.contrast.colors.background)
+                .split(colors.accessRed).join(settings.contrast.colors.background)
+                .split(colors.wordBlue).join(settings.contrast.colors.background)
+                .split(colors.pptRed).join(settings.contrast.colors.background)
+                .split(colors.projGreen).join(settings.contrast.colors.background)
+                .split(colors.visioPurple).join(settings.contrast.colors.background)
+                .split(colors.excelGreen).join(settings.contrast.colors.background)
         });
 
         file.on('end', function () {

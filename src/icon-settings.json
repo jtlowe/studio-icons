@@ -19,7 +19,13 @@
         "gitOrange": "F05133",
         "sassPurple": "CC6699",
         "pyGreen": "879636",
-        "vsPurple": "68217A"
+        "vsPurple": "68217A",
+        "accessRed": "A4373A",
+        "wordBlue": "2B579A",
+        "pptRed": "D34927",
+        "projGreen": "31752F",
+        "visioPurple": "3955A3",
+        "excelGreen": "217346"
     },
     "dark": {
         "folderExpanded": "FolderOpen_16x_inverse.svg",
@@ -29,15 +35,23 @@
             "background": "C5C5C5",
             "foreground": "252526",
             "outline": "252526",
-            "aspBlue": "009fe3",
-            "cppPurple": "a856a3",
-            "csGreen": "3e9639",
-            "cssRed": "c92031",
-            "fsPurple": "732c85",
-            "vbBlue": "005aa8",
-            "tsOrange": "ed5007",
-            "pyGreen": "94a33b",
-            "vsPurple": "732487"
+            "white": "252526",
+            "aspBlue": "40C3FD",
+            "cppPurple": "CF69C8",
+            "csGreen": "87CF84",
+            "cssRed": "C43A48",
+            "fsPurple": "C049DE",
+            "vbBlue": "0088FF",
+            "tsOrange": "FA7B41",
+            "pyGreen": "B6C949",
+            "vsPurple": "D294E2",
+            "sassPurple": "FF80BF",
+            "accessRed": "d95356",
+            "wordBlue": "769dd9",
+            "pptRed": "dd6145",
+            "projGreen": "88e8b2",
+            "visioPurple": "8199dd",
+            "excelGreen": "9ae2ba"
         }
     },
     "light": {

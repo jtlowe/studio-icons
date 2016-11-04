@@ -1,6 +1,6 @@
 # Change Log
 
-# 1.1.8 (November 1, 2016)
+# 1.1.8 (November 4, 2016)
   - Change: Improving dark colorful colors to match Visual Studio's rendering.
   - Change: Bringing Office icons in line with high contrast theme.
   - Change: Slight change to JSON icon's small oval for better rendering in VS Code.

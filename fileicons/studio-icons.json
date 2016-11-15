@@ -1,5 +1,32 @@
 {
     "iconDefinitions": {
+        "AdobeIndesign_16x.svg": {
+            "iconPath": "./images/AdobeIndesign_16x.svg"
+        },
+        "AdobeIndesign_16x_inverse.svg": {
+            "iconPath": "./images/AdobeIndesign_16x_inverse.svg"
+        },
+        "AdobeIndesign_16x_contrast.svg": {
+            "iconPath": "./images/AdobeIndesign_16x_contrast.svg"
+        },
+        "AdobeIllustrator_16x.svg": {
+            "iconPath": "./images/AdobeIllustrator_16x.svg"
+        },
+        "AdobeIllustrator_16x_inverse.svg": {
+            "iconPath": "./images/AdobeIllustrator_16x_inverse.svg"
+        },
+        "AdobeIllustrator_16x_contrast.svg": {
+            "iconPath": "./images/AdobeIllustrator_16x_contrast.svg"
+        },
+        "AdobePhotoshop_16x.svg": {
+            "iconPath": "./images/AdobePhotoshop_16x.svg"
+        },
+        "AdobePhotoshop_16x_inverse.svg": {
+            "iconPath": "./images/AdobePhotoshop_16x_inverse.svg"
+        },
+        "AdobePhotoshop_16x_contrast.svg": {
+            "iconPath": "./images/AdobePhotoshop_16x_contrast.svg"
+        },
         "AndroidFile_16x.svg": {
             "iconPath": "./images/AndroidFile_16x.svg"
         },
@@ -697,7 +724,6 @@
     "light": {
         "fileExtensions": {
             "a": "FOR_TEST_ONLY",
-            "ai": "FOR_TEST_ONLY",
             "bash": "FOR_TEST_ONLY",
             "bin": "FOR_TEST_ONLY",
             "c": "FOR_TEST_ONLY",
@@ -750,6 +776,13 @@
             "yaml": "FOR_TEST_ONLY",
             "yml": "FOR_TEST_ONLY",
             "zsh": "FOR_TEST_ONLY",
+            "indd": "AdobeIndesign_16x.svg",
+            "indl": "AdobeIndesign_16x.svg",
+            "indt": "AdobeIndesign_16x.svg",
+            "inml": "AdobeIndesign_16x.svg",
+            "ai": "AdobeIllustrator_16x.svg",
+            "psb": "AdobePhotoshop_16x.svg",
+            "psd": "AdobePhotoshop_16x.svg",
             "exe": "Application_16x.svg",
             "aac": "AudioOn_16x.svg",
             "mp3": "AudioOn_16x.svg",
@@ -803,7 +836,6 @@
             "htm": "HTMLFile_16x.svg",
             "html": "HTMLFile_16x.svg",
             "ico": "Image_16x.svg",
-            "eps": "Image_16x.svg",
             "png": "Image_16x.svg",
             "jpeg": "Image_16x.svg",
             "jpg": "Image_16x.svg",
@@ -811,8 +843,6 @@
             "svg": "Image_16x.svg",
             "tif": "Image_16x.svg",
             "tiff": "Image_16x.svg",
-            "psd": "Image_16x.svg",
-            "psb": "Image_16x.svg",
             "ami": "Image_16x.svg",
             "apx": "Image_16x.svg",
             "bmp": "Image_16x.svg",
@@ -820,6 +850,7 @@
             "brk": "Image_16x.svg",
             "dds": "Image_16x.svg",
             "dng": "Image_16x.svg",
+            "eps": "Image_16x.svg",
             "exr": "Image_16x.svg",
             "fpx": "Image_16x.svg",
             "gbr": "Image_16x.svg",
@@ -1002,7 +1033,6 @@
     "highContrast": {
         "fileExtensions": {
             "a": "FOR_TEST_ONLY",
-            "ai": "FOR_TEST_ONLY",
             "bash": "FOR_TEST_ONLY",
             "bin": "FOR_TEST_ONLY",
             "c": "FOR_TEST_ONLY",
@@ -1055,6 +1085,13 @@
             "yaml": "FOR_TEST_ONLY",
             "yml": "FOR_TEST_ONLY",
             "zsh": "FOR_TEST_ONLY",
+            "indd": "AdobeIndesign_16x_contrast.svg",
+            "indl": "AdobeIndesign_16x_contrast.svg",
+            "indt": "AdobeIndesign_16x_contrast.svg",
+            "inml": "AdobeIndesign_16x_contrast.svg",
+            "ai": "AdobeIllustrator_16x_contrast.svg",
+            "psb": "AdobePhotoshop_16x_contrast.svg",
+            "psd": "AdobePhotoshop_16x_contrast.svg",
             "exe": "Application_16x_contrast.svg",
             "aac": "AudioOn_16x_contrast.svg",
             "mp3": "AudioOn_16x_contrast.svg",
@@ -1108,7 +1145,6 @@
             "htm": "HTMLFile_16x_contrast.svg",
             "html": "HTMLFile_16x_contrast.svg",
             "ico": "Image_16x_contrast.svg",
-            "eps": "Image_16x_contrast.svg",
             "png": "Image_16x_contrast.svg",
             "jpeg": "Image_16x_contrast.svg",
             "jpg": "Image_16x_contrast.svg",
@@ -1116,8 +1152,6 @@
             "svg": "Image_16x_contrast.svg",
             "tif": "Image_16x_contrast.svg",
             "tiff": "Image_16x_contrast.svg",
-            "psd": "Image_16x_contrast.svg",
-            "psb": "Image_16x_contrast.svg",
             "ami": "Image_16x_contrast.svg",
             "apx": "Image_16x_contrast.svg",
             "bmp": "Image_16x_contrast.svg",
@@ -1125,6 +1159,7 @@
             "brk": "Image_16x_contrast.svg",
             "dds": "Image_16x_contrast.svg",
             "dng": "Image_16x_contrast.svg",
+            "eps": "Image_16x_contrast.svg",
             "exr": "Image_16x_contrast.svg",
             "fpx": "Image_16x_contrast.svg",
             "gbr": "Image_16x_contrast.svg",
@@ -1306,7 +1341,6 @@
     },
     "fileExtensions": {
         "a": "FOR_TEST_ONLY",
-        "ai": "FOR_TEST_ONLY",
         "bash": "FOR_TEST_ONLY",
         "bin": "FOR_TEST_ONLY",
         "c": "FOR_TEST_ONLY",
@@ -1359,6 +1393,13 @@
         "yaml": "FOR_TEST_ONLY",
         "yml": "FOR_TEST_ONLY",
         "zsh": "FOR_TEST_ONLY",
+        "indd": "AdobeIndesign_16x_inverse.svg",
+        "indl": "AdobeIndesign_16x_inverse.svg",
+        "indt": "AdobeIndesign_16x_inverse.svg",
+        "inml": "AdobeIndesign_16x_inverse.svg",
+        "ai": "AdobeIllustrator_16x_inverse.svg",
+        "psb": "AdobePhotoshop_16x_inverse.svg",
+        "psd": "AdobePhotoshop_16x_inverse.svg",
         "exe": "Application_16x_inverse.svg",
         "aac": "AudioOn_16x_inverse.svg",
         "mp3": "AudioOn_16x_inverse.svg",
@@ -1412,7 +1453,6 @@
         "htm": "HTMLFile_16x_inverse.svg",
         "html": "HTMLFile_16x_inverse.svg",
         "ico": "Image_16x_inverse.svg",
-        "eps": "Image_16x_inverse.svg",
         "png": "Image_16x_inverse.svg",
         "jpeg": "Image_16x_inverse.svg",
         "jpg": "Image_16x_inverse.svg",
@@ -1420,8 +1460,6 @@
         "svg": "Image_16x_inverse.svg",
         "tif": "Image_16x_inverse.svg",
         "tiff": "Image_16x_inverse.svg",
-        "psd": "Image_16x_inverse.svg",
-        "psb": "Image_16x_inverse.svg",
         "ami": "Image_16x_inverse.svg",
         "apx": "Image_16x_inverse.svg",
         "bmp": "Image_16x_inverse.svg",
@@ -1429,6 +1467,7 @@
         "brk": "Image_16x_inverse.svg",
         "dds": "Image_16x_inverse.svg",
         "dng": "Image_16x_inverse.svg",
+        "eps": "Image_16x_inverse.svg",
         "exr": "Image_16x_inverse.svg",
         "fpx": "Image_16x_inverse.svg",
         "gbr": "Image_16x_inverse.svg",

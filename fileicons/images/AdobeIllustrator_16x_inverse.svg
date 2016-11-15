@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 20.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="16px"
+	 height="16px" viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve">
+<g id="outline">
+	<rect x="0" y="0" style="fill:#252526;" width="16" height="15"/>
+</g>
+<g id="icon_x5F_bg">
+	<path style="fill:#C5C5C5;" d="M1,1v13h14V1H1z M14,13H2V2h12V13z"/>
+	<path style="fill:#C5C5C5;" d="M8.062,11L7.5,9.341h-2L4.931,11H4l2-6h1l2,6H8.062z M7.29,8.499L6.784,6.872
+		c-0.037-0.109-0.088-0.28-0.153-0.515s-0.11-0.406-0.135-0.515C6.43,6.177,6.332,6.543,6.205,6.941L5.7,8.499H7.29z"/>
+	<path style="fill:#C5C5C5;" d="M10,5.504c0-0.162,0.044-0.286,0.131-0.373S10.342,5,10.504,5c0.156,0,0.278,0.044,0.366,0.131
+		S11,5.342,11,5.504c0,0.154-0.044,0.275-0.131,0.363S10.66,6,10.504,6c-0.162,0-0.286-0.044-0.373-0.133S10,5.658,10,5.504z M11,11
+		h-1V7h1V11z"/>
+</g>
+<g id="icon_x5F_fg">
+</g>
+</svg>

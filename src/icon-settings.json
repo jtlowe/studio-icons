@@ -78,7 +78,6 @@
             "iconPath": "FOR_TEST_ONLY",
             "fileExtensions": [
                 "a",
-                "ai",
                 "bash",
                 "bin",
                 "c",
@@ -158,6 +157,27 @@
             ],
             "folderNames": [
                 "references"
+            ]
+        },
+        {
+            "iconPath": "AdobeIndesign_16x.svg",
+            "fileExtensions": [
+                "indd",
+                "indl",
+                "indt",
+                "inml"
+            ]
+        },        {
+            "iconPath": "AdobeIllustrator_16x.svg",
+            "fileExtensions": [
+                "ai"
+            ]
+        },
+        {
+            "iconPath": "AdobePhotoshop_16x.svg",
+            "fileExtensions": [
+                "psb",
+                "psd"
             ]
         },
         {
@@ -404,7 +424,6 @@
         {
             "iconPath": "Image_16x.svg",
             "fileExtensions": [
-                "eps",
                 "png",
                 "jpeg",
                 "jpg",
@@ -413,8 +432,6 @@
                 "ico",
                 "tif",
                 "tiff",
-                "psd",
-                "psb",
                 "ami",
                 "apx",
                 "bmp",
@@ -422,6 +439,7 @@
                 "brk",
                 "dds",
                 "dng",
+                "eps",
                 "exr",
                 "fpx",
                 "gbr",

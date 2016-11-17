@@ -19,4 +19,4 @@ Uses Yarn package manager and Gulp for build tasks. Current workflow:
 
 Thanks to the Microsoft team for their excellent icon set!
 
-Thanks to Philipp Kief's for the much appreciated [Material Icon Theme](https://github.com/PKief/vscode-extension-material-icon-theme)! Used this as a great starting point for mapping icons to extensions/filenames.
+Thanks to Philipp Kief for the much appreciated [Material Icon Theme](https://github.com/PKief/vscode-extension-material-icon-theme)! Used this as a great starting point for mapping icons to extensions/filenames.

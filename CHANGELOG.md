@@ -1,7 +1,10 @@
 # Change Log
 
+# 1.2.0 (January 07, 2017)
+  - Feature: Adding WebFolder and WebFolderExpanded icons for "wwwroot" folder.
+
 # 1.1.9 (November 15, 2016)
-  - Feature: Adding custom icons for Adobe Illustrator, Indesign, and Photoshop
+  - Feature: Adding custom icons for Adobe Illustrator, Indesign, and Photoshop.
 
 # 1.1.8 (November 4, 2016)
   - Change: Improving dark colorful colors to match Visual Studio's rendering.

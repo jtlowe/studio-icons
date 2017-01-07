@@ -803,6 +803,18 @@
             "fileNames": []
         },
         {
+            "iconPath": "WebFolder_16x.svg",
+            "folderNames": [
+                "wwwroot"
+            ]
+        },
+        {
+            "iconPath": "WebFolderOpen_16x.svg",
+            "folderNamesExpanded": [
+                "wwwroot"
+            ]
+        },
+        {
             "iconPath": "WebService_16x.svg",
             "fileExtensions": [
                 "asmx"

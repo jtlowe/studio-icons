@@ -194,6 +194,7 @@ module.exports = class IconGenerator {
             fileExtensions: {},
             fileNames: {},
             folderNames: {},
+            folderNamesExpanded: {},
             languageIds: {}
         };
 
@@ -238,6 +239,26 @@ module.exports = class IconGenerator {
                         : iconPath;
                 }
             }
+
+            if (icon.folderNames != void 0) {
+                for (var j = 0; j < icon.folderNames.length; j++) {
+                    var extension = icon.folderNames[j];
+
+                    theme.folderNames[extension] = postfix !== ''
+                        ? iconPath.replace('.svg', postfix)
+                        : iconPath;
+                }
+            }
+
+            if (icon.folderNamesExpanded != void 0) {
+                for (var j = 0; j < icon.folderNamesExpanded.length; j++) {
+                    var extension = icon.folderNamesExpanded[j];
+
+                    theme.folderNamesExpanded[extension] = postfix !== ''
+                        ? iconPath.replace('.svg', postfix)
+                        : iconPath;
+                }
+            }
         }
 
         return theme;
@@ -262,14 +283,14 @@ module.exports = class IconGenerator {
             }
         }
 
-        if (icon.folderNames != void 0) {
-            var length = icon.folderNames.length;
-            for (var i = 0; i < length; i++) {
-                var folderName = icon.folderNames[i];
-                var filePath = this.paths.testfolderNamesDestPath + folderName;
-                this.createTestFile(filePath);
-            }
-        }
+        // if (icon.folderNames != void 0) {
+        //     var length = icon.folderNames.length;
+        //     for (var i = 0; i < length; i++) {
+        //         var folderName = icon.folderNames[i];
+        //         var folderPath = this.paths.testfolderNamesDestPath + folderName;
+        //         this.createTestFolder(folderPath);
+        //     }
+        // }
 
         if (icon.languageIds != void 0) {
             var length = icon.languageIds.length;
@@ -288,6 +309,13 @@ module.exports = class IconGenerator {
             if (err) return console.log(err);
         });
 
+        return this;
+    }
+
+    createTestFolder(folderPath) {
+        if (!fs.existsSync(folderPath)) {
+            fs.mkdirSync(folderPath);
+        }
         return this;
     }
 

@@ -657,6 +657,24 @@
         "VisualStudioSettingFile_16x_contrast.svg": {
             "iconPath": "./images/VisualStudioSettingFile_16x_contrast.svg"
         },
+        "WebFolder_16x.svg": {
+            "iconPath": "./images/WebFolder_16x.svg"
+        },
+        "WebFolder_16x_inverse.svg": {
+            "iconPath": "./images/WebFolder_16x_inverse.svg"
+        },
+        "WebFolder_16x_contrast.svg": {
+            "iconPath": "./images/WebFolder_16x_contrast.svg"
+        },
+        "WebFolderOpen_16x.svg": {
+            "iconPath": "./images/WebFolderOpen_16x.svg"
+        },
+        "WebFolderOpen_16x_inverse.svg": {
+            "iconPath": "./images/WebFolderOpen_16x_inverse.svg"
+        },
+        "WebFolderOpen_16x_contrast.svg": {
+            "iconPath": "./images/WebFolderOpen_16x_contrast.svg"
+        },
         "WebService_16x.svg": {
             "iconPath": "./images/WebService_16x.svg"
         },
@@ -1025,7 +1043,13 @@
             "tslint.json": "TS_FileSENode_16x.svg",
             ".vbproj": "VBApplication_16x.svg"
         },
-        "folderNames": {},
+        "folderNames": {
+            "references": "FOR_TEST_ONLY",
+            "wwwroot": "WebFolder_16x.svg"
+        },
+        "folderNamesExpanded": {
+            "wwwroot": "WebFolderOpen_16x.svg"
+        },
         "languageIds": {},
         "folder": "Folder_16x.svg",
         "folderExpanded": "FolderOpen_16x.svg",
@@ -1335,7 +1359,13 @@
             "tslint.json": "TS_FileSENode_16x_contrast.svg",
             ".vbproj": "VBApplication_16x_contrast.svg"
         },
-        "folderNames": {},
+        "folderNames": {
+            "references": "FOR_TEST_ONLY",
+            "wwwroot": "WebFolder_16x_contrast.svg"
+        },
+        "folderNamesExpanded": {
+            "wwwroot": "WebFolderOpen_16x_contrast.svg"
+        },
         "languageIds": {},
         "folder": "Folder_16x_contrast.svg",
         "folderExpanded": "FolderOpen_16x_contrast.svg",
@@ -1644,7 +1674,13 @@
         "tslint.json": "TS_FileSENode_16x_inverse.svg",
         ".vbproj": "VBApplication_16x_inverse.svg"
     },
-    "folderNames": {},
+    "folderNames": {
+        "references": "FOR_TEST_ONLY",
+        "wwwroot": "WebFolder_16x_inverse.svg"
+    },
+    "folderNamesExpanded": {
+        "wwwroot": "WebFolderOpen_16x_inverse.svg"
+    },
     "languageIds": {},
     "folder": "Folder_16x_inverse.svg",
     "folderExpanded": "FolderOpen_16x_inverse.svg",

@@ -703,8 +703,7 @@
             "iconPath": "RustFile_16x.svg",
             "fileExtensions": [
                 "rs",
-                "rlib",
-                "rafto"
+                "rlib"
             ],
             "fileNames": []
         },

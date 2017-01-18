@@ -114,7 +114,6 @@
                 "pdf",
                 "ps",
                 "ptl",
-                "rs",
                 "scala",
                 "scm",
                 "sfd",
@@ -168,7 +167,8 @@
                 "indt",
                 "inml"
             ]
-        },        {
+        },
+        {
             "iconPath": "AdobeIllustrator_16x.svg",
             "fileExtensions": [
                 "ai"
@@ -696,6 +696,15 @@
             "iconPath": "RB_FileSENode_16x.svg",
             "fileExtensions": [
                 "rb"
+            ],
+            "fileNames": []
+        },
+        {
+            "iconPath": "RustFile_16x.svg",
+            "fileExtensions": [
+                "rs",
+                "rlib",
+                "rafto"
             ],
             "fileNames": []
         },

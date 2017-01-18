@@ -1,5 +1,8 @@
 # Change Log
 
+# 1.3.0 (January 19, 2017)
+  - Feature: Adding Rust icons for "rs" and "rlib" extensions.
+
 # 1.2.0 (January 07, 2017)
   - Feature: Adding WebFolder and WebFolderExpanded icons for "wwwroot" folder.
 

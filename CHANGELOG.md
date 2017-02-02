@@ -1,5 +1,8 @@
 # Change Log
 
+# 1.4.0 (February 02, 2017)
+  - Feature: Setting TOML file extension to use SettingsFile icon.
+
 # 1.3.0 (January 19, 2017)
   - Feature: Adding Rust icons for "rs" and "rlib" extensions.
 

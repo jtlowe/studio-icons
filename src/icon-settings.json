@@ -124,7 +124,6 @@
                 "swf",
                 "swift",
                 "tex",
-                "toml",
                 "vb",
                 "vue",
                 "yaml",
@@ -727,7 +726,8 @@
                 "asax",
                 "ini",
                 "dlc",
-                "dll"
+                "dll",
+                "toml"
             ],
             "fileNames": [
                 ".jshintignore",

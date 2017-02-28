@@ -686,6 +686,13 @@
             "fileNames": []
         },
         {
+            "iconPath": "PugScript_16x.svg",
+            "fileExtensions": [
+                "pug"
+            ],
+            "fileNames": []
+        },
+        {
             "iconPath": "PY_16x.svg",
             "fileExtensions": [
                 "py"

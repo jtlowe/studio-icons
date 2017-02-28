@@ -224,6 +224,7 @@
         {
             "iconPath": "CFile_16x_color.svg",
             "fileExtensions": [
+                "c",
                 "cc"
             ],
             "fileNames": []

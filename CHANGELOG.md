@@ -1,5 +1,9 @@
 # Change Log
 
+# 1.5.0 (February 27, 2017)
+  - Feature: Adding Pug file icon and associating it with .pug extension.
+  - Feature: Setting .c file extension to use CFile icon.
+
 # 1.4.0 (February 02, 2017)
   - Feature: Setting TOML file extension to use SettingsFile icon.
 

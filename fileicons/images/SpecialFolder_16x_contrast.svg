@@ -1,1 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><style>.icon-canvas-transparent{opacity:0;fill:#f6f6f6}.icon-vs-out{fill:#f6f6f6}.icon-vs-bg{fill:#FFFFFF}.icon-vs-fg{fill:#f0eff1}.icon-folder{fill:#dcb67a}</style><path class="icon-canvas-transparent" d="M16 0v16H0V0h16z" id="canvas"/><path class="icon-vs-out" d="M14.996 3.5v8c0 .827-.673 1.5-1.5 1.5H8.724c-.621 1.742-2.271 3-4.224 3-2.378 0-4.311-1.86-4.469-4.198A1.44 1.44 0 0 1 0 11.5v-10C0 .673.673 0 1.5 0h8.11l1 2h2.886c.827 0 1.5.673 1.5 1.5z" id="outline"/><g id="iconBg"><path class="icon-folder" d="M13.5 3H9.996l-1-2H1.504a.5.5 0 0 0-.5.5v7.202C1.829 7.673 3.081 7 4.5 7 6.981 7 9 9.019 9 11.5c0 .171-.032.334-.051.5H13.5a.5.5 0 0 0 .5-.5v-8a.5.5 0 0 0-.5-.5zM2.004 3V2h6.374l.5 1H2.004z"/><path class="icon-vs-bg" d="M4.5 8a3.5 3.5 0 1 0 0 7 3.5 3.5 0 0 0 0-7zM7 11.5a2.5 2.5 0 1 1-5 0 2.5 2.5 0 0 1 5 0zm-1 0a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0z"/></g><g id="iconFg"><path class="icon-vs-fg" d="M2 2h6.374l.5 1H2V2z"/></g></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve">
+<g id="outline">
+	<rect style="opacity:0;fill:#000000;" width="16" height="16"/>
+	<path style="fill:#000000;" d="M14.5,0H6.4l-1,2H2.5C1.7,2,1,2.7,1,3.5v5.2c-0.6,0.8-1,1.7-1,2.8C0,14,2,16,4.5,16
+		c2,0,3.6-1.3,4.2-3h5.8c0.8,0,1.5-0.7,1.5-1.5v-10C16,0.7,15.3,0,14.5,0z"/>
+</g>
+<g id="icon_x5F_bg">
+	<path style="fill:#FFFFFF;" d="M14.5,1H7L6,3H2.5C2.2,3,2,3.2,2,3.5v4.3C2.7,7.3,3.6,7,4.5,7C7,7,9,9,9,11.5c0,0.2,0,0.3-0.1,0.5
+		h5.6c0.3,0,0.5-0.2,0.5-0.5v-10C15,1.2,14.8,1,14.5,1z M14,3H7.5L8,2h0h6V3z"/>
+	<path style="fill:#FFFFFF;" d="M4.5,8C2.6,8,1,9.6,1,11.5C1,13.4,2.6,15,4.5,15S8,13.4,8,11.5C8,9.6,6.4,8,4.5,8z M7,11.5
+		C7,12.9,5.9,14,4.5,14S2,12.9,2,11.5S3.1,9,4.5,9S7,10.1,7,11.5z M6,11.5C6,12.3,5.3,13,4.5,13S3,12.3,3,11.5S3.7,10,4.5,10
+		S6,10.7,6,11.5z"/>
+</g>
+<g id="icon_x5F_fg">
+	<polygon style="fill:#000000;" points="14,2 14,3 7.5,3 8,2 	"/>
+</g>
+</svg>

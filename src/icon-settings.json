@@ -166,6 +166,7 @@
                 "yarn.lock"
             ],
             "folderNames": [
+                "properties",
                 "references",
                 "rootFolder",
                 "rootFolderExpanded",
@@ -724,7 +725,13 @@
                 "prop",
                 "props"
             ],
-            "fileNames": []
+            "fileNames": [],
+            "folderNames": [
+                "properties"
+            ],
+            "folderNamesExpanded": [
+                "properties"
+            ]
         },
         {
             "iconPath": "PugScript_16x.svg",
@@ -745,6 +752,9 @@
             "fileExtensions": [],
             "fileNames": [],
             "folderNames": [
+                "references"
+            ],
+            "folderNamesExpanded": [
                 "references"
             ]
         },
@@ -806,8 +816,8 @@
         },
         {
             "iconPath": "SpecialFolderOpen_16x.svg",
-            "folderNames": [
-                "rootFolderExpanded"
+            "folderNamesExpanded": [
+                "rootFolder"
             ]
         },        
         {

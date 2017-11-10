@@ -1,5 +1,5 @@
 # Studio Icons (Visual Studio Code Icon Theme)
-Featuring official icons from the [Visual Studio 2015 Image Library](https://msdn.microsoft.com/en-us/library/ms246582.aspx). These icons have been color optimized to work well for dark, light, and high contrast themes. I've tried to match Visual Studio's choice of icons as much as possible, and using other library icons for some files that would otherwise use the default file icon. I welcome any feedback or suggestions.
+Featuring official icons from the [Visual Studio Image Library](https://msdn.microsoft.com/en-us/library/ms246582.aspx). These icons have been color optimized to work well for dark, light, and high contrast themes. I've tried to match Visual Studio's choice of icons as much as possible, and using other library icons for some files that would otherwise use the default file icon. I welcome any feedback or suggestions.
 
 ## Icon Sample
 ![Preview](https://raw.githubusercontent.com/jtlowe/vscode-icon-theme/master/images/theme-samples.png?v=3)

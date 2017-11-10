@@ -1,8 +1,8 @@
 {
     "name": "vscode-icon-theme",
     "displayName": "Studio Icons",
-    "description": "Featuring official icons from the Visual Studio 2015 Image Library. Optimized to work well for dark, light, and high contrast themes.",
-    "version": "1.5.0",
+    "description": "Featuring official icons from the Visual Studio Image Library. Optimized to work well for dark, light, and high contrast themes.",
+    "version": "1.6.0",
     "publisher": "jtlowe",
     "license": "SEE LICENSE IN LICENSE.md",
     "engines": {

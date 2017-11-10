@@ -639,6 +639,24 @@
         "SitemapFile_16x_contrast.svg": {
             "iconPath": "./images/SitemapFile_16x_contrast.svg"
         },
+        "SpecialFolder_16x.svg": {
+            "iconPath": "./images/SpecialFolder_16x.svg"
+        },
+        "SpecialFolder_16x_inverse.svg": {
+            "iconPath": "./images/SpecialFolder_16x_inverse.svg"
+        },
+        "SpecialFolder_16x_contrast.svg": {
+            "iconPath": "./images/SpecialFolder_16x_contrast.svg"
+        },
+        "SpecialFolderOpen_16x.svg": {
+            "iconPath": "./images/SpecialFolderOpen_16x.svg"
+        },
+        "SpecialFolderOpen_16x_inverse.svg": {
+            "iconPath": "./images/SpecialFolderOpen_16x_inverse.svg"
+        },
+        "SpecialFolderOpen_16x_contrast.svg": {
+            "iconPath": "./images/SpecialFolderOpen_16x_contrast.svg"
+        },
         "StyleSheet_16x.svg": {
             "iconPath": "./images/StyleSheet_16x.svg"
         },
@@ -1108,6 +1126,8 @@
         },
         "folderNames": {
             "references": "Reference_16x.svg",
+            "rootFolder": "SpecialFolder_16x.svg",
+            "rootFolderExpanded": "SpecialFolderOpen_16x.svg",
             "wwwroot": "WebFolder_16x.svg"
         },
         "folderNamesExpanded": {
@@ -1433,6 +1453,8 @@
         },
         "folderNames": {
             "references": "Reference_16x_contrast.svg",
+            "rootFolder": "SpecialFolder_16x_contrast.svg",
+            "rootFolderExpanded": "SpecialFolderOpen_16x_contrast.svg",
             "wwwroot": "WebFolder_16x_contrast.svg"
         },
         "folderNamesExpanded": {
@@ -1757,6 +1779,8 @@
     },
     "folderNames": {
         "references": "Reference_16x_inverse.svg",
+        "rootFolder": "SpecialFolder_16x_inverse.svg",
+        "rootFolderExpanded": "SpecialFolderOpen_16x_inverse.svg",
         "wwwroot": "WebFolder_16x_inverse.svg"
     },
     "folderNamesExpanded": {

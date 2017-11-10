@@ -167,6 +167,8 @@
             ],
             "folderNames": [
                 "references",
+                "rootFolder",
+                "rootFolderExpanded",
                 "wwwroot"
             ]
         },
@@ -796,6 +798,18 @@
                 "sitemap"
             ]
         },
+        {
+            "iconPath": "SpecialFolder_16x.svg",
+            "folderNames": [
+                "rootFolder"
+            ]
+        },
+        {
+            "iconPath": "SpecialFolderOpen_16x.svg",
+            "folderNames": [
+                "rootFolderExpanded"
+            ]
+        },        
         {
             "iconPath": "StyleSheet_16x.svg",
             "fileExtensions": [

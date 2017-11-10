@@ -1,1 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><style>.st0{opacity:0}.st0,.st1{fill:#f6f6f6}.st2{fill:#FFFFFF}</style><g id="outline"><path class="st0" d="M0 0h16v16H0z"/><path class="st1" d="M16 3v9H8V9H6v2H0V4h6v2h2V3h8z"/></g><g id="icon_x5F_bg"><path class="st2" d="M1 5h4v5H1zM9 4h6v7H9zM6 7h2v1H6z"/></g></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve">
+<g id="outline">
+	<rect style="opacity:0;fill:#000000;" width="16" height="16"/>
+	<path style="fill:#000000;" d="M16,3v9H8V9H6v2H0V4h6v2h2V3H16z"/>
+</g>
+<g id="icon_x5F_bg">
+	<rect x="1" y="5" style="fill:#FFFFFF;" width="4" height="5"/>
+	<rect x="9" y="4" style="fill:#FFFFFF;" width="6" height="7"/>
+	<rect x="6" y="7" style="fill:#FFFFFF;" width="2" height="1"/>
+</g>
+</svg>

@@ -1,5 +1,10 @@
 # Change Log
 
+# 1.6.0 (November 10, 2017)
+  - Feature: Adding file icons for Assembler, Make, and PDF.
+  - Feature: Adding root folder icons for multi-root support.
+  - Change: Changed extension logo image to PNG version.
+
 # 1.5.0 (February 27, 2017)
   - Feature: Adding Pug file icon and associating it with .pug extension.
   - Feature: Setting .c file extension to use CFile icon.

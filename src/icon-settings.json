@@ -30,6 +30,8 @@
     "dark": {
         "folderExpanded": "FolderOpen_16x_inverse.svg",
         "folder": "Folder_16x_inverse.svg",
+        "rootFolder": "SpecialFolder_16x_inverse.svg",
+        "rootFolderExpanded": "SpecialFolderOpen_16x_inverse.svg",
         "file": "Document_16x_inverse.svg",
         "colors": {
             "background": "C5C5C5",
@@ -57,6 +59,8 @@
     "light": {
         "folderExpanded": "FolderOpen_16x.svg",
         "folder": "Folder_16x.svg",
+        "rootFolder": "SpecialFolder_16x.svg",
+        "rootFolderExpanded": "SpecialFolderOpen_16x.svg",
         "file": "Document_16x.svg",
         "colors": {
             "background": "656565",
@@ -66,6 +70,8 @@
     "contrast": {
         "folderExpanded": "FolderOpen_16x_contrast.svg",
         "folder": "Folder_16x_contrast.svg",
+        "rootFolder": "SpecialFolder_16x_contrast.svg",
+        "rootFolderExpanded": "SpecialFolderOpen_16x_contrast.svg",        
         "file": "Document_16x_contrast.svg",
         "colors": {
             "background": "FFFFFF",
@@ -215,6 +221,12 @@
             "fileNames": []
         },
         {
+            "iconPath": "AssemblerSourceFile_16x.svg",
+            "fileExtensions": [
+                "asm"
+            ],
+            "fileNames": []
+        },        {
             "iconPath": "BuildStyle_16x.svg",
             "fileExtensions": [
                 "styl"
@@ -562,6 +574,16 @@
             "fileNames": []
         },
         {
+            "iconPath": "MakeFile_16.svg",
+            "fileExtensions": [],
+            "fileNames": [
+                "mak",
+                "mk",
+                "GNUmakefile",
+                "makefile"
+            ]
+        },
+        {
             "iconPath": "MasterPage_16x.svg",
             "fileExtensions": [
                 "master"
@@ -670,6 +692,12 @@
             "fileNames": []
         },
         {
+            "iconPath": "PDFFile_16.svg",
+            "fileExtensions": [
+                "pdf"
+            ],
+            "fileNames": []
+        },{
             "iconPath": "PHPFile_16x.svg",
             "fileExtensions": [
                 "php"

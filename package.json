@@ -34,7 +34,7 @@
     "bugs": {
         "url": "https://github.com/jtlowe/studio-icons/issues"
     },
-    "icon": "images/logo.svg",
+    "icon": "images/logo.png",
     "galleryBanner": {
         "color": "#e0e0e0",
         "theme": "light"

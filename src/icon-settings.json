@@ -89,6 +89,7 @@
                 "c",
                 "cl",
                 "clj",
+                "cmake",
                 "d",
                 "di",
                 "el",
@@ -153,6 +154,10 @@
                 "gruntfile",
                 "gulpfile",
                 "install",
+                "GNUmakefile",
+                "mak",
+                "make",
+                "mk",
                 "makefile",
                 "package.json",
                 "readme",
@@ -161,7 +166,8 @@
                 "yarn.lock"
             ],
             "folderNames": [
-                "references"
+                "references",
+                "wwwroot"
             ]
         },
         {
@@ -574,12 +580,17 @@
             "fileNames": []
         },
         {
-            "iconPath": "MakeFile_16.svg",
-            "fileExtensions": [],
-            "fileNames": [
-                "mak",
+            "iconPath": "MakeFile_16x.svg",
+            "fileExtensions": [
+                "cmake",
+                "make",
                 "mk",
+                "nmake"
+            ],
+            "fileNames": [
                 "GNUmakefile",
+                "mak",
+                "make",
                 "makefile"
             ]
         },
@@ -692,7 +703,7 @@
             "fileNames": []
         },
         {
-            "iconPath": "PDFFile_16.svg",
+            "iconPath": "PDFFile_16x.svg",
             "fileExtensions": [
                 "pdf"
             ],
@@ -726,6 +737,14 @@
                 "py"
             ],
             "fileNames": []
+        },
+        {
+            "iconPath": "Reference_16x.svg",
+            "fileExtensions": [],
+            "fileNames": [],
+            "folderNames": [
+                "references"
+            ]
         },
         {
             "iconPath": "RB_FileSENode_16x.svg",

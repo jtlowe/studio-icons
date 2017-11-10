@@ -63,6 +63,15 @@
         "ASPXFile_16x_contrast.svg": {
             "iconPath": "./images/ASPXFile_16x_contrast.svg"
         },
+        "AssemblerSourceFile_16x.svg": {
+            "iconPath": "./images/AssemblerSourceFile_16x.svg"
+        },
+        "AssemblerSourceFile_16x_inverse.svg": {
+            "iconPath": "./images/AssemblerSourceFile_16x_inverse.svg"
+        },
+        "AssemblerSourceFile_16x_contrast.svg": {
+            "iconPath": "./images/AssemblerSourceFile_16x_contrast.svg"
+        },
         "BuildStyle_16x.svg": {
             "iconPath": "./images/BuildStyle_16x.svg"
         },
@@ -414,6 +423,15 @@
         "Mail_16x_contrast.svg": {
             "iconPath": "./images/Mail_16x_contrast.svg"
         },
+        "MakeFile_16x.svg": {
+            "iconPath": "./images/MakeFile_16x.svg"
+        },
+        "MakeFile_16x_inverse.svg": {
+            "iconPath": "./images/MakeFile_16x_inverse.svg"
+        },
+        "MakeFile_16x_contrast.svg": {
+            "iconPath": "./images/MakeFile_16x_contrast.svg"
+        },
         "MasterPage_16x.svg": {
             "iconPath": "./images/MasterPage_16x.svg"
         },
@@ -513,6 +531,15 @@
         "Parameter_16x_contrast.svg": {
             "iconPath": "./images/Parameter_16x_contrast.svg"
         },
+        "PDFFile_16x.svg": {
+            "iconPath": "./images/PDFFile_16x.svg"
+        },
+        "PDFFile_16x_inverse.svg": {
+            "iconPath": "./images/PDFFile_16x_inverse.svg"
+        },
+        "PDFFile_16x_contrast.svg": {
+            "iconPath": "./images/PDFFile_16x_contrast.svg"
+        },
         "PHPFile_16x.svg": {
             "iconPath": "./images/PHPFile_16x.svg"
         },
@@ -548,6 +575,15 @@
         },
         "PY_16x_contrast.svg": {
             "iconPath": "./images/PY_16x_contrast.svg"
+        },
+        "Reference_16x.svg": {
+            "iconPath": "./images/Reference_16x.svg"
+        },
+        "Reference_16x_inverse.svg": {
+            "iconPath": "./images/Reference_16x_inverse.svg"
+        },
+        "Reference_16x_contrast.svg": {
+            "iconPath": "./images/Reference_16x_contrast.svg"
         },
         "RB_FileSENode_16x.svg": {
             "iconPath": "./images/RB_FileSENode_16x.svg"
@@ -765,6 +801,7 @@
             "c": "CFile_16x_color.svg",
             "cl": "FOR_TEST_ONLY",
             "clj": "FOR_TEST_ONLY",
+            "cmake": "MakeFile_16x.svg",
             "d": "FOR_TEST_ONLY",
             "di": "FOR_TEST_ONLY",
             "el": "FOR_TEST_ONLY",
@@ -788,12 +825,12 @@
             "litcoffee": "FOR_TEST_ONLY",
             "lsp": "FOR_TEST_ONLY",
             "lua": "FOR_TEST_ONLY",
-            "make": "FOR_TEST_ONLY",
-            "mk": "FOR_TEST_ONLY",
+            "make": "MakeFile_16x.svg",
+            "mk": "MakeFile_16x.svg",
             "o": "FOR_TEST_ONLY",
             "otd": "FOR_TEST_ONLY",
             "patel": "FOR_TEST_ONLY",
-            "pdf": "FOR_TEST_ONLY",
+            "pdf": "PDFFile_16x.svg",
             "ps": "FOR_TEST_ONLY",
             "ptl": "FOR_TEST_ONLY",
             "scala": "FOR_TEST_ONLY",
@@ -827,6 +864,7 @@
             "aiff": "AudioOn_16x.svg",
             "asp": "ASPXFile_16x.svg",
             "aspx": "ASPXFile_16x.svg",
+            "asm": "AssemblerSourceFile_16x.svg",
             "styl": "BuildStyle_16x.svg",
             "cc": "CFile_16x_color.svg",
             "cpp": "CPP_16x.svg",
@@ -921,6 +959,7 @@
             "lock": "Lock_16x.svg",
             "ics": "Mail_16x.svg",
             "mailmap": "Mail_16x.svg",
+            "nmake": "MakeFile_16x.svg",
             "master": "MasterPage_16x.svg",
             "webm": "Media_16x.svg",
             "mkv": "Media_16x.svg",
@@ -1030,7 +1069,11 @@
             "gruntfile": "FOR_TEST_ONLY",
             "gulpfile": "FOR_TEST_ONLY",
             "install": "FOR_TEST_ONLY",
-            "makefile": "FOR_TEST_ONLY",
+            "GNUmakefile": "MakeFile_16x.svg",
+            "mak": "MakeFile_16x.svg",
+            "make": "MakeFile_16x.svg",
+            "mk": "FOR_TEST_ONLY",
+            "makefile": "MakeFile_16x.svg",
             "package.json": "NodeJS_16x.svg",
             "readme": "FOR_TEST_ONLY",
             "readme.md": "FOR_TEST_ONLY",
@@ -1064,7 +1107,7 @@
             ".vbproj": "VBApplication_16x.svg"
         },
         "folderNames": {
-            "references": "FOR_TEST_ONLY",
+            "references": "Reference_16x.svg",
             "wwwroot": "WebFolder_16x.svg"
         },
         "folderNamesExpanded": {
@@ -1083,6 +1126,7 @@
             "c": "CFile_16x_color_contrast.svg",
             "cl": "FOR_TEST_ONLY",
             "clj": "FOR_TEST_ONLY",
+            "cmake": "MakeFile_16x_contrast.svg",
             "d": "FOR_TEST_ONLY",
             "di": "FOR_TEST_ONLY",
             "el": "FOR_TEST_ONLY",
@@ -1106,12 +1150,12 @@
             "litcoffee": "FOR_TEST_ONLY",
             "lsp": "FOR_TEST_ONLY",
             "lua": "FOR_TEST_ONLY",
-            "make": "FOR_TEST_ONLY",
-            "mk": "FOR_TEST_ONLY",
+            "make": "MakeFile_16x_contrast.svg",
+            "mk": "MakeFile_16x_contrast.svg",
             "o": "FOR_TEST_ONLY",
             "otd": "FOR_TEST_ONLY",
             "patel": "FOR_TEST_ONLY",
-            "pdf": "FOR_TEST_ONLY",
+            "pdf": "PDFFile_16x_contrast.svg",
             "ps": "FOR_TEST_ONLY",
             "ptl": "FOR_TEST_ONLY",
             "scala": "FOR_TEST_ONLY",
@@ -1145,6 +1189,7 @@
             "aiff": "AudioOn_16x_contrast.svg",
             "asp": "ASPXFile_16x_contrast.svg",
             "aspx": "ASPXFile_16x_contrast.svg",
+            "asm": "AssemblerSourceFile_16x_contrast.svg",
             "styl": "BuildStyle_16x_contrast.svg",
             "cc": "CFile_16x_color_contrast.svg",
             "cpp": "CPP_16x_contrast.svg",
@@ -1239,6 +1284,7 @@
             "lock": "Lock_16x_contrast.svg",
             "ics": "Mail_16x_contrast.svg",
             "mailmap": "Mail_16x_contrast.svg",
+            "nmake": "MakeFile_16x_contrast.svg",
             "master": "MasterPage_16x_contrast.svg",
             "webm": "Media_16x_contrast.svg",
             "mkv": "Media_16x_contrast.svg",
@@ -1348,7 +1394,11 @@
             "gruntfile": "FOR_TEST_ONLY",
             "gulpfile": "FOR_TEST_ONLY",
             "install": "FOR_TEST_ONLY",
-            "makefile": "FOR_TEST_ONLY",
+            "GNUmakefile": "MakeFile_16x_contrast.svg",
+            "mak": "MakeFile_16x_contrast.svg",
+            "make": "MakeFile_16x_contrast.svg",
+            "mk": "FOR_TEST_ONLY",
+            "makefile": "MakeFile_16x_contrast.svg",
             "package.json": "NodeJS_16x_contrast.svg",
             "readme": "FOR_TEST_ONLY",
             "readme.md": "FOR_TEST_ONLY",
@@ -1382,7 +1432,7 @@
             ".vbproj": "VBApplication_16x_contrast.svg"
         },
         "folderNames": {
-            "references": "FOR_TEST_ONLY",
+            "references": "Reference_16x_contrast.svg",
             "wwwroot": "WebFolder_16x_contrast.svg"
         },
         "folderNamesExpanded": {
@@ -1400,6 +1450,7 @@
         "c": "CFile_16x_color_inverse.svg",
         "cl": "FOR_TEST_ONLY",
         "clj": "FOR_TEST_ONLY",
+        "cmake": "MakeFile_16x_inverse.svg",
         "d": "FOR_TEST_ONLY",
         "di": "FOR_TEST_ONLY",
         "el": "FOR_TEST_ONLY",
@@ -1423,12 +1474,12 @@
         "litcoffee": "FOR_TEST_ONLY",
         "lsp": "FOR_TEST_ONLY",
         "lua": "FOR_TEST_ONLY",
-        "make": "FOR_TEST_ONLY",
-        "mk": "FOR_TEST_ONLY",
+        "make": "MakeFile_16x_inverse.svg",
+        "mk": "MakeFile_16x_inverse.svg",
         "o": "FOR_TEST_ONLY",
         "otd": "FOR_TEST_ONLY",
         "patel": "FOR_TEST_ONLY",
-        "pdf": "FOR_TEST_ONLY",
+        "pdf": "PDFFile_16x_inverse.svg",
         "ps": "FOR_TEST_ONLY",
         "ptl": "FOR_TEST_ONLY",
         "scala": "FOR_TEST_ONLY",
@@ -1462,6 +1513,7 @@
         "aiff": "AudioOn_16x_inverse.svg",
         "asp": "ASPXFile_16x_inverse.svg",
         "aspx": "ASPXFile_16x_inverse.svg",
+        "asm": "AssemblerSourceFile_16x_inverse.svg",
         "styl": "BuildStyle_16x_inverse.svg",
         "cc": "CFile_16x_color_inverse.svg",
         "cpp": "CPP_16x_inverse.svg",
@@ -1556,6 +1608,7 @@
         "lock": "Lock_16x_inverse.svg",
         "ics": "Mail_16x_inverse.svg",
         "mailmap": "Mail_16x_inverse.svg",
+        "nmake": "MakeFile_16x_inverse.svg",
         "master": "MasterPage_16x_inverse.svg",
         "webm": "Media_16x_inverse.svg",
         "mkv": "Media_16x_inverse.svg",
@@ -1665,7 +1718,11 @@
         "gruntfile": "FOR_TEST_ONLY",
         "gulpfile": "FOR_TEST_ONLY",
         "install": "FOR_TEST_ONLY",
-        "makefile": "FOR_TEST_ONLY",
+        "GNUmakefile": "MakeFile_16x_inverse.svg",
+        "mak": "MakeFile_16x_inverse.svg",
+        "make": "MakeFile_16x_inverse.svg",
+        "mk": "FOR_TEST_ONLY",
+        "makefile": "MakeFile_16x_inverse.svg",
         "package.json": "NodeJS_16x_inverse.svg",
         "readme": "FOR_TEST_ONLY",
         "readme.md": "FOR_TEST_ONLY",
@@ -1699,7 +1756,7 @@
         ".vbproj": "VBApplication_16x_inverse.svg"
     },
     "folderNames": {
-        "references": "FOR_TEST_ONLY",
+        "references": "Reference_16x_inverse.svg",
         "wwwroot": "WebFolder_16x_inverse.svg"
     },
     "folderNamesExpanded": {

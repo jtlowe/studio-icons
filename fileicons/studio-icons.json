@@ -1125,12 +1125,16 @@
             ".vbproj": "VBApplication_16x.svg"
         },
         "folderNames": {
+            "properties": "Property_16x.svg",
             "references": "Reference_16x.svg",
             "rootFolder": "SpecialFolder_16x.svg",
-            "rootFolderExpanded": "SpecialFolderOpen_16x.svg",
+            "rootFolderExpanded": "FOR_TEST_ONLY",
             "wwwroot": "WebFolder_16x.svg"
         },
         "folderNamesExpanded": {
+            "properties": "Property_16x.svg",
+            "references": "Reference_16x.svg",
+            "rootFolder": "SpecialFolderOpen_16x.svg",
             "wwwroot": "WebFolderOpen_16x.svg"
         },
         "languageIds": {},
@@ -1452,12 +1456,16 @@
             ".vbproj": "VBApplication_16x_contrast.svg"
         },
         "folderNames": {
+            "properties": "Property_16x_contrast.svg",
             "references": "Reference_16x_contrast.svg",
             "rootFolder": "SpecialFolder_16x_contrast.svg",
-            "rootFolderExpanded": "SpecialFolderOpen_16x_contrast.svg",
+            "rootFolderExpanded": "FOR_TEST_ONLY",
             "wwwroot": "WebFolder_16x_contrast.svg"
         },
         "folderNamesExpanded": {
+            "properties": "Property_16x_contrast.svg",
+            "references": "Reference_16x_contrast.svg",
+            "rootFolder": "SpecialFolderOpen_16x_contrast.svg",
             "wwwroot": "WebFolderOpen_16x_contrast.svg"
         },
         "languageIds": {},
@@ -1778,12 +1786,16 @@
         ".vbproj": "VBApplication_16x_inverse.svg"
     },
     "folderNames": {
+        "properties": "Property_16x_inverse.svg",
         "references": "Reference_16x_inverse.svg",
         "rootFolder": "SpecialFolder_16x_inverse.svg",
-        "rootFolderExpanded": "SpecialFolderOpen_16x_inverse.svg",
+        "rootFolderExpanded": "FOR_TEST_ONLY",
         "wwwroot": "WebFolder_16x_inverse.svg"
     },
     "folderNamesExpanded": {
+        "properties": "Property_16x_inverse.svg",
+        "references": "Reference_16x_inverse.svg",
+        "rootFolder": "SpecialFolderOpen_16x_inverse.svg",
         "wwwroot": "WebFolderOpen_16x_inverse.svg"
     },
     "languageIds": {},

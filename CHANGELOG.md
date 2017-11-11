@@ -1,5 +1,8 @@
 # Change Log
 
+# 1.6.1 (November 11, 2017)
+  - Fix: Root folder icons were not showing.
+
 # 1.6.0 (November 10, 2017)
   - Feature: Adding file icons for Assembler, Make, and PDF.
   - Feature: Adding root folder icons for multi-root support.

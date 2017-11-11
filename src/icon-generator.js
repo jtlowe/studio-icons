@@ -201,18 +201,24 @@ module.exports = class IconGenerator {
         if (type == 'light') {
             theme.folder = settings.light.folder;
             theme.folderExpanded = settings.light.folderExpanded;
+            theme.rootFolder = settings.light.rootFolder;
+            theme.rootFolderExpanded = settings.light.rootFolderExpanded;
             theme.file = settings.light.file;
         }
         else if (type == 'contrast') {
             postfix = '_contrast.svg'
             theme.folder = settings.contrast.folder;
             theme.folderExpanded = settings.contrast.folderExpanded;
+            theme.rootFolder = settings.contrast.rootFolder;
+            theme.rootFolderExpanded = settings.contrast.rootFolderExpanded;
             theme.file = settings.contrast.file;
         }
         else if (type === 'dark') {
             postfix = '_inverse.svg'
             theme.folder = settings.dark.folder;
             theme.folderExpanded = settings.dark.folderExpanded;
+            theme.rootFolder = settings.dark.rootFolder;
+            theme.rootFolderExpanded = settings.dark.rootFolderExpanded;
             theme.file = settings.dark.file;
         }
 

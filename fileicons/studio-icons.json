@@ -1128,7 +1128,6 @@
             "properties": "Property_16x.svg",
             "references": "Reference_16x.svg",
             "rootFolder": "SpecialFolder_16x.svg",
-            "rootFolderExpanded": "FOR_TEST_ONLY",
             "wwwroot": "WebFolder_16x.svg"
         },
         "folderNamesExpanded": {
@@ -1140,6 +1139,8 @@
         "languageIds": {},
         "folder": "Folder_16x.svg",
         "folderExpanded": "FolderOpen_16x.svg",
+        "rootFolder": "SpecialFolder_16x.svg",
+        "rootFolderExpanded": "SpecialFolderOpen_16x.svg",
         "file": "Document_16x.svg"
     },
     "highContrast": {
@@ -1459,7 +1460,6 @@
             "properties": "Property_16x_contrast.svg",
             "references": "Reference_16x_contrast.svg",
             "rootFolder": "SpecialFolder_16x_contrast.svg",
-            "rootFolderExpanded": "FOR_TEST_ONLY",
             "wwwroot": "WebFolder_16x_contrast.svg"
         },
         "folderNamesExpanded": {
@@ -1471,6 +1471,8 @@
         "languageIds": {},
         "folder": "Folder_16x_contrast.svg",
         "folderExpanded": "FolderOpen_16x_contrast.svg",
+        "rootFolder": "SpecialFolder_16x_contrast.svg",
+        "rootFolderExpanded": "SpecialFolderOpen_16x_contrast.svg",
         "file": "Document_16x_contrast.svg"
     },
     "fileExtensions": {
@@ -1789,7 +1791,6 @@
         "properties": "Property_16x_inverse.svg",
         "references": "Reference_16x_inverse.svg",
         "rootFolder": "SpecialFolder_16x_inverse.svg",
-        "rootFolderExpanded": "FOR_TEST_ONLY",
         "wwwroot": "WebFolder_16x_inverse.svg"
     },
     "folderNamesExpanded": {
@@ -1801,5 +1802,7 @@
     "languageIds": {},
     "folder": "Folder_16x_inverse.svg",
     "folderExpanded": "FolderOpen_16x_inverse.svg",
+    "rootFolder": "SpecialFolder_16x_inverse.svg",
+    "rootFolderExpanded": "SpecialFolderOpen_16x_inverse.svg",
     "file": "Document_16x_inverse.svg"
 }

@@ -231,7 +231,8 @@
         {
             "iconPath": "AssemblerSourceFile_16x.svg",
             "fileExtensions": [
-                "asm"
+                "asm",
+                "s"
             ],
             "fileNames": []
         },        {

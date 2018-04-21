@@ -154,7 +154,6 @@
                 "gruntfile",
                 "gulpfile",
                 "install",
-                "GNUmakefile",
                 "mak",
                 "make",
                 "mk",
@@ -235,7 +234,8 @@
                 "s"
             ],
             "fileNames": []
-        },        {
+        },
+        {
             "iconPath": "BuildStyle_16x.svg",
             "fileExtensions": [
                 "styl"
@@ -310,7 +310,7 @@
         {
             "iconPath": "CPPApplication_16x.svg",
             "fileExtensions": [
-                ".vcxproj"
+                "vcxproj"
             ],
             "fileNames": [
                 ".vcxproj"
@@ -593,8 +593,8 @@
                 "nmake"
             ],
             "fileNames": [
-                "CMakeLists.txt",
-                "GNUmakefile",
+                "cmakelists.txt",
+                "gnumakefile",
                 "mak",
                 "make",
                 "makefile"

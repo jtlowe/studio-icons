@@ -1,5 +1,8 @@
 # Change Log
 
+# 1.6.2 (April 20, 2018)
+  - Feature: Adding .s file to Assembler icon.
+
 # 1.6.1 (November 11, 2017)
   - Fix: Root folder icons were not showing.
 

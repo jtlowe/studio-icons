@@ -593,6 +593,7 @@
                 "nmake"
             ],
             "fileNames": [
+                "CMakeLists.txt",
                 "cmakelists.txt",
                 "gnumakefile",
                 "mak",

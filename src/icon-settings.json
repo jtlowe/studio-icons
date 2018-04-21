@@ -71,7 +71,7 @@
         "folderExpanded": "FolderOpen_16x_contrast.svg",
         "folder": "Folder_16x_contrast.svg",
         "rootFolder": "SpecialFolder_16x_contrast.svg",
-        "rootFolderExpanded": "SpecialFolderOpen_16x_contrast.svg",        
+        "rootFolderExpanded": "SpecialFolderOpen_16x_contrast.svg",
         "file": "Document_16x_contrast.svg",
         "colors": {
             "background": "FFFFFF",
@@ -309,7 +309,9 @@
         },
         {
             "iconPath": "CPPApplication_16x.svg",
-            "fileExtensions": [],
+            "fileExtensions": [
+                ".vcxproj"
+            ],
             "fileNames": [
                 ".vcxproj"
             ]
@@ -591,6 +593,7 @@
                 "nmake"
             ],
             "fileNames": [
+                "CMakeLists.txt",
                 "GNUmakefile",
                 "mak",
                 "make",
@@ -819,7 +822,7 @@
             "folderNamesExpanded": [
                 "rootFolder"
             ]
-        },        
+        },
         {
             "iconPath": "StyleSheet_16x.svg",
             "fileExtensions": [

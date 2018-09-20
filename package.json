@@ -1,45 +1,45 @@
 {
-    "name": "vscode-icon-theme",
-    "displayName": "Studio Icons",
-    "description": "Featuring official icons from the Visual Studio Image Library. Optimized to work well for dark, light, and high contrast themes.",
-    "version": "1.6.2",
-    "publisher": "jtlowe",
-    "license": "SEE LICENSE IN LICENSE.md",
-    "engines": {
-        "vscode": "^1.5.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "iconThemes": [
-            {
-                "id": "vscode-icon-theme",
-                "label": "Studio Icons",
-                "path": "fileicons/studio-icons.json"
-            }
-        ]
-    },
-    "keywords": [
-        "icons",
-        "theme",
-        "icon-theme",
-        "customization"
-    ],
-    "homepage": "https://github.com/jtlowe/studio-icons/blob/master/README.md",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/jtlowe/studio-icons.git"
-    },
-    "bugs": {
-        "url": "https://github.com/jtlowe/studio-icons/issues"
-    },
-    "icon": "images/logo.png",
-    "galleryBanner": {
-        "color": "#e0e0e0",
-        "theme": "light"
-    },
-    "dependencies": {
-        "gulp": "^3.9.1"
-    }
+	"name": "vscode-icon-theme",
+	"displayName": "Studio Icons",
+	"description": "Featuring official icons from the Visual Studio Image Library. Optimized to work well for dark, light, and high contrast themes.",
+	"version": "1.6.3",
+	"publisher": "jtlowe",
+	"license": "SEE LICENSE IN LICENSE.md",
+	"engines": {
+		"vscode": "^1.5.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"iconThemes": [
+			{
+				"id": "vscode-icon-theme",
+				"label": "Studio Icons",
+				"path": "fileicons/studio-icons.json"
+			}
+		]
+	},
+	"keywords": [
+		"icons",
+		"theme",
+		"icon-theme",
+		"customization"
+	],
+	"homepage": "https://github.com/jtlowe/studio-icons/blob/master/README.md",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/jtlowe/studio-icons.git"
+	},
+	"bugs": {
+		"url": "https://github.com/jtlowe/studio-icons/issues"
+	},
+	"icon": "images/logo.png",
+	"galleryBanner": {
+		"color": "#e0e0e0",
+		"theme": "light"
+	},
+	"dependencies": {
+		"gulp": "^3.9.1"
+	}
 }

@@ -1,5 +1,8 @@
 # Change Log
 
+# 1.6.3 (September, 20, 2018)
+  - Fix: CSApplication icon is now used for .csproj file extensions instead of file name.
+
 # 1.6.2 (April 20, 2018)
   - Feature: Adding .s file to Assembler icon.
 

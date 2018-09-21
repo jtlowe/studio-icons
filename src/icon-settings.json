@@ -311,9 +311,6 @@
 			"iconPath": "CPPApplication_16x.svg",
 			"fileExtensions": [
 				"vcxproj"
-			],
-			"fileNames": [
-				".vcxproj"
 			]
 		},
 		{
@@ -375,7 +372,13 @@
 		{
 			"iconPath": "FS_16x.svg",
 			"fileExtensions": [
-				"fs",
+				"fs"
+			],
+			"fileNames": []
+		},
+		{
+			"iconPath": "FSApplication_16x.svg",
+			"fileExtensions": [
 				"fsproj"
 			],
 			"fileNames": []
@@ -410,13 +413,6 @@
 				"mrf"
 			],
 			"fileNames": []
-		},
-		{
-			"iconPath": "FSApplication_16x.svg",
-			"fileExtensions": [],
-			"fileNames": [
-				".fsproj"
-			]
 		},
 		{
 			"iconPath": "GitLogo_16x.svg",
@@ -870,9 +866,8 @@
 		},
 		{
 			"iconPath": "VBApplication_16x.svg",
-			"fileExtensions": [],
-			"fileNames": [
-				".vbproj"
+			"fileExtensions": [
+				"vbproj"
 			]
 		},
 		{

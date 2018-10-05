@@ -1,5 +1,9 @@
 # Change Log
 
+# 1.6.4 (October, 5, 2018)
+  - Fix: .fsproj, .vbproj and .vcxproj file extensions
+  - Change: Prefixing test extension files with 'test' to help debugging icon issues
+
 # 1.6.3 (September, 20, 2018)
   - Fix: CSApplication icon is now used for .csproj file extensions instead of file name.
 

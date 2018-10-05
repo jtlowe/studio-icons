@@ -1,40 +1,41 @@
-# Change Log
+## 1.6.5 (October, 5, 2018)
+  - Change: Using underscore as prefix for test extension filenames
 
-# 1.6.4 (October, 5, 2018)
-  - Fix: .fsproj, .vbproj and .vcxproj file extensions
+## 1.6.4 (October, 5, 2018)
+  - Fix: .fsproj, .vbproj and .vcxproj file extensions. Thanks [@christofferjerrebo](https://github.com/christofferjerrebo)!
   - Change: Prefixing test extension files with 'test' to help debugging icon issues
 
-# 1.6.3 (September, 20, 2018)
+## 1.6.3 (September, 20, 2018)
   - Fix: CSApplication icon is now used for .csproj file extensions instead of file name.
 
-# 1.6.2 (April 20, 2018)
+## 1.6.2 (April 20, 2018)
   - Feature: Adding .s file to Assembler icon.
 
-# 1.6.1 (November 11, 2017)
+## 1.6.1 (November 11, 2017)
   - Fix: Root folder icons were not showing.
 
-# 1.6.0 (November 10, 2017)
+## 1.6.0 (November 10, 2017)
   - Feature: Adding file icons for Assembler, Make, and PDF.
   - Feature: Adding root folder icons for multi-root support.
   - Change: Changed extension logo image to PNG version.
 
-# 1.5.0 (February 27, 2017)
+## 1.5.0 (February 27, 2017)
   - Feature: Adding Pug file icon and associating it with .pug extension.
   - Feature: Setting .c file extension to use CFile icon.
 
-# 1.4.0 (February 02, 2017)
+## 1.4.0 (February 02, 2017)
   - Feature: Setting TOML file extension to use SettingsFile icon.
 
-# 1.3.0 (January 19, 2017)
+## 1.3.0 (January 19, 2017)
   - Feature: Adding Rust icons for "rs" and "rlib" extensions.
 
-# 1.2.0 (January 07, 2017)
+## 1.2.0 (January 07, 2017)
   - Feature: Adding WebFolder and WebFolderExpanded icons for "wwwroot" folder.
 
-# 1.1.9 (November 15, 2016)
+## 1.1.9 (November 15, 2016)
   - Feature: Adding custom icons for Adobe Illustrator, Indesign, and Photoshop.
 
-# 1.1.8 (November 4, 2016)
+## 1.1.8 (November 4, 2016)
   - Change: Improving dark colorful colors to match Visual Studio's rendering.
   - Change: Bringing Office icons in line with high contrast theme.
   - Change: Slight change to JSON icon's small oval for better rendering in VS Code.

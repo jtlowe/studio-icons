@@ -234,6 +234,15 @@
         "FS_16x_contrast.svg": {
             "iconPath": "./images/FS_16x_contrast.svg"
         },
+        "FSApplication_16x.svg": {
+            "iconPath": "./images/FSApplication_16x.svg"
+        },
+        "FSApplication_16x_inverse.svg": {
+            "iconPath": "./images/FSApplication_16x_inverse.svg"
+        },
+        "FSApplication_16x_contrast.svg": {
+            "iconPath": "./images/FSApplication_16x_contrast.svg"
+        },
         "FolderOpen_16x.svg": {
             "iconPath": "./images/FolderOpen_16x.svg"
         },
@@ -260,15 +269,6 @@
         },
         "Font_16x_contrast.svg": {
             "iconPath": "./images/Font_16x_contrast.svg"
-        },
-        "FSApplication_16x.svg": {
-            "iconPath": "./images/FSApplication_16x.svg"
-        },
-        "FSApplication_16x_inverse.svg": {
-            "iconPath": "./images/FSApplication_16x_inverse.svg"
-        },
-        "FSApplication_16x_contrast.svg": {
-            "iconPath": "./images/FSApplication_16x_contrast.svg"
         },
         "GitLogo_16x.svg": {
             "iconPath": "./images/GitLogo_16x.svg"
@@ -911,7 +911,7 @@
             "manifest": "ExtensionManagerManifest_16x.svg",
             "resx": "FileGroup_16x.svg",
             "fs": "FS_16x.svg",
-            "fsproj": "FS_16x.svg",
+            "fsproj": "FSApplication_16x.svg",
             "woff": "Font_16x.svg",
             "woff2": "Font_16x.svg",
             "ttf": "Font_16x.svg",
@@ -1049,6 +1049,7 @@
             "rtf": "Text_16x.svg",
             "md": "TextFile_16x.svg",
             "md.rendered": "TextFile_16x.svg",
+            "vbproj": "VBApplication_16x.svg",
             "vdi": "VirtualMachine_16x.svg",
             "vbox": "VirtualMachine_16x.svg",
             "vbox-prev": "VirtualMachine_16x.svg",
@@ -1105,9 +1106,7 @@
             "license.md.rendered": "Certificate_16x.svg",
             "license.txt": "Certificate_16x.svg",
             ".editorconfig": "ConfigurationFile_16x.svg",
-            ".vcxproj": "CPPApplication_16x.svg",
             "dub.sdl": "CPPATLWebService_16x.svg",
-            ".fsproj": "FSApplication_16x.svg",
             ".gitignore": "GitLogo_16x.svg",
             ".gitconfig": "GitLogo_16x.svg",
             ".gitattributes": "GitLogo_16x.svg",
@@ -1125,8 +1124,7 @@
             "procfile": "SettingsFile_16x.svg",
             ".buildignore": "SettingsFile_16x.svg",
             "tsconfig.json": "TS_FileSENode_16x.svg",
-            "tslint.json": "TS_FileSENode_16x.svg",
-            ".vbproj": "VBApplication_16x.svg"
+            "tslint.json": "TS_FileSENode_16x.svg"
         },
         "folderNames": {
             "properties": "Property_16x.svg",
@@ -1247,7 +1245,7 @@
             "manifest": "ExtensionManagerManifest_16x_contrast.svg",
             "resx": "FileGroup_16x_contrast.svg",
             "fs": "FS_16x_contrast.svg",
-            "fsproj": "FS_16x_contrast.svg",
+            "fsproj": "FSApplication_16x_contrast.svg",
             "woff": "Font_16x_contrast.svg",
             "woff2": "Font_16x_contrast.svg",
             "ttf": "Font_16x_contrast.svg",
@@ -1385,6 +1383,7 @@
             "rtf": "Text_16x_contrast.svg",
             "md": "TextFile_16x_contrast.svg",
             "md.rendered": "TextFile_16x_contrast.svg",
+            "vbproj": "VBApplication_16x_contrast.svg",
             "vdi": "VirtualMachine_16x_contrast.svg",
             "vbox": "VirtualMachine_16x_contrast.svg",
             "vbox-prev": "VirtualMachine_16x_contrast.svg",
@@ -1441,9 +1440,7 @@
             "license.md.rendered": "Certificate_16x_contrast.svg",
             "license.txt": "Certificate_16x_contrast.svg",
             ".editorconfig": "ConfigurationFile_16x_contrast.svg",
-            ".vcxproj": "CPPApplication_16x_contrast.svg",
             "dub.sdl": "CPPATLWebService_16x_contrast.svg",
-            ".fsproj": "FSApplication_16x_contrast.svg",
             ".gitignore": "GitLogo_16x_contrast.svg",
             ".gitconfig": "GitLogo_16x_contrast.svg",
             ".gitattributes": "GitLogo_16x_contrast.svg",
@@ -1461,8 +1458,7 @@
             "procfile": "SettingsFile_16x_contrast.svg",
             ".buildignore": "SettingsFile_16x_contrast.svg",
             "tsconfig.json": "TS_FileSENode_16x_contrast.svg",
-            "tslint.json": "TS_FileSENode_16x_contrast.svg",
-            ".vbproj": "VBApplication_16x_contrast.svg"
+            "tslint.json": "TS_FileSENode_16x_contrast.svg"
         },
         "folderNames": {
             "properties": "Property_16x_contrast.svg",
@@ -1582,7 +1578,7 @@
         "manifest": "ExtensionManagerManifest_16x_inverse.svg",
         "resx": "FileGroup_16x_inverse.svg",
         "fs": "FS_16x_inverse.svg",
-        "fsproj": "FS_16x_inverse.svg",
+        "fsproj": "FSApplication_16x_inverse.svg",
         "woff": "Font_16x_inverse.svg",
         "woff2": "Font_16x_inverse.svg",
         "ttf": "Font_16x_inverse.svg",
@@ -1720,6 +1716,7 @@
         "rtf": "Text_16x_inverse.svg",
         "md": "TextFile_16x_inverse.svg",
         "md.rendered": "TextFile_16x_inverse.svg",
+        "vbproj": "VBApplication_16x_inverse.svg",
         "vdi": "VirtualMachine_16x_inverse.svg",
         "vbox": "VirtualMachine_16x_inverse.svg",
         "vbox-prev": "VirtualMachine_16x_inverse.svg",
@@ -1776,9 +1773,7 @@
         "license.md.rendered": "Certificate_16x_inverse.svg",
         "license.txt": "Certificate_16x_inverse.svg",
         ".editorconfig": "ConfigurationFile_16x_inverse.svg",
-        ".vcxproj": "CPPApplication_16x_inverse.svg",
         "dub.sdl": "CPPATLWebService_16x_inverse.svg",
-        ".fsproj": "FSApplication_16x_inverse.svg",
         ".gitignore": "GitLogo_16x_inverse.svg",
         ".gitconfig": "GitLogo_16x_inverse.svg",
         ".gitattributes": "GitLogo_16x_inverse.svg",
@@ -1796,8 +1791,7 @@
         "procfile": "SettingsFile_16x_inverse.svg",
         ".buildignore": "SettingsFile_16x_inverse.svg",
         "tsconfig.json": "TS_FileSENode_16x_inverse.svg",
-        "tslint.json": "TS_FileSENode_16x_inverse.svg",
-        ".vbproj": "VBApplication_16x_inverse.svg"
+        "tslint.json": "TS_FileSENode_16x_inverse.svg"
     },
     "folderNames": {
         "properties": "Property_16x_inverse.svg",

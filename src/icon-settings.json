@@ -269,7 +269,8 @@
 		{
 			"iconPath": "CS_16x.svg",
 			"fileExtensions": [
-				"cs"
+				"cs",
+				"csx"
 			],
 			"fileNames": []
 		},
@@ -700,7 +701,8 @@
 		{
 			"iconPath": "Parameter_16x.svg",
 			"fileExtensions": [
-				"cshtml"
+				"cshtml",
+				"razor"
 			],
 			"fileNames": []
 		},

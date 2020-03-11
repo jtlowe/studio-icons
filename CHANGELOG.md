@@ -1,11 +1,15 @@
-## 1.6.5 (October, 5, 2018)
+## 1.6.6 (March 11, 2020)
+  - Feature: Adding .csx file extension to CS icon. Thanks [@AdrianWilczynski](https://github.com/AdrianWilczynski)! 
+  - Feature: Adding .razor file extension to Parameter icon. Thanks [@AdrianWilczynski](https://github.com/AdrianWilczynski)! 
+  
+## 1.6.5 (October 5, 2018)
   - Change: Using underscore as prefix for test extension filenames
 
-## 1.6.4 (October, 5, 2018)
+## 1.6.4 (October 5, 2018)
   - Fix: .fsproj, .vbproj and .vcxproj file extensions. Thanks [@christofferjerrebo](https://github.com/christofferjerrebo)!
   - Change: Prefixing test extension files with 'test' to help debugging icon issues
 
-## 1.6.3 (September, 20, 2018)
+## 1.6.3 (September 20, 2018)
   - Fix: CSApplication icon is now used for .csproj file extensions instead of file name.
 
 ## 1.6.2 (April 20, 2018)

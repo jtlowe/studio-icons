@@ -292,10 +292,12 @@
 			"iconPath": "ConfigurationFile_16x.svg",
 			"fileExtensions": [
 				"config",
-				"conf"
+				"conf",
+				"cfg"
 			],
 			"fileNames": [
-				".editorconfig"
+				".editorconfig",
+				"project.godot"
 			]
 		},
 		{
@@ -424,6 +426,12 @@
 				".gitattributes",
 				".gitmodules",
 				".gitkeep"
+			]
+		},
+		{
+			"iconPath": "Godot.svg",
+			"fileExtensions": [
+				"gd"
 			]
 		},
 		{
@@ -784,6 +792,12 @@
 			"fileNames": []
 		},
 		{
+			"iconPath": "Scene.svg",
+			"fileExtensions": [
+				"tscn"
+			]
+		},
+		{
 			"iconPath": "Settings_16x.svg",
 			"fileExtensions": [
 				"settings"
@@ -802,6 +816,12 @@
 				".jshintignore",
 				"procfile",
 				".buildignore"
+			]
+		},
+		{
+			"iconPath": "ShaderMaterial.svg",
+			"fileExtensions": [
+				"material"
 			]
 		},
 		{

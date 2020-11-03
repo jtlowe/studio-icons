@@ -198,6 +198,24 @@
         "Document_16x_contrast.svg": {
             "iconPath": "./images/Document_16x_contrast.svg"
         },
+        "Elixir_16x.svg": {
+            "iconPath": "./images/Elixir_16x.svg"
+        },
+        "Elixir_16x_inverse.svg": {
+            "iconPath": "./images/Elixir_16x_inverse.svg"
+        },
+        "Elixir_16x_contrast.svg": {
+            "iconPath": "./images/Elixir_16x_contrast.svg"
+        },
+        "ElixirScript_16x.svg": {
+            "iconPath": "./images/ElixirScript_16x.svg"
+        },
+        "ElixirScript_16x_inverse.svg": {
+            "iconPath": "./images/ElixirScript_16x_inverse.svg"
+        },
+        "ElixirScript_16x_contrast.svg": {
+            "iconPath": "./images/ElixirScript_16x_contrast.svg"
+        },
         "Extension_16x.svg": {
             "iconPath": "./images/Extension_16x.svg"
         },
@@ -853,7 +871,7 @@
             "elc": "FOR_TEST_ONLY",
             "elv": "FOR_TEST_ONLY",
             "erl": "FOR_TEST_ONLY",
-            "ex": "FOR_TEST_ONLY",
+            "ex": "Elixir_16x.svg",
             "fasl": "FOR_TEST_ONLY",
             "fish": "FOR_TEST_ONLY",
             "go": "FOR_TEST_ONLY",
@@ -936,6 +954,7 @@
             "mdb": "Database_16x.svg",
             "sqlite": "Database_16x.svg",
             "pdb": "Database_16x.svg",
+            "exs": "ElixirScript_16x.svg",
             "vsix": "Extension_16x.svg",
             "manifest": "ExtensionManagerManifest_16x.svg",
             "resx": "FileGroup_16x.svg",
@@ -959,6 +978,8 @@
             "gd": "Godot.svg",
             "htm": "HTMLFile_16x.svg",
             "html": "HTMLFile_16x.svg",
+            "eex": "HTMLFile_16x.svg",
+            "leex": "HTMLFile_16x.svg",
             "ico": "Image_16x.svg",
             "png": "Image_16x.svg",
             "jpeg": "Image_16x.svg",
@@ -1194,7 +1215,7 @@
             "elc": "FOR_TEST_ONLY",
             "elv": "FOR_TEST_ONLY",
             "erl": "FOR_TEST_ONLY",
-            "ex": "FOR_TEST_ONLY",
+            "ex": "Elixir_16x_contrast.svg",
             "fasl": "FOR_TEST_ONLY",
             "fish": "FOR_TEST_ONLY",
             "go": "FOR_TEST_ONLY",
@@ -1277,6 +1298,7 @@
             "mdb": "Database_16x_contrast.svg",
             "sqlite": "Database_16x_contrast.svg",
             "pdb": "Database_16x_contrast.svg",
+            "exs": "ElixirScript_16x_contrast.svg",
             "vsix": "Extension_16x_contrast.svg",
             "manifest": "ExtensionManagerManifest_16x_contrast.svg",
             "resx": "FileGroup_16x_contrast.svg",
@@ -1300,6 +1322,8 @@
             "gd": "Godot_contrast.svg",
             "htm": "HTMLFile_16x_contrast.svg",
             "html": "HTMLFile_16x_contrast.svg",
+            "eex": "HTMLFile_16x_contrast.svg",
+            "leex": "HTMLFile_16x_contrast.svg",
             "ico": "Image_16x_contrast.svg",
             "png": "Image_16x_contrast.svg",
             "jpeg": "Image_16x_contrast.svg",
@@ -1534,7 +1558,7 @@
         "elc": "FOR_TEST_ONLY",
         "elv": "FOR_TEST_ONLY",
         "erl": "FOR_TEST_ONLY",
-        "ex": "FOR_TEST_ONLY",
+        "ex": "Elixir_16x_inverse.svg",
         "fasl": "FOR_TEST_ONLY",
         "fish": "FOR_TEST_ONLY",
         "go": "FOR_TEST_ONLY",
@@ -1617,6 +1641,7 @@
         "mdb": "Database_16x_inverse.svg",
         "sqlite": "Database_16x_inverse.svg",
         "pdb": "Database_16x_inverse.svg",
+        "exs": "ElixirScript_16x_inverse.svg",
         "vsix": "Extension_16x_inverse.svg",
         "manifest": "ExtensionManagerManifest_16x_inverse.svg",
         "resx": "FileGroup_16x_inverse.svg",
@@ -1640,6 +1665,8 @@
         "gd": "Godot_inverse.svg",
         "htm": "HTMLFile_16x_inverse.svg",
         "html": "HTMLFile_16x_inverse.svg",
+        "eex": "HTMLFile_16x_inverse.svg",
+        "leex": "HTMLFile_16x_inverse.svg",
         "ico": "Image_16x_inverse.svg",
         "png": "Image_16x_inverse.svg",
         "jpeg": "Image_16x_inverse.svg",

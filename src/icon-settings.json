@@ -352,6 +352,20 @@
 			"fileNames": []
 		},
 		{
+			"iconPath": "Elixir_16x.svg",
+			"fileExtensions": [
+				"ex"
+			],
+			"fileNames": []
+		},
+		{
+			"iconPath": "ElixirScript_16x.svg",
+			"fileExtensions": [
+				"exs"
+			],
+			"fileNames": []
+		},
+		{
 			"iconPath": "Extension_16x.svg",
 			"fileExtensions": [
 				"vsix"
@@ -438,7 +452,9 @@
 			"iconPath": "HTMLFile_16x.svg",
 			"fileExtensions": [
 				"htm",
-				"html"
+				"html",
+				"eex",
+				"leex"
 			],
 			"fileNames": []
 		},

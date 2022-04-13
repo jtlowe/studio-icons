@@ -180,6 +180,15 @@
         "CursorFile_16x_contrast.svg": {
             "iconPath": "./images/CursorFile_16x_contrast.svg"
         },
+        "Dart_16x.svg": {
+            "iconPath": "./images/Dart_16x.svg"
+        },
+        "Dart_16x_inverse.svg": {
+            "iconPath": "./images/Dart_16x_inverse.svg"
+        },
+        "Dart_16x_contrast.svg": {
+            "iconPath": "./images/Dart_16x_contrast.svg"
+        },
         "Database_16x.svg": {
             "iconPath": "./images/Database_16x.svg"
         },
@@ -908,8 +917,8 @@
             "tex": "FOR_TEST_ONLY",
             "vb": "FOR_TEST_ONLY",
             "vue": "FOR_TEST_ONLY",
-            "yaml": "FOR_TEST_ONLY",
-            "yml": "FOR_TEST_ONLY",
+            "yaml": "SettingsFile_16x.svg",
+            "yml": "SettingsFile_16x.svg",
             "zsh": "FOR_TEST_ONLY",
             "indd": "AdobeIndesign_16x.svg",
             "indl": "AdobeIndesign_16x.svg",
@@ -950,6 +959,7 @@
             "vcxproj": "CPPApplication_16x.svg",
             "csproj": "CSApplication_16x.svg",
             "cur": "CursorFile_16x.svg",
+            "dart": "Dart_16x.svg",
             "sql": "Database_16x.svg",
             "mdb": "Database_16x.svg",
             "sqlite": "Database_16x.svg",
@@ -1252,8 +1262,8 @@
             "tex": "FOR_TEST_ONLY",
             "vb": "FOR_TEST_ONLY",
             "vue": "FOR_TEST_ONLY",
-            "yaml": "FOR_TEST_ONLY",
-            "yml": "FOR_TEST_ONLY",
+            "yaml": "SettingsFile_16x_contrast.svg",
+            "yml": "SettingsFile_16x_contrast.svg",
             "zsh": "FOR_TEST_ONLY",
             "indd": "AdobeIndesign_16x_contrast.svg",
             "indl": "AdobeIndesign_16x_contrast.svg",
@@ -1294,6 +1304,7 @@
             "vcxproj": "CPPApplication_16x_contrast.svg",
             "csproj": "CSApplication_16x_contrast.svg",
             "cur": "CursorFile_16x_contrast.svg",
+            "dart": "Dart_16x_contrast.svg",
             "sql": "Database_16x_contrast.svg",
             "mdb": "Database_16x_contrast.svg",
             "sqlite": "Database_16x_contrast.svg",
@@ -1595,8 +1606,8 @@
         "tex": "FOR_TEST_ONLY",
         "vb": "FOR_TEST_ONLY",
         "vue": "FOR_TEST_ONLY",
-        "yaml": "FOR_TEST_ONLY",
-        "yml": "FOR_TEST_ONLY",
+        "yaml": "SettingsFile_16x_inverse.svg",
+        "yml": "SettingsFile_16x_inverse.svg",
         "zsh": "FOR_TEST_ONLY",
         "indd": "AdobeIndesign_16x_inverse.svg",
         "indl": "AdobeIndesign_16x_inverse.svg",
@@ -1637,6 +1648,7 @@
         "vcxproj": "CPPApplication_16x_inverse.svg",
         "csproj": "CSApplication_16x_inverse.svg",
         "cur": "CursorFile_16x_inverse.svg",
+        "dart": "Dart_16x_inverse.svg",
         "sql": "Database_16x_inverse.svg",
         "mdb": "Database_16x_inverse.svg",
         "sqlite": "Database_16x_inverse.svg",

@@ -337,6 +337,13 @@
 			"fileNames": []
 		},
 		{
+			"iconPath": "Dart_16x.svg",
+			"fileExtensions": [
+				"dart"
+			],
+			"fileNames": []
+		},
+		{
 			"iconPath": "Database_16x.svg",
 			"fileExtensions": [
 				"sql",
@@ -826,7 +833,9 @@
 				"ini",
 				"dlc",
 				"dll",
-				"toml"
+				"toml",
+				"yaml",
+				"yml"
 			],
 			"fileNames": [
 				".jshintignore",

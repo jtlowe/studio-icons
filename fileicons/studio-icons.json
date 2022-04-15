@@ -612,6 +612,15 @@
         "PY_16x_contrast.svg": {
             "iconPath": "./images/PY_16x_contrast.svg"
         },
+        "Racket_16x.svg": {
+            "iconPath": "./images/Racket_16x.svg"
+        },
+        "Racket_16x_inverse.svg": {
+            "iconPath": "./images/Racket_16x_inverse.svg"
+        },
+        "Racket_16x_contrast.svg": {
+            "iconPath": "./images/Racket_16x_contrast.svg"
+        },
         "Reference_16x.svg": {
             "iconPath": "./images/Reference_16x.svg"
         },
@@ -1088,6 +1097,7 @@
             "props": "Property_16x.svg",
             "pug": "PugScript_16x.svg",
             "py": "PY_16x.svg",
+            "rkt": "Racket_16x.svg",
             "rb": "RB_FileSENode_16x.svg",
             "rs": "RustFile_16x.svg",
             "rlib": "RustFile_16x.svg",
@@ -1433,6 +1443,7 @@
             "props": "Property_16x_contrast.svg",
             "pug": "PugScript_16x_contrast.svg",
             "py": "PY_16x_contrast.svg",
+            "rkt": "Racket_16x_contrast.svg",
             "rb": "RB_FileSENode_16x_contrast.svg",
             "rs": "RustFile_16x_contrast.svg",
             "rlib": "RustFile_16x_contrast.svg",
@@ -1777,6 +1788,7 @@
         "props": "Property_16x_inverse.svg",
         "pug": "PugScript_16x_inverse.svg",
         "py": "PY_16x_inverse.svg",
+        "rkt": "Racket_16x_inverse.svg",
         "rb": "RB_FileSENode_16x_inverse.svg",
         "rs": "RustFile_16x_inverse.svg",
         "rlib": "RustFile_16x_inverse.svg",

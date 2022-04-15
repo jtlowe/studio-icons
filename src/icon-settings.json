@@ -781,6 +781,13 @@
 			"fileNames": []
 		},
 		{
+			"iconPath": "Racket_16x.svg",
+			"fileExtensions": [
+				"rkt"
+			],
+			"fileNames": []
+		},
+		{
 			"iconPath": "Reference_16x.svg",
 			"fileExtensions": [],
 			"fileNames": [],

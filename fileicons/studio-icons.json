@@ -504,6 +504,15 @@
         "NodeJS_16x_contrast.svg": {
             "iconPath": "./images/NodeJS_16x_contrast.svg"
         },
+        "Ocaml_16x.svg": {
+            "iconPath": "./images/Ocaml_16x.svg"
+        },
+        "Ocaml_16x_inverse.svg": {
+            "iconPath": "./images/Ocaml_16x_inverse.svg"
+        },
+        "Ocaml_16x_contrast.svg": {
+            "iconPath": "./images/Ocaml_16x_contrast.svg"
+        },
         "OfficeAccess2013Logo_16x.svg": {
             "iconPath": "./images/OfficeAccess2013Logo_16x.svg"
         },
@@ -1075,6 +1084,7 @@
             "mpe": "Media_16x.svg",
             "mpv": "Media_16x.svg",
             "m2v": "Media_16x.svg",
+            "ml": "Ocaml_16x.svg",
             "accdb": "OfficeAccess2013Logo_16x.svg",
             "accda": "OfficeAccess2013Logo_16x.svg",
             "accde": "OfficeAccess2013Logo_16x.svg",
@@ -1421,6 +1431,7 @@
             "mpe": "Media_16x_contrast.svg",
             "mpv": "Media_16x_contrast.svg",
             "m2v": "Media_16x_contrast.svg",
+            "ml": "Ocaml_16x_contrast.svg",
             "accdb": "OfficeAccess2013Logo_16x_contrast.svg",
             "accda": "OfficeAccess2013Logo_16x_contrast.svg",
             "accde": "OfficeAccess2013Logo_16x_contrast.svg",
@@ -1766,6 +1777,7 @@
         "mpe": "Media_16x_inverse.svg",
         "mpv": "Media_16x_inverse.svg",
         "m2v": "Media_16x_inverse.svg",
+        "ml": "Ocaml_16x_inverse.svg",
         "accdb": "OfficeAccess2013Logo_16x_inverse.svg",
         "accda": "OfficeAccess2013Logo_16x_inverse.svg",
         "accde": "OfficeAccess2013Logo_16x_inverse.svg",

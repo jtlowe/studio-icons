@@ -680,6 +680,13 @@
 			]
 		},
 		{
+			"iconPath": "Ocaml_16x.svg",
+			"fileExtensions": [
+				"ml"
+			],
+			"fileNames": []
+		},
+		{
 			"iconPath": "OfficeAccess2013Logo_16x.svg",
 			"fileExtensions": [
 				"accdb",

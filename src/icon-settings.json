@@ -236,6 +236,13 @@
 			"fileNames": []
 		},
 		{
+			"iconPath": "Blueprint_16x.svg",
+			"fileExtensions": [
+				"blp"
+			],
+			"fileNames": []
+		},
+		{
 			"iconPath": "BuildStyle_16x.svg",
 			"fileExtensions": [
 				"styl"

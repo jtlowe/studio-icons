@@ -72,6 +72,15 @@
         "AssemblerSourceFile_16x_contrast.svg": {
             "iconPath": "./images/AssemblerSourceFile_16x_contrast.svg"
         },
+        "Blueprint_16x.svg": {
+            "iconPath": "./images/Blueprint_16x.svg"
+        },
+        "Blueprint_16x_inverse.svg": {
+            "iconPath": "./images/Blueprint_16x_inverse.svg"
+        },
+        "Blueprint_16x_contrast.svg": {
+            "iconPath": "./images/Blueprint_16x_contrast.svg"
+        },
         "BuildStyle_16x.svg": {
             "iconPath": "./images/BuildStyle_16x.svg"
         },
@@ -956,6 +965,7 @@
             "aspx": "ASPXFile_16x.svg",
             "asm": "AssemblerSourceFile_16x.svg",
             "s": "AssemblerSourceFile_16x.svg",
+            "blp": "Blueprint_16x.svg",
             "styl": "BuildStyle_16x.svg",
             "cc": "CFile_16x_color.svg",
             "cpp": "CPP_16x.svg",
@@ -1303,6 +1313,7 @@
             "aspx": "ASPXFile_16x_contrast.svg",
             "asm": "AssemblerSourceFile_16x_contrast.svg",
             "s": "AssemblerSourceFile_16x_contrast.svg",
+            "blp": "Blueprint_16x_contrast.svg",
             "styl": "BuildStyle_16x_contrast.svg",
             "cc": "CFile_16x_color_contrast.svg",
             "cpp": "CPP_16x_contrast.svg",
@@ -1649,6 +1660,7 @@
         "aspx": "ASPXFile_16x_inverse.svg",
         "asm": "AssemblerSourceFile_16x_inverse.svg",
         "s": "AssemblerSourceFile_16x_inverse.svg",
+        "blp": "Blueprint_16x_inverse.svg",
         "styl": "BuildStyle_16x_inverse.svg",
         "cc": "CFile_16x_color_inverse.svg",
         "cpp": "CPP_16x_inverse.svg",

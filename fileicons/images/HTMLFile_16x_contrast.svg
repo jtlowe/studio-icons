@@ -1,27 +1,16 @@
-<?xml version="1.0" encoding="iso-8859-1"?>
-<!-- Generator: Adobe Illustrator 20.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve">
-<g id="outline">
-	<rect y="0" style="opacity:0;fill:#000000;" width="16" height="16"/>
-	<path style="fill:#000000;" d="M12.023,0H5.964C5.012,0,4,0.701,4,2v3.77v2.816l-4,4v0.828L2.586,16h6.828l2-2h1.503h1.048
-		c1.442,0,2.007-1.175,2.035-2V3.552L12.023,0z"/>
-</g>
-<g id="icon_x5F_bg">
-	<g>
-		<g>
-			<circle style="fill:#FFFFFF;" cx="6.042" cy="13" r="2"/>
-		</g>
-	</g>
-	<g>
-		<g>
-			<path style="fill:#FFFFFF;" d="M9,11v1l1,1l-1,1v1l2-2L9,11z M3,15v-1l-1-1l1-1v-1l-2,2L3,15z"/>
-		</g>
-	</g>
-	<path style="fill:#FFFFFF;" d="M11.641,1H5.964C5.964,1,5,1,5,2c0,0.573,0,4.093,0,7h1V2h5v3h3v7h-2v1c0.932,0,1.686,0,1.965,0
-		c1,0,1.035-1,1.035-1V4L11.641,1z"/>
-</g>
-<g id="icon_x5F_fg">
-	<polygon style="fill:#000000;" points="11,5 11,2 6,2 6,10 8,10 8,8.586 11.414,12 14,12 14,5 	"/>
-</g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+  <defs>
+    <style>.canvas{fill: none; opacity: 0;}.light-defaultgrey-10{fill: #212121; opacity: 0.1;}.light-defaultgrey{fill: #212121; opacity: 1;}.cls-1{opacity:0.75;}</style>
+  </defs>
+  <title>IconLightHTMLFile</title>
+  <g id="canvas">
+    <path class="canvas" d="M16,16H0V0H16Z" />
+  </g>
+  <g id="level-1">
+    <g class="cls-1">
+      <path class="light-defaultgrey-10" d="M13.5,4.5v10H10.615l1.234-1.226v-1.54L8.658,8.555,6.836,10.388a2.494,2.494,0,0,0-2.675,0L2.5,8.737V1.5h8Z" />
+      <path class="light-defaultgrey" d="M14,4.5v10l-.5.5H10.112l1.006-1H13V5H10V2H3V9.235l-.684-.68L2,8.873V1.5L2.5,1h8l.354.146,3,3Z" />
+    </g>
+    <path class="light-defaultgrey" d="M1.212,12.5l1.816,1.82-.707.707L.152,12.854v-.706L2.32,9.969l.709.705Zm9.637-.351v.709L8.661,15.031l-.7-.709L9.787,12.5,7.956,10.679l.7-.709ZM5.5,11A1.5,1.5,0,1,0,7,12.5,1.5,1.5,0,0,0,5.5,11Zm0,2a.5.5,0,1,1,.5-.5A.5.5,0,0,1,5.5,13Z" />
+  </g>
 </svg>

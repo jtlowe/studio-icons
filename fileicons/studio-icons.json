@@ -207,6 +207,15 @@
         "Database_16x_contrast.svg": {
             "iconPath": "./images/Database_16x_contrast.svg"
         },
+        "DGSLFile_16x.svg": {
+            "iconPath": "./images/DGSLFile_16x.svg"
+        },
+        "DGSLFile_16x_inverse.svg": {
+            "iconPath": "./images/DGSLFile_16x_inverse.svg"
+        },
+        "DGSLFile_16x_contrast.svg": {
+            "iconPath": "./images/DGSLFile_16x_contrast.svg"
+        },
         "Document_16x.svg": {
             "iconPath": "./images/Document_16x.svg"
         },
@@ -765,15 +774,6 @@
         "Table_16x_contrast.svg": {
             "iconPath": "./images/Table_16x_contrast.svg"
         },
-        "Text_16x.svg": {
-            "iconPath": "./images/Text_16x.svg"
-        },
-        "Text_16x_inverse.svg": {
-            "iconPath": "./images/Text_16x_inverse.svg"
-        },
-        "Text_16x_contrast.svg": {
-            "iconPath": "./images/Text_16x_contrast.svg"
-        },
         "TextFile_16x.svg": {
             "iconPath": "./images/TextFile_16x.svg"
         },
@@ -782,6 +782,15 @@
         },
         "TextFile_16x_contrast.svg": {
             "iconPath": "./images/TextFile_16x_contrast.svg"
+        },
+        "MarkdownFile_16x.svg": {
+            "iconPath": "./images/MarkdownFile_16x.svg"
+        },
+        "MarkdownFile_16x_inverse.svg": {
+            "iconPath": "./images/MarkdownFile_16x_inverse.svg"
+        },
+        "MarkdownFile_16x_contrast.svg": {
+            "iconPath": "./images/MarkdownFile_16x_contrast.svg"
         },
         "VBApplication_16x.svg": {
             "iconPath": "./images/VBApplication_16x.svg"
@@ -854,6 +863,15 @@
         },
         "WebUserControl_16x_contrast.svg": {
             "iconPath": "./images/WebUserControl_16x_contrast.svg"
+        },
+        "WGSL_16x.svg": {
+            "iconPath": "./images/WGSL_16x.svg"
+        },
+        "WGSL_16x_inverse.svg": {
+            "iconPath": "./images/WGSL_16x_inverse.svg"
+        },
+        "WGSL_16x_contrast.svg": {
+            "iconPath": "./images/WGSL_16x_contrast.svg"
         },
         "XMLFile_16x.svg": {
             "iconPath": "./images/XMLFile_16x.svg"
@@ -970,6 +988,7 @@
             "cc": "CFile_16x_color.svg",
             "cpp": "CPP_16x.svg",
             "cxx": "CPP_16x.svg",
+            "ino": "CPP_16x.svg",
             "h": "CPPHeaderFile_16x.svg",
             "hpp": "CPPHeaderFile_16x.svg",
             "cs": "CS_16x.svg",
@@ -992,6 +1011,11 @@
             "mdb": "Database_16x.svg",
             "sqlite": "Database_16x.svg",
             "pdb": "Database_16x.svg",
+            "vert": "DGSLFile_16x.svg",
+            "frag": "DGSLFile_16x.svg",
+            "comp": "DGSLFile_16x.svg",
+            "glsl": "DGSLFile_16x.svg",
+            "hlsl": "DGSLFile_16x.svg",
             "exs": "ElixirScript_16x.svg",
             "vsix": "Extension_16x.svg",
             "manifest": "ExtensionManagerManifest_16x.svg",
@@ -1139,10 +1163,11 @@
             "xlsx": "Table_16x.svg",
             "xls": "Table_16x.svg",
             "csv": "Table_16x.svg",
-            "txt": "Text_16x.svg",
-            "rtf": "Text_16x.svg",
-            "md": "TextFile_16x.svg",
-            "md.rendered": "TextFile_16x.svg",
+            "txt": "TextFile_16x.svg",
+            "rtf": "TextFile_16x.svg",
+            "log": "TextFile_16x.svg",
+            "md": "MarkdownFile_16x.svg",
+            "md.rendered": "MarkdownFile_16x.svg",
             "vbproj": "VBApplication_16x.svg",
             "vdi": "VirtualMachine_16x.svg",
             "vbox": "VirtualMachine_16x.svg",
@@ -1153,6 +1178,7 @@
             "asmx": "WebService_16x.svg",
             "url": "WebURL_16x.svg",
             "ascx": "WebUserControl_16x.svg",
+            "wgsl": "WGSL_16x.svg",
             "xml": "XMLFile_16x.svg",
             "dtd": "XMLFile_16x.svg",
             "iml": "XMLFile_16x.svg",
@@ -1197,6 +1223,8 @@
             "androidmanifest.xml": "AndroidFile_16x.svg",
             "license": "Certificate_16x.svg",
             "license.md": "Certificate_16x.svg",
+            "LICENE.md": "Certificate_16x.svg",
+            "LICENSE.txt": "Certificate_16x.svg",
             "license.md.rendered": "Certificate_16x.svg",
             "license.txt": "Certificate_16x.svg",
             ".editorconfig": "ConfigurationFile_16x.svg",
@@ -1318,6 +1346,7 @@
             "cc": "CFile_16x_color_contrast.svg",
             "cpp": "CPP_16x_contrast.svg",
             "cxx": "CPP_16x_contrast.svg",
+            "ino": "CPP_16x_contrast.svg",
             "h": "CPPHeaderFile_16x_contrast.svg",
             "hpp": "CPPHeaderFile_16x_contrast.svg",
             "cs": "CS_16x_contrast.svg",
@@ -1340,6 +1369,11 @@
             "mdb": "Database_16x_contrast.svg",
             "sqlite": "Database_16x_contrast.svg",
             "pdb": "Database_16x_contrast.svg",
+            "vert": "DGSLFile_16x_contrast.svg",
+            "frag": "DGSLFile_16x_contrast.svg",
+            "comp": "DGSLFile_16x_contrast.svg",
+            "glsl": "DGSLFile_16x_contrast.svg",
+            "hlsl": "DGSLFile_16x_contrast.svg",
             "exs": "ElixirScript_16x_contrast.svg",
             "vsix": "Extension_16x_contrast.svg",
             "manifest": "ExtensionManagerManifest_16x_contrast.svg",
@@ -1487,10 +1521,11 @@
             "xlsx": "Table_16x_contrast.svg",
             "xls": "Table_16x_contrast.svg",
             "csv": "Table_16x_contrast.svg",
-            "txt": "Text_16x_contrast.svg",
-            "rtf": "Text_16x_contrast.svg",
-            "md": "TextFile_16x_contrast.svg",
-            "md.rendered": "TextFile_16x_contrast.svg",
+            "txt": "TextFile_16x_contrast.svg",
+            "rtf": "TextFile_16x_contrast.svg",
+            "log": "TextFile_16x_contrast.svg",
+            "md": "MarkdownFile_16x_contrast.svg",
+            "md.rendered": "MarkdownFile_16x_contrast.svg",
             "vbproj": "VBApplication_16x_contrast.svg",
             "vdi": "VirtualMachine_16x_contrast.svg",
             "vbox": "VirtualMachine_16x_contrast.svg",
@@ -1501,6 +1536,7 @@
             "asmx": "WebService_16x_contrast.svg",
             "url": "WebURL_16x_contrast.svg",
             "ascx": "WebUserControl_16x_contrast.svg",
+            "wgsl": "WGSL_16x_contrast.svg",
             "xml": "XMLFile_16x_contrast.svg",
             "dtd": "XMLFile_16x_contrast.svg",
             "iml": "XMLFile_16x_contrast.svg",
@@ -1545,6 +1581,8 @@
             "androidmanifest.xml": "AndroidFile_16x_contrast.svg",
             "license": "Certificate_16x_contrast.svg",
             "license.md": "Certificate_16x_contrast.svg",
+            "LICENE.md": "Certificate_16x_contrast.svg",
+            "LICENSE.txt": "Certificate_16x_contrast.svg",
             "license.md.rendered": "Certificate_16x_contrast.svg",
             "license.txt": "Certificate_16x_contrast.svg",
             ".editorconfig": "ConfigurationFile_16x_contrast.svg",
@@ -1665,6 +1703,7 @@
         "cc": "CFile_16x_color_inverse.svg",
         "cpp": "CPP_16x_inverse.svg",
         "cxx": "CPP_16x_inverse.svg",
+        "ino": "CPP_16x_inverse.svg",
         "h": "CPPHeaderFile_16x_inverse.svg",
         "hpp": "CPPHeaderFile_16x_inverse.svg",
         "cs": "CS_16x_inverse.svg",
@@ -1687,6 +1726,11 @@
         "mdb": "Database_16x_inverse.svg",
         "sqlite": "Database_16x_inverse.svg",
         "pdb": "Database_16x_inverse.svg",
+        "vert": "DGSLFile_16x_inverse.svg",
+        "frag": "DGSLFile_16x_inverse.svg",
+        "comp": "DGSLFile_16x_inverse.svg",
+        "glsl": "DGSLFile_16x_inverse.svg",
+        "hlsl": "DGSLFile_16x_inverse.svg",
         "exs": "ElixirScript_16x_inverse.svg",
         "vsix": "Extension_16x_inverse.svg",
         "manifest": "ExtensionManagerManifest_16x_inverse.svg",
@@ -1834,10 +1878,11 @@
         "xlsx": "Table_16x_inverse.svg",
         "xls": "Table_16x_inverse.svg",
         "csv": "Table_16x_inverse.svg",
-        "txt": "Text_16x_inverse.svg",
-        "rtf": "Text_16x_inverse.svg",
-        "md": "TextFile_16x_inverse.svg",
-        "md.rendered": "TextFile_16x_inverse.svg",
+        "txt": "TextFile_16x_inverse.svg",
+        "rtf": "TextFile_16x_inverse.svg",
+        "log": "TextFile_16x_inverse.svg",
+        "md": "MarkdownFile_16x_inverse.svg",
+        "md.rendered": "MarkdownFile_16x_inverse.svg",
         "vbproj": "VBApplication_16x_inverse.svg",
         "vdi": "VirtualMachine_16x_inverse.svg",
         "vbox": "VirtualMachine_16x_inverse.svg",
@@ -1848,6 +1893,7 @@
         "asmx": "WebService_16x_inverse.svg",
         "url": "WebURL_16x_inverse.svg",
         "ascx": "WebUserControl_16x_inverse.svg",
+        "wgsl": "WGSL_16x_inverse.svg",
         "xml": "XMLFile_16x_inverse.svg",
         "dtd": "XMLFile_16x_inverse.svg",
         "iml": "XMLFile_16x_inverse.svg",
@@ -1892,6 +1938,8 @@
         "androidmanifest.xml": "AndroidFile_16x_inverse.svg",
         "license": "Certificate_16x_inverse.svg",
         "license.md": "Certificate_16x_inverse.svg",
+        "LICENE.md": "Certificate_16x_inverse.svg",
+        "LICENSE.txt": "Certificate_16x_inverse.svg",
         "license.md.rendered": "Certificate_16x_inverse.svg",
         "license.txt": "Certificate_16x_inverse.svg",
         ".editorconfig": "ConfigurationFile_16x_inverse.svg",

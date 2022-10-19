@@ -261,7 +261,8 @@
 			"iconPath": "CPP_16x.svg",
 			"fileExtensions": [
 				"cpp",
-				"cxx"
+				"cxx",
+				"ino"
 			],
 			"fileNames": []
 		},
@@ -291,6 +292,8 @@
 			"fileNames": [
 				"license",
 				"license.md",
+				"LICENE.md",
+				"LICENSE.txt",
 				"license.md.rendered",
 				"license.txt"
 			]
@@ -357,6 +360,17 @@
 				"mdb",
 				"sqlite",
 				"pdb"
+			],
+			"fileNames": []
+		},
+		{
+			"iconPath": "DGSLFile_16x.svg",
+			"fileExtensions": [
+				"vert",
+				"frag",
+				"comp",
+				"glsl",
+				"hlsl"
 			],
 			"fileNames": []
 		},
@@ -917,15 +931,16 @@
 			"fileNames": []
 		},
 		{
-			"iconPath": "Text_16x.svg",
+			"iconPath": "TextFile_16x.svg",
 			"fileExtensions": [
 				"txt",
-				"rtf"
+				"rtf",
+				"log"
 			],
 			"fileNames": []
 		},
 		{
-			"iconPath": "TextFile_16x.svg",
+			"iconPath": "MarkdownFile_16x.svg",
 			"fileExtensions": [
 				"md",
 				"md.rendered"
@@ -986,6 +1001,13 @@
 			"iconPath": "WebUserControl_16x.svg",
 			"fileExtensions": [
 				"ascx"
+			],
+			"fileNames": []
+		},
+		{
+			"iconPath": "WGSL_16x.svg",
+			"fileExtensions": [
+				"wgsl"
 			],
 			"fileNames": []
 		},

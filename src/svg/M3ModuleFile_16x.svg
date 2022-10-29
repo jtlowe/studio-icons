@@ -1,5 +1,5 @@
 <svg viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
-  <path d="M4 1v1c-1.108 0-2 .892-2 2H1v9h1c0 1.108.892 2 2 2v1h9v-1c1.108 0 2-.892 2-2h1V4h-1c0-1.108-.892-2-2-2V1H4z" fill="#f6f6f6"/>
-  <path d="M5 2v1h-.9C3.49 3 3 3.49 3 4.1V5H2v1h1v1H2v1h1v1H2v1h1v1H2v1h1v.9c0 .61.49 1.1 1.1 1.1H5v1h1v-1h1v1h1v-1h1v1h1v-1h1v1h1v-1h.9c.61 0 1.1-.49 1.1-1.1V12h1v-1h-1v-1h1V9h-1V8h1V7h-1V6h1V5h-1v-.9c0-.61-.49-1.1-1.1-1.1H12V2h-1v1h-1V2H9v1H8V2H7v1H6V2H5zM4 4h9v9H4V4z" fill="#424242"/>
-  <rect width="2" height="2" x="10" y="10" rx="1" fill="#424242"/>
+  <path d="M4 1v1c-1.108 0-2 .892-2 2H1v9h1c0 1.108.892 2 2 2v1h9v-1c1.108 0 2-.892 2-2h1V4h-1c0-1.108-.892-2-2-2V1H4z" style="fill:#F6F6F6"/>
+  <path d="M5 2v1h-.9C3.49 3 3 3.49 3 4.1V5H2v1h1v1H2v1h1v1H2v1h1v1H2v1h1v.9c0 .61.49 1.1 1.1 1.1H5v1h1v-1h1v1h1v-1h1v1h1v-1h1v1h1v-1h.9c.61 0 1.1-.49 1.1-1.1V12h1v-1h-1v-1h1V9h-1V8h1V7h-1V6h1V5h-1v-.9c0-.61-.49-1.1-1.1-1.1H12V2h-1v1h-1V2H9v1H8V2H7v1H6V2H5zM4 4h9v9H4V4z" style="fill:#424242"/>
+  <rect width="2" height="2" x="10" y="10" rx="1" style="fill:#424242"/>
 </svg>

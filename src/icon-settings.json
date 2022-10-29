@@ -159,6 +159,7 @@
 				"gulpfile",
 				"install",
 				"m3makefile",
+				"m3overrides",
 				"mak",
 				"make",
 				"mk",
@@ -598,6 +599,7 @@
 				"cmakelists.txt",
 				"gnumakefile",
 				"m3makefile",
+				"m3overrides",
 				"mak",
 				"make",
 				"makefile"

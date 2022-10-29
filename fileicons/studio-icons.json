@@ -432,6 +432,42 @@
         "MakeFile_16x_contrast.svg": {
             "iconPath": "./images/MakeFile_16x_contrast.svg"
         },
+        "M3GenericInterfaceFile_16x.svg": {
+            "iconPath": "./images/M3GenericInterfaceFile_16x.svg"
+        },
+        "M3GenericInterfaceFile_16x_inverse.svg": {
+            "iconPath": "./images/M3GenericInterfaceFile_16x_inverse.svg"
+        },
+        "M3GenericInterfaceFile_16x_contrast.svg": {
+            "iconPath": "./images/M3GenericInterfaceFile_16x_contrast.svg"
+        },
+        "M3GenericModuleFile_16x.svg": {
+            "iconPath": "./images/M3GenericModuleFile_16x.svg"
+        },
+        "M3GenericModuleFile_16x_inverse.svg": {
+            "iconPath": "./images/M3GenericModuleFile_16x_inverse.svg"
+        },
+        "M3GenericModuleFile_16x_contrast.svg": {
+            "iconPath": "./images/M3GenericModuleFile_16x_contrast.svg"
+        },
+        "M3InterfaceFile_16x.svg": {
+            "iconPath": "./images/M3InterfaceFile_16x.svg"
+        },
+        "M3InterfaceFile_16x_inverse.svg": {
+            "iconPath": "./images/M3InterfaceFile_16x_inverse.svg"
+        },
+        "M3InterfaceFile_16x_contrast.svg": {
+            "iconPath": "./images/M3InterfaceFile_16x_contrast.svg"
+        },
+        "M3ModuleFile_16x.svg": {
+            "iconPath": "./images/M3ModuleFile_16x.svg"
+        },
+        "M3ModuleFile_16x_inverse.svg": {
+            "iconPath": "./images/M3ModuleFile_16x_inverse.svg"
+        },
+        "M3ModuleFile_16x_contrast.svg": {
+            "iconPath": "./images/M3ModuleFile_16x_contrast.svg"
+        },
         "MasterPage_16x.svg": {
             "iconPath": "./images/MasterPage_16x.svg"
         },
@@ -836,6 +872,8 @@
             "hs": "FOR_TEST_ONLY",
             "hxml": "FOR_TEST_ONLY",
             "hxx": "FOR_TEST_ONLY",
+            "i3": "M3InterfaceFile_16x.svg",
+            "ig": "M3GenericInterfaceFile_16x.svg",
             "jl": "FOR_TEST_ONLY",
             "l": "FOR_TEST_ONLY",
             "lhs": "FOR_TEST_ONLY",
@@ -843,7 +881,9 @@
             "litcoffee": "FOR_TEST_ONLY",
             "lsp": "FOR_TEST_ONLY",
             "lua": "FOR_TEST_ONLY",
+            "m3": "M3ModuleFile_16x.svg",
             "make": "MakeFile_16x.svg",
+            "mg": "M3GenericModuleFile_16x.svg",
             "mk": "MakeFile_16x.svg",
             "o": "FOR_TEST_ONLY",
             "otd": "FOR_TEST_ONLY",
@@ -1093,6 +1133,7 @@
             "gruntfile": "FOR_TEST_ONLY",
             "gulpfile": "FOR_TEST_ONLY",
             "install": "FOR_TEST_ONLY",
+            "m3makefile": "MakeFile_16x.svg",
             "mak": "MakeFile_16x.svg",
             "make": "MakeFile_16x.svg",
             "mk": "FOR_TEST_ONLY",
@@ -1172,6 +1213,8 @@
             "hs": "FOR_TEST_ONLY",
             "hxml": "FOR_TEST_ONLY",
             "hxx": "FOR_TEST_ONLY",
+            "i3": "M3InterfaceFile_16x_contrast.svg",
+            "ig": "M3GenericInterfaceFile_16x_contrast.svg",
             "jl": "FOR_TEST_ONLY",
             "l": "FOR_TEST_ONLY",
             "lhs": "FOR_TEST_ONLY",
@@ -1179,7 +1222,9 @@
             "litcoffee": "FOR_TEST_ONLY",
             "lsp": "FOR_TEST_ONLY",
             "lua": "FOR_TEST_ONLY",
+            "m3": "M3ModuleFile_16x_contrast.svg",
             "make": "MakeFile_16x_contrast.svg",
+            "mg": "M3GenericModuleFile_16x_contrast.svg",
             "mk": "MakeFile_16x_contrast.svg",
             "o": "FOR_TEST_ONLY",
             "otd": "FOR_TEST_ONLY",
@@ -1429,6 +1474,7 @@
             "gruntfile": "FOR_TEST_ONLY",
             "gulpfile": "FOR_TEST_ONLY",
             "install": "FOR_TEST_ONLY",
+            "m3makefile": "MakeFile_16x_contrast.svg",
             "mak": "MakeFile_16x_contrast.svg",
             "make": "MakeFile_16x_contrast.svg",
             "mk": "FOR_TEST_ONLY",
@@ -1507,6 +1553,8 @@
         "hs": "FOR_TEST_ONLY",
         "hxml": "FOR_TEST_ONLY",
         "hxx": "FOR_TEST_ONLY",
+        "i3": "M3InterfaceFile_16x_inverse.svg",
+        "ig": "M3GenericInterfaceFile_16x_inverse.svg",
         "jl": "FOR_TEST_ONLY",
         "l": "FOR_TEST_ONLY",
         "lhs": "FOR_TEST_ONLY",
@@ -1514,7 +1562,9 @@
         "litcoffee": "FOR_TEST_ONLY",
         "lsp": "FOR_TEST_ONLY",
         "lua": "FOR_TEST_ONLY",
+        "m3": "M3ModuleFile_16x_inverse.svg",
         "make": "MakeFile_16x_inverse.svg",
+        "mg": "M3GenericModuleFile_16x_inverse.svg",
         "mk": "MakeFile_16x_inverse.svg",
         "o": "FOR_TEST_ONLY",
         "otd": "FOR_TEST_ONLY",
@@ -1764,6 +1814,7 @@
         "gruntfile": "FOR_TEST_ONLY",
         "gulpfile": "FOR_TEST_ONLY",
         "install": "FOR_TEST_ONLY",
+        "m3makefile": "MakeFile_16x_inverse.svg",
         "mak": "MakeFile_16x_inverse.svg",
         "make": "MakeFile_16x_inverse.svg",
         "mk": "FOR_TEST_ONLY",

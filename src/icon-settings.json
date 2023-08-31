@@ -529,6 +529,8 @@
 			"fileExtensions": [
 				"js",
 				"ejs",
+				"cjs",
+				"mjs",
 				"esx"
 			],
 			"fileNames": []

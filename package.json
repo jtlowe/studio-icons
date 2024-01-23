@@ -39,7 +39,8 @@
 		"color": "#e0e0e0",
 		"theme": "light"
 	},
-	"dependencies": {
-		"gulp": "^3.9.1"
+	"devDependencies": {
+		"gulp": "^4.0.2",
+		"vsce": "^1.75.0"
 	}
 }

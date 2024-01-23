@@ -236,6 +236,13 @@
 			"fileNames": []
 		},
 		{
+			"iconPath": "Blueprint_16x.svg",
+			"fileExtensions": [
+				"blp"
+			],
+			"fileNames": []
+		},
+		{
 			"iconPath": "BuildStyle_16x.svg",
 			"fileExtensions": [
 				"styl"
@@ -254,7 +261,8 @@
 			"iconPath": "CPP_16x.svg",
 			"fileExtensions": [
 				"cpp",
-				"cxx"
+				"cxx",
+				"ino"
 			],
 			"fileNames": []
 		},
@@ -284,6 +292,8 @@
 			"fileNames": [
 				"license",
 				"license.md",
+				"LICENE.md",
+				"LICENSE.txt",
 				"license.md.rendered",
 				"license.txt"
 			]
@@ -292,10 +302,12 @@
 			"iconPath": "ConfigurationFile_16x.svg",
 			"fileExtensions": [
 				"config",
-				"conf"
+				"conf",
+				"cfg"
 			],
 			"fileNames": [
-				".editorconfig"
+				".editorconfig",
+				"project.godot"
 			]
 		},
 		{
@@ -335,6 +347,13 @@
 			"fileNames": []
 		},
 		{
+			"iconPath": "Dart_16x.svg",
+			"fileExtensions": [
+				"dart"
+			],
+			"fileNames": []
+		},
+		{
 			"iconPath": "Database_16x.svg",
 			"fileExtensions": [
 				"sql",
@@ -345,8 +364,33 @@
 			"fileNames": []
 		},
 		{
+			"iconPath": "DGSLFile_16x.svg",
+			"fileExtensions": [
+				"vert",
+				"frag",
+				"comp",
+				"glsl",
+				"hlsl"
+			],
+			"fileNames": []
+		},
+		{
 			"iconPath": "Document_16x.svg",
 			"fileExtensions": [],
+			"fileNames": []
+		},
+		{
+			"iconPath": "Elixir_16x.svg",
+			"fileExtensions": [
+				"ex"
+			],
+			"fileNames": []
+		},
+		{
+			"iconPath": "ElixirScript_16x.svg",
+			"fileExtensions": [
+				"exs"
+			],
 			"fileNames": []
 		},
 		{
@@ -427,10 +471,18 @@
 			]
 		},
 		{
+			"iconPath": "Godot.svg",
+			"fileExtensions": [
+				"gd"
+			]
+		},
+		{
 			"iconPath": "HTMLFile_16x.svg",
 			"fileExtensions": [
 				"htm",
-				"html"
+				"html",
+				"eex",
+				"leex"
 			],
 			"fileNames": []
 		},
@@ -649,6 +701,13 @@
 			]
 		},
 		{
+			"iconPath": "Ocaml_16x.svg",
+			"fileExtensions": [
+				"ml"
+			],
+			"fileNames": []
+		},
+		{
 			"iconPath": "OfficeAccess2013Logo_16x.svg",
 			"fileExtensions": [
 				"accdb",
@@ -750,6 +809,13 @@
 			"fileNames": []
 		},
 		{
+			"iconPath": "Racket_16x.svg",
+			"fileExtensions": [
+				"rkt"
+			],
+			"fileNames": []
+		},
+		{
 			"iconPath": "Reference_16x.svg",
 			"fileExtensions": [],
 			"fileNames": [],
@@ -784,6 +850,12 @@
 			"fileNames": []
 		},
 		{
+			"iconPath": "Scene.svg",
+			"fileExtensions": [
+				"tscn"
+			]
+		},
+		{
 			"iconPath": "Settings_16x.svg",
 			"fileExtensions": [
 				"settings"
@@ -796,12 +868,20 @@
 				"ini",
 				"dlc",
 				"dll",
-				"toml"
+				"toml",
+				"yaml",
+				"yml"
 			],
 			"fileNames": [
 				".jshintignore",
 				"procfile",
 				".buildignore"
+			]
+		},
+		{
+			"iconPath": "ShaderMaterial.svg",
+			"fileExtensions": [
+				"material"
 			]
 		},
 		{
@@ -851,15 +931,16 @@
 			"fileNames": []
 		},
 		{
-			"iconPath": "Text_16x.svg",
+			"iconPath": "TextFile_16x.svg",
 			"fileExtensions": [
 				"txt",
-				"rtf"
+				"rtf",
+				"log"
 			],
 			"fileNames": []
 		},
 		{
-			"iconPath": "TextFile_16x.svg",
+			"iconPath": "MarkdownFile_16x.svg",
 			"fileExtensions": [
 				"md",
 				"md.rendered"
@@ -920,6 +1001,13 @@
 			"iconPath": "WebUserControl_16x.svg",
 			"fileExtensions": [
 				"ascx"
+			],
+			"fileNames": []
+		},
+		{
+			"iconPath": "WGSL_16x.svg",
+			"fileExtensions": [
+				"wgsl"
 			],
 			"fileNames": []
 		},

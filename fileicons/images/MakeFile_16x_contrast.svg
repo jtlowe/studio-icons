@@ -1,25 +1,19 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve">
-<g id="outline">
-	<rect style="opacity:0;fill:#000000;" width="16" height="16"/>
-	<path style="fill:#000000;" d="M16,0H0v5v2v7v1c0,0,0,1,1.1,1C2.2,16,2,16,2,16h5.9c0,0,0.1,0,1.1,0c1,0,1-1,1-1v-1h6V0z"/>
-</g>
-<g id="icon_x5F_bg">
-	<g>
-		<polygon style="fill:#FFFFFF;" points="1,1 1,5 2,5 2,4 14,4 14,12 10,12 10,13 15,13 15,1 		"/>
-		<path style="fill:#FFFFFF;" d="M1,7C1,7.8,1,14,1,14s-0.1,1,1,1c1.1,0,5.1,0,6,0s1-0.9,1-0.9V9L6,6H2C2,6,1,6.1,1,7z M8,14H2V7h4
-			v2h2V14z"/>
-		<rect x="3" y="8" style="fill:#FFFFFF;" width="2" height="1"/>
-		<rect x="3" y="10" style="fill:#FFFFFF;" width="4" height="1"/>
-		<rect x="3" y="12" style="fill:#FFFFFF;" width="4" height="1"/>
-	</g>
-</g>
-<g id="icon_x5F_fg">
-	<g>
-		<polygon style="fill:#000000;" points="2,4 2,5 6.4,5 10,8.6 10,12 14,12 14,4 		"/>
-		<path style="fill:#000000;" d="M6,7H2v7h6V9H6V7z M3,8h2v1H3V8z M7,13H3v-1h4V13z M7,10v1H3v-1H7z"/>
-	</g>
-</g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+  <defs>
+    <style>.canvas{fill: none; opacity: 0;}.light-defaultgrey-10{fill: #212121; opacity: 0.1;}.light-defaultgrey{fill: #212121; opacity: 1;}.cls-1{opacity:0.75;}</style>
+  </defs>
+  <title>IconLightMakeFile</title>
+  <g id="canvas">
+    <path class="canvas" d="M16,16H0V0H16Z" />
+  </g>
+  <g id="level-1">
+    <g class="cls-1">
+      <path class="light-defaultgrey-10" d="M1.5,5V6H5.7l.72.3L8.7,8.58,9,9.3V13h5.5V5Z" />
+      <path class="light-defaultgrey" d="M14.5,5H1.5L1,5.5V6H14v7H9v1h5.5l.5-.5v-8Z" />
+    </g>
+    <path class="light-defaultgrey-10" d="M2,3V5H14V3Z" />
+    <path class="light-defaultgrey" d="M14.5,2H1.5L1,2.5v3l.5.5h13l.5-.5v-3ZM2,5V3H14V5Z" />
+    <path class="light-defaultgrey-10" d="M7.5,9.5v6H.5v-8h5Z" />
+    <path class="light-defaultgrey" d="M7.854,9.146l-2-2L5.5,7H.5L0,7.5v8l.5.5h7l.5-.5v-6ZM1,15V8H4.993v2H7v5Zm1-2H6v1H2Zm0-2v1H6V11ZM4,9H2v1H4Z" />
+  </g>
 </svg>

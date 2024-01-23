@@ -9,7 +9,7 @@ Featuring official icons from the [Visual Studio Image Library](https://msdn.mic
 
 ## Build
 
-Uses Yarn package manager and Gulp for build tasks. Current workflow:
+Uses Gulp for build tasks. Current workflow:
 
 1. Add .svg icon file to /src/svg/
 2. Add the icon info to /src/icon-settings.json
